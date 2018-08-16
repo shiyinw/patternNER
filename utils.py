@@ -5,6 +5,7 @@ import nltk
 from textblob import TextBlob
 import time
 import json
+import sys
 
 """
 ### Input
@@ -148,10 +149,15 @@ if __name__ == "__main__":
                 n += 1
                 if(n%100==0):
                     print(cnt, n, time.time() - time_start)
-        if(cnt % 10==0):
-            print (cnt, n, time.time()-time_start)
+        if(cnt % 1 == 0):
+            with open("pairs/matches1_" + str(cnt) + "_" + "_".join(p.split(" ")) + ".json", "w") as f:
+                json.dump(matches, f)
+                matches = []
 
-
-
-    with open("matches1.json", "w") as f:
+    with open("pairs/matches1_" + str(cnt) + "_final" + ".json", "w") as f:
         json.dump(matches, f)
+
+
+
+
+
