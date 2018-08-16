@@ -6,21 +6,8 @@ from textblob import TextBlob
 import time
 import json
 import sys
+from multiprocessing import Pool
 
-"""
-### Input
-detected pattern patternlist.xlsx
-tagged named entities (chemical, gene and fuzzy"O") train0_truth.tsv
-
-### Output
-confidence of patterns and named entities
-Then evaluate them by the matching them to train1.ner.txt
-
-### data location
-tagged file from fuzzy-ner: /shared/data/shizhi2/data_fuzzyCRF/case/train0_all.tsv, train1_all.tsv (edited) **train0_gene.tsv**, **train1_chem.tsv**
-ground truth: /shared/data/shizhi2/data_fuzzyCRF/bio-ner/**train0_all.tsv**, **train1_all.tsv** contain all the gene and chemical labels
-patternlist: **patternlist.xlsx**
-"""
 
 dirty = ["the", "other", "a", "an", "is", "are"]
 
@@ -30,6 +17,11 @@ def pmatch(id, pattern, document):
     """
 
     res = {"id":id, "content": pattern, "matches": []}
+
+    # process ) and ( in the pattern
+    pattern = pattern.replace(")", "\)")
+    pattern = pattern.replace("(", "\(")
+    pattern = pattern.replace(".", "\.")
 
     # generate re query for search
     match_query = re.sub('CHEMICAL|GENE|DISEASE', "(.*?)", pattern)
@@ -112,14 +104,25 @@ def load_text(filename):
 def load_pattern(filename):
     """
     :param filename:
-    :return: pattern list, such as {'PATTERN10': 'CHEMICAL therapy', 'PATTERN100': 'transcriptional activity of GENE'}
+    :return: pattern list, such as [('PATTERN10', 'CHEMICAL therapy'), ('PATTERN100', 'transcriptional activity of GENE')]
     """
-    pattern = {}
+    pattern = []
     df = pd.read_excel(filename, header=None, names=["id", "pattern"])
     for index, r in df.iterrows():
-        pattern[r["id"]] = r["pattern"]
+        pattern.append((r["id"],r["pattern"]))
     print("finish loading patterns: ", len(pattern))
     return pattern
+
+
+def load_wpattern(filename):
+    """
+    :param filename:
+    :return: pattern list
+    """
+    pattern = []
+    with open(filename, "r") as f:
+        for line in f:
+            line.split(" ")
 
 
 if __name__ == "__main__":
@@ -131,32 +134,7 @@ if __name__ == "__main__":
 
     ne = load_ne("180815/train1_all.tsv")  # named entities and their types
     docu = load_text("180815/train1.ner.txt")  # raw text document
-    pattern = load_pattern("180815/patternlist.xlsx") # patterns
-
-
-    matches = []
-    # matching patterns
-    time_start = time.time()
-    cnt = 0
-    n = 0
-    for i, p in pattern.items():
-        cnt += 1
-        print(p)
-        for s in docu:
-            match = pmatch(i, p, s)
-            if(match != None):
-                matches.append(match)
-                n += 1
-                if(n%100==0):
-                    print(cnt, n, time.time() - time_start)
-        if(cnt % 1 == 0):
-            with open("pairs/matches1_" + str(cnt) + "_" + "_".join(p.split(" ")) + ".json", "w") as f:
-                json.dump(matches, f)
-                matches = []
-
-    with open("pairs/matches1_" + str(cnt) + "_final" + ".json", "w") as f:
-        json.dump(matches, f)
-
+    patt = load_pattern("180815/patternlist.xlsx") # patterns
 
 
 
