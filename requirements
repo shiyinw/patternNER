@@ -4,3 +4,7 @@ re
 nltk
 textblob
 time
+multiprocessing
+sys
+json
+time
