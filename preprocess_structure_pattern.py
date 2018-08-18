@@ -1,5 +1,6 @@
 from utils import StructPatt
 import time
+import json
 
 """
 ### Input
@@ -30,13 +31,14 @@ word_matches = {}
 for i in patt:
     word_matches[str(i)]={"matches":[], "type":i[1], "cnt":i[2]}
     cnt += 1
+    q = ""
     for w in words:
-        m = structpatt.pmatch(i[0], w)
+        m, q = structpatt.pmatch(i[0], w)
         word_matches[str(i)]["matches"].extend(m)
-
+    print("query", q)
+    print("match", m)
     if(cnt%1==0):
         print(cnt, time.time()-start)
 
-
-
-print(word_matches)
+with open("stru_matches.json", "w") as f:
+    json.dump(word_matches, f)

@@ -205,7 +205,7 @@ class StructPatt:
         pos = list(re.finditer(query, string[0]))
         for p in pos:
             matches.append((string[1][:-1], p.group(0)))
-        return matches
+        return matches, query
 
 
 
