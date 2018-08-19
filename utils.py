@@ -40,6 +40,7 @@ class ContextPatt:
             self.context_segs = whole_context.split("\n")
         print("finish loading sentences from document: ", len(self.context_segs))
 
+
     def load_ne(self, filename):
         """
         :param filename:
@@ -185,19 +186,37 @@ class StructPatt:
         :return: entity names and types
         """
 
+
+
         self.words = []
+
         with open(filename, "r") as f:
+            type_e = ""
+            tmp = []
             for line in f:
                 segs = line.split("\t")
-                if(len(segs)!=2):
-                    # print(line)
-                    pass
-                else:
-                    self.words.append((segs[0], segs[1][:-1]))
+                if (len(segs) == 2):
+                    if (segs[1] == "O\n"):
+                        if (len(tmp) > 0):
+                            self.words.append(" ".join(tmp))
+                        tmp = []
+                        type_e = ""
+                    else:
+                        tmp.append(segs[0])
+                        if(type_e!="" and type_e!=segs[1][2:-1]):
+                            print(segs)
+                            print(tmp)
+                            print(type_e)
+                            type_e = segs[1][2:-1]
+                        else:
+                            type_e = segs[1][2:-1]
+
+
         print("finish loading words: ", len(self.words))
         return self.words
 
     def pmatch(self, pattern, string):
+        # check whether a string is a word
         matches = []
         query = pattern.replace("$W$ $W$", "$W$ $W$")
         query = query.replace("$W$ $W$", "$W$ $W$")
