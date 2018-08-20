@@ -29,15 +29,16 @@ cnt = 0
 
 word_matches = {}
 for i in patt:
-    word_matches[str(i)]={"matches":[], "type":i[1], "cnt":i[2]}
+    name = str(i[0])
+    word_matches[name]={"matches":[], "type":i[1], "cnt":i[2]}
     cnt += 1
     for w in structpatt.words:
         m, q = structpatt.pmatch(i[0], w)
-        word_matches[str(i)]["matches"].extend(m)
-    word_matches[str(i)]["matches"] = list(set(word_matches[str(i)]["matches"]))
+        word_matches[name]["matches"].extend(m)
+    word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
     print("pattern", i)
     print("query", q)
-    print("match", word_matches[str(i)]["matches"])
+    print("match", word_matches[name]["matches"])
     if(cnt%1==0):
         print(cnt, time.time()-start)
 
