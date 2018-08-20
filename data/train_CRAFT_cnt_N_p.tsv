@@ -1,0 +1,3823 @@
+$W$$N$	GENE	11849
+$W$ - $W$	GENE	2959
+$W$ - $N$	GENE	2844
+$W$$N$	Chemical	2239
+$W$ - $W$	Chemical	1789
+$W$$N$$W$	GENE	1438
+$W$$N$ $W$	GENE	1339
+$W$ - $W$ $W$	GENE	1118
+$N$ - $W$	Chemical	986
+$W$ - $N$ $W$	GENE	892
+$W$$N$$W$$N$	GENE	691
+$W$ - $N$	Chemical	679
+$W$ $W$$N$	GENE	664
+$W$ ( $N$ )	Chemical	533
+$W$ ( $N$ + )	Chemical	522
+$W$ ( $W$ )	Chemical	406
+$W$ - $W$ $W$ $W$	GENE	383
+( $N$ ) $W$	Chemical	316
+$W$ - $W$ $W$	Chemical	274
+$W$ $N$	GENE	266
+$W$$N$$W$	Chemical	265
+$W$$N$$W$$N$	Chemical	258
+$W$$N$ $W$ $W$	GENE	254
+$W$ $W$ - $W$ $W$	GENE	250
+$W$ ( + )	Chemical	236
+$W$ $N$	Chemical	230
+$W$ $W$$N$	Chemical	194
+$W$ - $N$$W$	GENE	185
+$W$ - $W$ - $W$	Chemical	182
+$W$ $W$ $N$	GENE	173
+$N$$W$	Chemical	169
+$W$$N$$W$ $W$	GENE	167
+$W$ $W$$N$ $W$	GENE	163
+$N$ , $N$ - $W$	Chemical	163
+$W$ - $W$$N$	GENE	159
+$W$ $W$ - $W$	GENE	148
+$W$ - $W$ $N$	GENE	146
+$W$ ( $N$ ) $W$ ( $N$ )	Chemical	136
+$W$ $W$ - $N$	GENE	135
+$N$ - $W$ - $W$	Chemical	134
+$N$$W$$N$	GENE	134
+$W$ $W$ $W$$N$	GENE	128
+$W$$N$ +	Chemical	126
+$W$ $W$ $W$ $N$	GENE	125
+$W$$N$$W$$N$ $W$	GENE	117
+$W$$N$ / $N$	GENE	117
+$W$ $W$ $W$ - $W$	GENE	114
+$N$ $W$ - $W$	Chemical	113
+$N$ - $W$ $W$	Chemical	111
+$W$ $W$ $W$ - $N$	GENE	107
+$W$$N$ - $W$	GENE	106
+$W$ $W$ - $W$	Chemical	106
+$W$ +	Chemical	104
+$W$ $N$ - $W$	GENE	98
+$W$ - $N$ - $W$	Chemical	95
+$W$$N$ - $N$	GENE	88
+$W$ / $W$ $W$	GENE	84
+$N$ - $W$ - $N$ - $W$	Chemical	84
+$W$ - $W$ - $W$ - $W$	Chemical	83
+( - ) - $W$	Chemical	81
+$W$ ( $W$ $W$ )	Chemical	80
+$W$ - $W$ $W$ $W$ $W$	GENE	78
+$W$ - $N$ $W$ $W$	GENE	78
+$W$ ( $N$ )	GENE	78
+$W$ ( $W$ ) $W$	Chemical	78
+$W$ $W$ - $W$ $W$ $W$	GENE	76
+$W$$N$ - $W$ $W$	GENE	74
+$W$$N$ . $N$	GENE	69
+$W$ ( $W$ )	GENE	69
+$W$ ( $N$ ) $W$	Chemical	68
+$W$ ( - )	Chemical	66
+$W$ / $W$	GENE	65
+$W$ - $W$ - $W$ $W$	GENE	63
+$W$ - $W$ - $W$	GENE	62
+$W$ $N$ $W$	GENE	61
+[ ( $N$ ) $W$ ] $W$	Chemical	58
+$W$$N$ ( + )	GENE	57
+$W$ $W$ $W$ $W$ $N$	GENE	53
+$W$ - $W$ - $N$	GENE	52
+$W$ ( $N$ ) $W$	GENE	52
+$W$$N$ $W$ $W$ $W$	GENE	51
+$W$ $W$ $W$ $W$$N$	GENE	50
+$W$ - $W$ $W$ - $W$ $W$	GENE	48
+$W$ $W$ $W$ - $W$ $W$	GENE	47
+$W$$N$ - $N$	Chemical	47
+$W$ - $W$$N$	Chemical	47
+$N$ , $N$ - $W$ - $N$ - $W$	Chemical	47
+$W$ [ $W$ ] $W$	Chemical	44
+$W$ - $W$ $W$ $W$	Chemical	44
+$N$$W$	GENE	43
+$N$ ' - $W$	Chemical	43
+$W$$N$ +	GENE	41
+$N$$W$ - $W$	Chemical	41
+$W$ ( $W$ - $W$ )	Chemical	41
+$N$$W$ $W$	GENE	40
+$W$$N$ - $W$$N$	GENE	40
+$W$ - $W$ $W$ $N$	GENE	39
+$W$ - $N$$W$	Chemical	38
+$W$ $W$ $N$ $W$	GENE	37
+$W$ $W$$N$$W$	GENE	36
+$W$ - $W$ $W$ - $N$	GENE	35
+$N$ - $W$$N$$W$ $W$	GENE	35
+$N$ , $N$ - $W$ $W$	Chemical	35
+$W$ - $W$ $W$$N$	GENE	34
+$W$ $W$ ( $N$ )	Chemical	33
+$W$ ( $W$ ) $W$	GENE	32
+$N$ - $W$	GENE	32
+$N$ , $N$ , $N$ - $W$	Chemical	32
+$W$$N$ ( - / - )	GENE	32
+$W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	32
+$W$$N$$W$ $W$ $W$	GENE	31
+$W$ $W$ - $N$ $W$	GENE	31
+$W$ - $W$$N$ $W$	GENE	31
+$N$ - $W$$N$ $W$	GENE	31
+$W$ $N$ - $N$	Chemical	31
+$W$ - $W$$N$$W$	GENE	31
+$N$ - $W$ - $N$ - $W$ $W$	Chemical	31
+$W$ - $N$ , $N$ - $W$	Chemical	31
+$W$ $W$ $W$$N$ $W$	GENE	29
+$W$ $N$$W$	GENE	29
+$W$$N$ - $W$	Chemical	29
+$W$ ( - / - )	GENE	29
+$W$ $N$ - $W$	Chemical	29
+$W$$N$ $W$$N$	Chemical	29
+( + ) - $W$	Chemical	28
+$W$$N$ ( - )	Chemical	28
+$W$ - $W$ $W$ - $W$	Chemical	27
+$W$ $W$ - $W$ $W$ $N$	GENE	27
+$W$ $W$ $W$ $N$ $W$	GENE	27
+$W$ $W$ $W$ $W$ - $N$	GENE	26
+$N$ , $N$ , $N$ , $N$ - $W$ - $W$ - $W$	Chemical	26
+$W$ $W$$N$$W$$N$	GENE	25
+$W$ - $N$$W$ $W$	GENE	24
+$W$ $W$$N$$W$ $W$	GENE	24
+$W$$N$$W$$N$$W$	GENE	24
+$W$ - $N$ - $W$ - $W$	Chemical	24
+( $W$ ) $W$	Chemical	23
+$W$ - $N$ - $W$ $W$	GENE	23
+$W$ $W$ $N$	Chemical	23
+$W$ ( $W$ ) - $N$	GENE	23
+$W$$N$ $N$$W$$N$	GENE	23
+$W$ - $N$ - $W$	GENE	22
+$N$$W$ $W$ $W$	GENE	22
+$W$ ( $N$ ) - $W$	Chemical	22
+$W$ . $W$ $W$ $W$	GENE	21
+$W$ ( $N$ - $N$ )	GENE	21
+$W$ () +	Chemical	21
+$N$ - $W$ - $W$ - $N$	Chemical	21
+$W$$N$ - $W$ $W$ $W$	GENE	20
+$W$ - $W$ $W$ - $W$	GENE	20
+$W$ - $W$ - $W$ $W$	Chemical	20
+$N$ , $N$ - $W$ - $W$	Chemical	20
+$W$ $N$ $W$ $N$	GENE	20
+$W$$N$$W$ - $N$	GENE	20
+$W$ $N$ - $W$ $W$	GENE	20
+$W$ - $N$ $W$	Chemical	20
+$W$$N$$W$ ( $N$ )	GENE	20
+$W$ = $W$	Chemical	20
+$N$ - $W$ - $N$ , $N$ - $W$	Chemical	20
+$W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ )	Chemical	20
+$W$ , $W$ ' - $W$	Chemical	19
+$W$$N$$W$$N$$W$$N$	Chemical	19
+$W$$N$$W$$N$ $W$ $W$	GENE	19
+$W$ $W$$N$ $W$ $W$	GENE	19
+$W$ - $W$ - $N$ $W$	GENE	19
+( $W$ ) ( $N$ )	Chemical	19
+$W$ $N$	19
+$W$ / $W$ $W$ $W$	GENE	18
+$W$ - $W$ $W$ $W$ $W$ $W$	GENE	18
+$W$ - $W$ $W$$N$ $W$	GENE	18
+$W$ $N$ $W$ $W$	GENE	18
+$W$ - $N$ $W$ $W$ $W$	GENE	18
+$W$ $W$ $W$$N$$W$	GENE	18
+$W$ $W$ $W$ - $N$ $W$	GENE	18
+$W$ $W$ $W$ ( $W$ ) $W$	GENE	18
+$W$ ( + )	GENE	18
+( $W$ ) - $W$	Chemical	18
+[ ( $N$ ) $W$ ] $W$$N$	Chemical	18
+$N$$W$$N$	Chemical	17
+$W$$N$$W$ - $W$	GENE	17
+$W$ $W$ $W$ $W$ $W$ $N$	GENE	17
+$W$ - $N$ $W$ $W$	Chemical	17
+$W$$N$ $W$	17
+$W$$N$ $W$ $N$	GENE	16
+$W$ . $N$	GENE	16
+$W$ $W$ $N$$W$	GENE	16
+$W$ - $W$ $W$ $W$ $N$	GENE	16
+$W$$N$$W$$N$ * $N$	GENE	16
+$W$ ( $N$ ) - $W$	GENE	16
+$W$ ( $N$ - $W$ )	Chemical	16
+[ $N$ ] - $W$	Chemical	16
+$W$ - $N$ - $W$$N$$W$	GENE	16
+$W$ $W$ - $N$	Chemical	15
+$W$ $W$ $W$ - $W$ $N$	GENE	15
+$W$ $W$ $W$ $W$ - $W$ $W$	GENE	15
+$W$ $W$ $W$ - $W$ $W$ $W$	GENE	15
+$W$$N$ - $N$ $W$	GENE	15
+$W$$N$ . $N$ $W$	GENE	15
+[ $N$$W$ ] $W$	Chemical	15
+$W$ . $W$ $W$	GENE	15
+$W$$N$ - $W$$N$	Chemical	15
+$W$ $N$ . $N$ . $N$ . $N$	GENE	15
+$W$ $N$$W$$N$	GENE	15
+( $N$$W$ ) - $W$	Chemical	15
+$W$ $W$ $W$ $W$ $W$ $W$ $N$	GENE	15
+$N$ , $N$ - $W$ - $W$ - $W$ - $N$ - $W$	Chemical	15
+$W$ , $W$ - $W$ $W$	Chemical	15
+$N$ - $W$ $W$ $W$	Chemical	14
+$W$ , $W$ - $W$	Chemical	14
+$W$ ( $W$ ) $N$	Chemical	14
+$N$ - $W$ - $N$ ' - $W$	Chemical	14
+$W$ $W$$N$ $N$$W$$N$	GENE	14
+$W$ $W$ $W$ $N$$W$	GENE	13
+$W$ $W$ - $W$ $W$ $W$ $W$	GENE	13
+$W$ - $W$ $W$ $W$ - $N$	GENE	13
+$W$ - $W$ - $W$ - $W$ $W$	Chemical	13
+$W$ - ( $N$ - $W$ ) $W$	Chemical	13
+$W$ - $W$ ( $N$ )	GENE	13
+$W$ - $W$ ( $N$ )	Chemical	13
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	13
+$N$ , $N$ ' - $W$	Chemical	13
+$W$ - $N$$W$$N$	GENE	13
+[ ( $N$ ) $W$ ] $W$ - $N$	Chemical	13
+$N$ - $W$$N$$W$	GENE	13
+$W$$N$ - $W$ - $W$ - $W$$N$	Chemical	13
+$W$ +	GENE	12
+$W$ - $W$ $W$ $W$ - $W$	GENE	12
+$W$ ( $W$ ) ( $W$ )	Chemical	12
+- $W$ $W$ $W$	12
+$N$ - $W$ - $W$ - $W$	Chemical	12
+$W$ $W$$N$$W$$N$ $W$	GENE	12
+$W$$N$ : $N$	Chemical	12
+$W$ ' $W$	GENE	12
+$W$ - $N$ - $W$ $W$	Chemical	12
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	12
+( $N$$W$ ) $W$	Chemical	12
+$W$ $N$ / $N$	GENE	12
+$N$ $W$ - $W$$N$	GENE	12
+$W$ ( $W$ - $W$ - $W$ )	Chemical	12
+$W$$N$ - $N$ , $N$ - $W$	Chemical	12
+$W$$N$$W$$N$ . $N$	GENE	12
+$W$ - $N$ $N$	Chemical	12
+$W$$N$ -	Chemical	12
+$W$ ( $N$ - $W$ ) $W$	Chemical	11
+$W$ - $N$ $W$ - $N$	GENE	11
+$W$$N$ $W$ - $W$ $W$	GENE	11
+$W$$N$ - $W$$N$$W$	GENE	11
+$W$ $W$ $W$ $W$ - $W$	GENE	11
+$W$ / $W$ - $W$ $W$	GENE	11
+$W$ / $W$ $W$ $W$ $W$	GENE	11
+$W$ $W$ - $N$$W$	GENE	11
+$W$ $W$ $N$ $W$ $N$	GENE	11
+$W$$N$$W$ - $W$ $W$	GENE	11
+$W$$N$ / $W$$N$ $W$	GENE	11
+$N$ - $W$ $W$ $W$	GENE	11
+$W$ $N$ - $W$ $N$ - $W$	Chemical	11
+$W$ $W$ / $W$	GENE	11
+$N$ $W$ - $W$	GENE	11
+$W$ $N$ - $W$ - $W$	Chemical	11
+( $N$ ) $W$ - $W$	Chemical	11
+$W$ $N$ , $N$	Chemical	11
+$W$ ( $N$ ) ( $N$ - )	Chemical	11
+$W$ - $W$ - $W$$N$	GENE	11
+$W$ ( $N$ ) ( - )	Chemical	11
+( - ) $W$	Chemical	11
+$N$ ' - $W$ - $W$	Chemical	11
+$W$$N$$W$$N$$W$	Chemical	11
+$W$ - $N$$W$ - $N$$W$	GENE	11
+$N$ ' - $W$ - $W$ - $N$	Chemical	11
+( $W$ - $W$ ) - $W$ - $N$	GENE	11
+$W$ $W$$N$ - $W$ $W$	GENE	10
+$W$$N$ / $N$ $W$	GENE	10
+$W$ '	GENE	10
+$N$ - $W$ - $W$ $W$	Chemical	10
+( $W$ ) $W$	10
+$N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	10
+$W$ $W$ - $W$ $W$	Chemical	10
+$W$ - $N$ ' - $W$ $W$	Chemical	10
+$W$$N$ , $N$	Chemical	10
+$N$ , $N$ , $N$ - $W$ $W$	Chemical	10
+$N$ ( $W$ ) $W$ ( $N$ )	Chemical	10
+$W$ $W$ - $W$ $W$ - $W$ $W$	GENE	9
+$N$ - $W$ $W$ $W$ $W$	GENE	9
+$W$$N$ $W$ - $W$	GENE	9
+$W$ - $W$$N$$W$	Chemical	9
+$W$ - $W$ - $W$ $W$ $W$	GENE	9
+$W$ $N$$W$ $W$	GENE	9
+$W$ - $W$ $W$ $W$$N$	GENE	9
+$W$ $W$ $W$ $W$ $W$$N$	GENE	9
+$W$ - $N$ / $N$	GENE	9
+$N$$W$ - $W$ $W$	Chemical	9
+$W$ $N$ ' - $W$	GENE	9
+$W$$N$ ( $W$ )	GENE	9
+$W$ $N$ - $N$	GENE	9
+$N$	Chemical	9
+$W$ ( $W$ ) - $W$	Chemical	9
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ $W$	Chemical	9
+$W$ - $N$ ' - $W$	Chemical	9
+$W$ $W$ ( $N$ )	GENE	9
+$W$ - $W$$N$ $W$	Chemical	9
+$N$ , $N$ ( $W$ ) ( $N$ ) $W$ ( $N$ )	Chemical	9
+$N$ , $N$ , $N$ , $N$ - $W$	Chemical	9
+$N$$W$$N$$W$	Chemical	9
+$W$ $W$ ( $N$ ) $W$ $W$ ( $N$ )	Chemical	9
+[ ( $N$ ) $W$ ] $W$ $W$	Chemical	9
+$W$ $W$ ( $W$ ) $W$	GENE	8
+$W$ $W$ $N$ $W$ $W$	GENE	8
+$W$ - $W$ $W$ $W$ $W$ $N$	GENE	8
+$W$ $W$ - $N$ $W$ $W$	GENE	8
+$W$ $W$ $N$ - $W$	GENE	8
+$W$ - $W$ $N$$W$	GENE	8
+$W$$N$ $W$ $W$ $W$ $W$	GENE	8
+$W$ ( $W$ ) $N$	GENE	8
+$W$$N$ $W$	Chemical	8
+$W$ - $N$ $W$ $W$ $W$	Chemical	8
+$W$$N$ $W$$N$	GENE	8
+$W$ - $W$ - $N$	Chemical	8
+$W$ - $N$ - $N$	Chemical	8
+$W$ - $W$ $W$ ( $W$ ) $W$	GENE	8
+$N$ - $W$$N$ $W$ $W$	GENE	8
+$N$$W$$N$ $W$	GENE	8
+$W$ $W$ $W$ ( $W$ ) - $W$	GENE	8
+( $W$ , $W$ ) $W$	Chemical	8
+$W$ $W$ $W$ - $W$ $W$ $N$	GENE	8
+$W$ $N$$W$$N$ $W$	GENE	8
+$W$ $N$ $W$ $N$ $W$	GENE	8
+$N$ - $W$	8
+$W$ -	Chemical	8
+$W$$N$ $W$$N$$W$$N$	GENE	8
+$W$ - $N$ - $W$ - $W$ - $W$ - $W$	Chemical	8
+$W$ ( $W$ - $W$ $W$ )	Chemical	8
+$N$ - ( $W$ ) $W$	Chemical	8
+$W$ $W$$N$ $N$$W$	GENE	8
+$W$$N$ ' $W$	Chemical	8
+[ $W$ ( $N$ ) $W$ ] [ $W$ ( $N$ ) $W$ ]	Chemical	8
+$W$ ( $W$ - $W$ ) $W$	Chemical	8
+$W$ $N$ ' - $W$	Chemical	8
+$W$$N$$W$ - $W$	Chemical	8
+$N$ ' $W$ - $W$	Chemical	8
+$W$ . $W$	GENE	7
+$W$ - $N$$W$ $W$ $W$	GENE	7
+$N$ $W$ $W$ $W$	GENE	7
+$W$ - $W$ $W$ - $N$ $W$	GENE	7
+$W$$N$ $W$$N$ $W$	GENE	7
+$W$ - $W$ $W$ $W$ - $N$ $W$	GENE	7
+$W$ - $W$ $W$ - $W$ $W$ $W$	GENE	7
+$W$ - $W$ - $W$ - $W$ $W$	GENE	7
+$W$ $W$ / $W$ $W$	GENE	7
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	7
+$W$ $W$ ( $W$ )	GENE	7
+$W$ - $W$ - $W$ - $W$ - $W$	Chemical	7
+$W$ - $W$ - $N$ - $W$	Chemical	7
+$W$ $W$ - $W$ $W$ - $W$	GENE	7
+$W$ - $W$ $W$ - $W$ $W$	Chemical	7
+$W$$N$ - $W$$N$ $W$	GENE	7
+$N$ - $W$ - $W$$N$	Chemical	7
+$W$ - $W$ $W$ $W$ $W$	Chemical	7
+$N$ $W$ - $W$ - $W$	Chemical	7
+$W$ $W$ $W$ - $W$	Chemical	7
+$N$ ( $W$ ) - $W$	Chemical	7
+$W$ $N$ ( $W$ )	GENE	7
+$W$$N$$W$$N$$W$$N$	GENE	7
+$N$ - $W$ ( $N$$W$ ) $W$	GENE	7
+$W$ $W$ ( $N$ ) $W$	GENE	7
+$W$ $N$ $W$ $N$	Chemical	7
+$W$ ( $W$ ) - $N$ $W$	GENE	7
+$W$ - $N$ , $N$	Chemical	7
+( $W$ ) - $N$ - $W$	Chemical	7
+$W$ $W$ ( $W$ )	Chemical	7
+$W$ < $W$ > - < / $W$ >	Chemical	7
+$W$$N$$W$ / $W$	GENE	7
+$W$$N$ / $W$$N$	GENE	7
+$W$ - [ $W$ ( $W$ ( $N$ ) ) ( $N$ ) ( $W$ ) $W$ ] ( + )	Chemical	7
+$W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	7
+( $N$ ) $W$ - $W$ - $W$ - $W$	Chemical	7
+$W$ - $W$$N$$W$$N$	GENE	6
+$W$ $N$$W$	Chemical	6
+$N$ $W$	GENE	6
+$W$ . $W$ $W$ $W$ $W$	GENE	6
+$W$$N$$W$$N$$W$ $W$	GENE	6
+$N$ $W$ $W$	Chemical	6
+$W$ $W$$N$ - $N$	GENE	6
+$W$ $W$ - $N$$W$ $W$	GENE	6
+$W$ - $N$ $W$ - $W$ $W$	GENE	6
+$N$$W$ - $W$	GENE	6
+$W$ $W$ $W$ $W$ $W$ $W$$N$	GENE	6
+$W$ $W$$N$$W$ $W$ $W$	GENE	6
+$W$ $W$ $W$ $W$ $N$ $W$	GENE	6
+$W$ $W$ $W$ $W$$N$ $W$	GENE	6
+$W$ - $W$ * $N$	GENE	6
+$W$ $W$$N$ $W$	Chemical	6
+$W$ $W$ $W$ ( $W$ ) - $N$	GENE	6
+$W$ $W$ $W$ ( $W$ ) $W$ $W$	GENE	6
+$W$ ( $N$ ) $W$ $W$	GENE	6
+$N$ $W$ $W$	GENE	6
+$W$ $W$$N$ - $W$	GENE	6
+$W$ ( $N$ , $N$ ) $W$$N$	Chemical	6
+$N$ ' - $W$ $W$	Chemical	6
+$W$ $W$$N$$W$	Chemical	6
+$N$$W$ - $N$$W$	Chemical	6
+$W$ $W$ $W$ - $W$ $W$ $W$ $W$	GENE	6
+$W$$N$ - $W$ - $W$	Chemical	6
+$N$ - ( $N$ - $W$ ) $W$	Chemical	6
+$W$ ( $W$ ) $W$ $W$	GENE	6
+$W$ $N$$W$ - $W$ $W$	GENE	6
+$W$$N$ $W$$N$$W$	GENE	6
+$W$ $W$ - $W$$N$	GENE	6
+$W$ - $W$ $W$ - $W$ $W$ $N$	GENE	6
+- $W$ $W$	6
+$W$$N$$W$$N$ * $N$ $W$	GENE	6
+$W$ $N$ / $W$ $N$	GENE	6
+$N$ ' - $W$ - $N$ ' - $W$	Chemical	6
+$W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	6
+$N$ - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	6
+$W$ - $W$$N$ - $W$ $W$ $N$	GENE	6
+[ ( $N$ ) $W$ ] - $W$	Chemical	6
+$W$ $W$ ( $N$ ) $W$ $W$	Chemical	6
+$W$ ( $W$ ) ( $N$ )	Chemical	6
+$W$ ( . )	Chemical	6
+$W$ ( $N$ , $N$ - $W$ )	Chemical	6
+$N$ , $N$ ' , $N$ , $N$ ' - $W$ $W$	Chemical	6
+$W$ ( $N$ . $N$ ) $W$ ( $N$ . $N$ )	Chemical	6
+$W$ $N$ / $N$	Chemical	6
+$W$ $W$ ( $W$ ) - $W$ $W$	GENE	6
+[ $W$ ( $N$ ) $W$ ] [ $W$ ( $N$ ) ]	Chemical	6
+$W$ - $W$ $N$ $W$	GENE	6
+$N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	6
+$W$ $W$$N$ $W$ $W$$N$	Chemical	6
+$W$ ( $N$ - $W$ $W$ )	Chemical	6
+( . ) $W$	Chemical	6
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	6
+$W$ $N$ $W$ $N$ $W$ $W$	GENE	6
+$N$ , $N$ - $W$ [ $W$ ] [ $N$ , $N$ ] $W$ - $N$ , $N$ - $W$	Chemical	6
+( $W$ ) - $W$ - $W$	Chemical	6
+$N$ , $N$ ( $W$ ) ( $N$ ) $W$	Chemical	6
+$W$$N$ ( $W$ ) $N$	Chemical	6
+[ $W$ ] [ $W$$N$ ]	Chemical	6
+$W$ _ $W$	GENE	6
+$W$ $N$ ' - $W$ - $W$	Chemical	6
+$W$ - $N$ - $N$	GENE	6
+$W$ $W$$N$ / $W$ - $N$	GENE	6
+$W$$N$ + $W$	GENE	5
+$W$$N$ - $W$ $W$ $W$ $W$	GENE	5
+$W$$N$$W$ $W$ $W$ $W$	GENE	5
+$W$ $W$ - $W$ - $W$ $W$	GENE	5
+$N$ - $W$ $W$	GENE	5
+$N$ - ( $W$ - $W$ ) $W$	Chemical	5
+$W$ - $W$$N$ $W$ $W$	GENE	5
+$W$$N$ - - - - $W$	Chemical	5
+$W$ $W$ $N$ $W$ $N$ $W$	GENE	5
+$W$ $W$ $W$$N$ $W$ $W$	GENE	5
+$W$ / $W$ - $W$	GENE	5
+$W$ - $W$ $W$ ( $W$ ) $W$ $W$	GENE	5
+$W$ - $N$ , $N$ - $W$	GENE	5
+$N$ - $W$ - $W$ - $W$ - $W$	Chemical	5
+$W$$N$ / $W$ $W$	GENE	5
+$W$ $N$ $W$ $W$ $W$	GENE	5
+$W$ - $N$ $W$$N$	GENE	5
+$W$$N$ -	GENE	5
+$W$ - $W$$N$ - $N$	GENE	5
+$W$$N$ : $N$$W$$N$	Chemical	5
+[ $W$ ]	Chemical	5
+$W$ $N$$W$$N$$W$	GENE	5
+( $W$ ) - $N$ , $N$ - $W$	Chemical	5
+$W$ - $W$ - $W$ $W$ $N$	GENE	5
+$W$ - $N$ - $W$ - $W$ - $W$	Chemical	5
+$W$ - ( $W$ - $W$ - $W$ - $W$ )	Chemical	5
+$W$$N$$W$$N$ / $N$	GENE	5
+$N$ - $W$ $N$ - $W$ $W$	Chemical	5
+$W$ - $W$ *	GENE	5
+$W$ ( $W$ ( $N$ ) ) ( $N$ )	Chemical	5
+$W$ ( $W$ - $W$ - $W$ $W$ )	Chemical	5
+$W$ , $W$ $W$ $W$ $W$	Chemical	5
+$W$ ( $W$ $W$ ) $W$	Chemical	5
+$W$ - $W$	5
+$W$ $W$ - $W$ $W$ ( $W$ ) $W$	GENE	5
+$W$ - $W$ - $W$ ( $W$ ( + ) )	Chemical	5
+[ $W$ ( $N$ ) $W$ ] [ $W$ ]	Chemical	5
+$N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	5
+$W$$N$ - $W$ $W$ $N$	GENE	5
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	5
+$N$ , $N$$W$	Chemical	5
+( + ) - $W$ $W$	Chemical	5
+$W$$N$ ( + )	Chemical	5
+[ $W$$N$ ] ( - )	Chemical	5
+$W$ $W$ $N$	5
+$W$ ( $N$ ) ( + )	Chemical	5
+$W$ - ( $W$ - $W$ - $W$ ) - $W$ - $W$ - $W$ - $W$	Chemical	5
+$W$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	5
+$W$$N$ ( $N$ - )	Chemical	5
+$W$$N$$W$$N$ ( - )	Chemical	5
+$W$$N$ . $N$ - $W$	GENE	5
+$N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	5
+$W$$N$$W$ - $N$	Chemical	5
+$N$ , $N$ - $W$ - $W$ - $W$	Chemical	5
+$W$ $W$ $W$ $N$ - $W$ $W$ $N$	GENE	5
+$W$ - $W$$N$ / $N$	GENE	5
+$N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	5
+$W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	5
+$W$ $W$ $N$ - $N$$W$	GENE	5
+$W$ - $W$ ( + )	GENE	5
+[ $W$ ( $W$ ) ( $W$ ) ] ( + )	Chemical	5
+$W$ $W$ , $W$ - $W$ - $W$	Chemical	5
+( $N$$W$ ) $W$ ( $W$ ) $N$ - $W$ ( $N$ ) - $W$ $W$ ( $W$ )	Chemical	5
+$W$ - $W$ - $N$ ] - $W$$N$	GENE	5
+$N$ $W$ - $W$ - $W$ ( $N$ ) - $W$ $W$	Chemical	5
+$W$$N$ $W$$N$ ( - )	Chemical	5
+$W$ [ $W$ , $W$ ] $W$	Chemical	5
+$W$$N$ '	GENE	4
+$W$ $W$ $W$ $W$ $W$ - $W$ $W$	GENE	4
+$W$ - $N$ $W$ $W$ $W$ $W$	GENE	4
+$W$ $W$ $W$ $W$ - $N$ $W$	GENE	4
+$W$ - $W$ - $W$ - $W$	GENE	4
+$W$ - $N$ $W$$N$ $W$	GENE	4
+$W$$N$ $W$ $W$$N$ $W$	GENE	4
+$W$ $W$ - $W$ $W$$N$ $W$	GENE	4
+$N$$W$$N$$W$	GENE	4
+$W$ $W$$N$ - $W$ $W$ $W$	GENE	4
+$W$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	4
+$W$ $W$ - $W$ $W$ $W$ $N$	GENE	4
+$W$ $W$ $W$ - $W$$N$	GENE	4
+$N$ ' $W$	Chemical	4
+$W$$N$ - $N$$W$	GENE	4
+$N$ , $N$ - $W$ $W$$N$	Chemical	4
+$W$$N$$W$ ( - / - )	GENE	4
+$W$ - $W$ $W$ $W$ $W$ $W$ $W$	GENE	4
+$W$ $W$ - $W$ $W$$N$	GENE	4
+$N$ $W$ $W$ $W$ $W$	GENE	4
+$W$ $W$ $W$$N$$W$ $W$	GENE	4
+$W$ ' $W$ $W$ $W$	GENE	4
+$W$ $W$$N$ $W$ $W$ $W$	GENE	4
+$W$ $N$ $W$	Chemical	4
+$W$ $W$ $W$ $W$$N$$W$	GENE	4
+$W$ $W$ $W$ $W$ ( $W$ ) $W$	GENE	4
+$N$$W$$N$ . $N$	GENE	4
+$W$ ( $W$$N$ )	GENE	4
+$W$ $W$ $W$$N$$W$$N$	GENE	4
+$W$ . $W$ $W$$N$ $W$	GENE	4
+$W$ $W$$N$ $W$ - $W$	GENE	4
+$W$ $W$ $W$ ( $W$ )	GENE	4
+$W$ - $W$ / $W$	GENE	4
+$W$ $W$ $W$ $W$ $W$ - $W$	GENE	4
+$W$ $W$ $N$ - $W$ $W$	GENE	4
+$W$ + $W$	GENE	4
+$W$ - $W$ $W$ ( $W$ ) $N$	GENE	4
+$W$ $W$ $W$ $W$ $W$ - $N$	GENE	4
+$W$ $N$ - $W$ - $W$ - $W$ - $W$	Chemical	4
+$W$ - $W$ $W$ $W$ - $W$ $W$	GENE	4
+$W$ $N$ - $W$ $W$ $W$	GENE	4
+$N$ - $N$ - $N$ $W$	GENE	4
+$W$ $W$ $W$ $W$ $W$ $N$ $W$	GENE	4
+$W$ - $W$ - $N$ - $W$	GENE	4
+$W$ / $W$ - $W$ $W$ $W$	GENE	4
+$W$ $W$$N$$W$$N$ $W$ $W$	GENE	4
+$W$ $W$ $W$ $N$ $W$ $W$	GENE	4
+$W$ - $W$ - $W$ $W$ $W$ $W$	GENE	4
+$W$ - $N$ - $W$ - $N$ - $W$	Chemical	4
+$W$ ( $W$ , $W$ - $W$ )	Chemical	4
+$W$ - $W$ $W$ $N$ $W$	GENE	4
+$W$ , $W$ - $W$ - $W$ $W$	Chemical	4
+( + ) - $W$ ( - ) - $W$	Chemical	4
+( $W$ ) - $N$ - $W$ - $N$ - $W$ $W$	Chemical	4
+$W$ - $W$ ( $W$ $W$ ) $W$	GENE	4
+$N$ ( $N$ ) - $W$	Chemical	4
+$W$ - $W$$N$$W$$N$	Chemical	4
+$W$$N$$W$$N$ _ $W$$N$	GENE	4
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	4
+$W$ $W$ - $W$ - $W$	Chemical	4
+[ () $W$ ] - $W$ $W$	Chemical	4
+$W$ - $W$ $N$ ) - $W$ $N$	GENE	4
+$W$ ( $W$ ) $W$	4
+$W$ $W$ $W$ ( $W$ ) $N$	GENE	4
+$N$ , $N$ - $W$	4
+$W$ ( $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	4
+$W$$N$$W$$N$ - $W$	GENE	4
+$W$ ( $W$ ) $W$ $W$	Chemical	4
+$N$ - $W$ - $W$ - $N$ - $W$	Chemical	4
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	4
+$N$$W$ - $N$ , $N$ , $N$ - , $N$$W$ - $N$ , $N$ , $N$ - , $N$$W$ - $N$ , $N$ , $N$ - $W$ $N$$W$ - $N$ , $N$ , $N$ - $W$	Chemical	4
+$W$ ( $W$ ) $W$ ( $W$ )	Chemical	4
+$N$ - ( $W$ ) $W$ $W$	Chemical	4
+$W$ ' $W$	Chemical	4
+$W$$N$$W$$N$ $W$ - $W$	GENE	4
+$W$ $W$ ( $N$ --> $N$ ) $W$	Chemical	4
+$W$ - $W$ ( $W$ ) $N$	Chemical	4
+( $W$ ) - $W$ $W$	Chemical	4
+$W$ $N$$W$ - $W$	GENE	4
+( $N$ ) $W$$N$	Chemical	4
+[ ( $N$ ) $W$ ] $W$$N$$W$	Chemical	4
+$W$ ' - $W$	GENE	4
+$W$ ( $N$ ) - $W$ - $W$	Chemical	4
+$N$ , $N$ - $W$ $W$ $W$ $W$	Chemical	4
+$W$ $W$ , $W$ , $W$ $W$	Chemical	4
+$N$ - $W$$N$ - $W$	GENE	4
+$W$$N$ $N$$W$	GENE	4
+$N$ - $W$ - $N$ ' , $N$ ' - $W$	Chemical	4
+$W$$N$ ( + / + )	GENE	4
+$W$$N$ / $N$ / $N$	GENE	4
+< $W$ > $W$ < / $W$ > - $W$ ( $W$ ) < $W$ > $N$ < / $W$ > $W$ < $W$ > * - < / $W$ >	Chemical	4
+$W$ ( $W$ ) $N$ - $W$ - $W$ ( $W$ ) $W$	Chemical	4
+$W$ - $W$ ( $W$ )	Chemical	4
+( $N$ ) $W$ ( $N$ + )	Chemical	4
+$W$ ( $W$ $W$ - $W$ - $W$ $W$ )	Chemical	4
+$N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	4
+$W$ $W$ - $N$	4
+$W$ ( $W$ ) $W$ ( $N$ - $W$ ) $W$	Chemical	4
+$N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	4
+$W$ - $W$ - $W$ $W$ $W$	Chemical	4
+( $W$ ( $N$ . $N$ ) $W$ ( $N$ . $N$ ) ) $W$	Chemical	4
+( $W$ ) - $W$ - $W$ - $W$ - $W$	Chemical	4
+$W$ $N$ $W$ $N$ * $W$ $W$	GENE	4
+( $N$$W$ ) - $W$ - $N$	Chemical	4
+$W$ ( * )	Chemical	4
+$W$$N$ + $W$	Chemical	4
+$W$ $N$ . $N$	GENE	3
+$N$ - $N$ - $N$	Chemical	3
+$W$ $W$$N$ - $W$$N$	GENE	3
+$W$ $W$ *	GENE	3
+$N$ - $W$ - $W$ - $W$ - $N$ - $W$	Chemical	3
+$W$$N$ - $W$ $W$ $W$ $N$	GENE	3
+[ $W$ - $N$$W$ ] $W$	Chemical	3
+$W$ - $N$$W$ $W$	Chemical	3
+$W$ $W$ $W$ $W$ $W$ . $W$	GENE	3
+$W$ $W$ $W$ $W$ $N$ $W$ $W$	GENE	3
+$W$ - $W$ ( $W$ )	GENE	3
+$N$$W$ - $W$$N$	GENE	3
+$W$ $W$$N$ ( $W$ ) $W$	GENE	3
+$W$ $W$ - $W$ $W$ - $N$	GENE	3
+$W$ $W$ ( $W$ ) $N$	GENE	3
+$W$$N$ , $N$	GENE	3
+$W$ : $W$ $W$	GENE	3
+$N$ $W$ $W$ $W$ $N$ ( $W$$N$ )	GENE	3
+$W$ - $W$ $W$$N$ - $W$ $W$	GENE	3
+$W$ $W$ / $W$ $W$ $W$	GENE	3
+$W$ $W$ - $W$ $W$ $W$ $W$ $W$	GENE	3
+$W$ ; $W$ ; $N$	GENE	3
+$W$ - $W$ $W$$N$$W$	GENE	3
+$W$$N$ - $N$$W$ $W$	GENE	3
+$N$ - $W$ - $W$ $W$$N$ $W$	Chemical	3
+$N$ - $W$ $W$ $W$ $W$ $W$ $W$$N$	GENE	3
+$W$ - $N$ $W$ - $N$ $W$	GENE	3
+$W$ - $N$ $W$ - $W$	GENE	3
+$W$ - $W$ $W$ - $W$ $W$ $W$ $W$	GENE	3
+$N$$W$ - $W$ $W$	GENE	3
+$N$ . $N$$W$ $W$	GENE	3
+$W$$N$$W$ - $N$ $W$ $W$	GENE	3
+$W$$N$$W$ - $N$ $W$	GENE	3
+$W$ $W$ - $W$ - $N$ $W$	GENE	3
+$W$ $N$$W$ $W$ $W$	GENE	3
+$W$ - $W$ $W$ $W$ $W$$N$	GENE	3
+$W$ $W$ - $W$ $W$ $N$ $W$	GENE	3
+$W$ - $N$ / $N$ $W$	GENE	3
+$W$ . $W$ $W$$N$ $W$ $W$	GENE	3
+$N$$W$ $W$ $W$ $W$ $W$	GENE	3
+$W$ $W$ $N$ , $N$ - $W$	GENE	3
+$W$ *	GENE	3
+$W$ - $W$ $W$ $W$ $W$ - $W$	GENE	3
+$W$ $N$ ' - $W$ $W$	GENE	3
+$N$ $W$ $W$ $W$	Chemical	3
+[ $N$$W$ ]	Chemical	3
+$W$ - $N$ ' , $N$ ' - $W$	Chemical	3
+$W$ - $W$ $W$$N$ $W$ $W$	GENE	3
+$W$ $W$ $N$$W$ $W$	GENE	3
+$W$ $W$ ( $W$ ) - $W$	GENE	3
+$N$ , $W$ ( $N$ ) - $W$	Chemical	3
+$W$ - $N$ , $N$ - $W$ $W$	Chemical	3
+$W$ $N$ - $W$ $W$	Chemical	3
+$W$$N$ / $W$ $W$ $W$	GENE	3
+$W$ $W$$N$ $W$ - $W$ $W$	GENE	3
+$W$ ( $W$ + )	Chemical	3
+$W$ - $W$$N$$W$ $W$	GENE	3
+$W$ - $W$ $W$ - $W$$N$	GENE	3
+$W$ $W$$N$ - $N$ $W$	GENE	3
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	3
+[ ( $N$ ) $W$ ] $W$$N$ - $N$	Chemical	3
+$W$ - ( $W$ - $W$ - $W$ )	Chemical	3
+$N$$W$$N$ , $N$$W$$N$	GENE	3
+$W$ - [ ( $N$ ) $W$ ] $W$	Chemical	3
+$W$ $W$ - $W$ $W$ $W$ - $N$	GENE	3
+$W$ $W$ - $W$ $W$ - $W$ $W$ $N$ $W$	GENE	3
+$N$ , $N$ - $W$ - $N$ - $W$ - $W$	Chemical	3
+$N$$W$$N$ $W$ $N$$W$$N$	GENE	3
+$W$ ( $N$ + ) - $W$ ( + )	Chemical	3
+$W$ ( $N$ + ) - $W$ ( $N$ + )	Chemical	3
+$W$ $N$$W$	3
+$W$ $W$ - $N$ - $W$ - $W$	Chemical	3
+$W$ - $N$ - ( $W$ - $W$ - $W$ ) - $N$ - $W$ $W$	Chemical	3
+$W$ $W$ $W$ $W$ ( $W$ ) $N$$W$$N$	GENE	3
+$W$ $N$ ( - )	Chemical	3
+$W$$N$$W$ ( + )	GENE	3
+[ ( $N$ ) $W$ ] $W$ $W$ $W$	Chemical	3
+$W$ ( $N$ ) -	Chemical	3
+$N$ - $W$$N$	Chemical	3
+$N$$W$ - $N$ ' $W$	Chemical	3
+() $W$	Chemical	3
+$W$ - $W$ - $N$ , $N$ - $W$	Chemical	3
+$W$ ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	3
+$W$ ( $W$$N$ )	Chemical	3
+$N$$W$ - $W$ - $N$ - $W$	Chemical	3
+$N$ ' , $N$ ' - $W$	Chemical	3
+$W$ $W$ $N$ - $W$ $W$	Chemical	3
+$W$ - $N$ , $N$ , $N$ ( $N$ ) , $N$ - $W$ - $N$ - $W$	Chemical	3
+$N$ - $W$$N$$W$ $W$	3
+$N$ - $W$ - $N$ - ( $W$ - $W$ - $W$ ) $W$	Chemical	3
+$W$ - $W$ $N$ - $N$	GENE	3
+[ ( $N$ ) $W$ ] $W$ - $W$	Chemical	3
+$W$$N$ - $W$$N$$W$ $W$	GENE	3
+$N$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	3
+$W$$N$ - $W$ - $N$ $W$	GENE	3
+$W$ $W$ - [ $W$ ( $N$$W$ - $W$ ) $W$ ( $W$ ) ]	Chemical	3
+$W$ - $W$ $W$ / $W$	GENE	3
+$W$ ( $N$ . $N$ ) $W$ ( $N$ . $N$ ) - $W$ ( $W$ ) $W$ ( $W$ )	Chemical	3
+[ $W$ ] [ $W$ ]	Chemical	3
+$W$ , $W$ - $W$ - $W$ - $W$	Chemical	3
+$N$ , $N$ ( $W$ ) $N$ $W$ $N$	Chemical	3
+$W$ - $N$ - $W$ $W$ $W$	Chemical	3
+$N$ , $N$ - $W$ ( $W$ ) $W$	Chemical	3
+$W$ $W$ $W$ ( $W$ )	Chemical	3
+$W$ - $W$ $W$ - $N$ $W$ $W$	GENE	3
+$W$ <$W$$N$> $W$	Chemical	3
+$W$ - $W$ ( $W$ ) $W$	Chemical	3
+$W$ $W$$N$ . $N$	GENE	3
+$W$$N$$W$ $N$ $W$	GENE	3
+$N$ - $W$ - $W$ - $N$ ' - $W$ - $N$ ' - $W$	Chemical	3
+[ $W$$N$$W$$N$$W$ ] ( ( $N$ - $W$ ) - )	Chemical	3
+( - ) - $W$ $W$	Chemical	3
+$W$$N$ + $N$	Chemical	3
+$W$$N$$W$ ( $W$ )	GENE	3
+$W$ - $N$$W$ - $N$ - $N$	GENE	3
+$W$ $W$ $W$ $W$ - $W$ $W$ $N$	GENE	3
+$W$ - $W$ $N$ - $W$	Chemical	3
+$W$ $W$$N$ $N$$W$ $W$	GENE	3
+$W$ - $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	3
+$N$ ' - $W$	GENE	3
+$W$ ( + / + )	GENE	3
+$N$ - ( $W$ ) $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	3
+( $N$ - $W$ ) $W$	Chemical	3
+$W$$N$ / $W$$N$ $W$	3
+$W$$N$$W$ ( - )	Chemical	3
+$N$ - $W$ - [ ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ ] $W$	Chemical	3
+$W$ - ( $N$ - $N$ )	GENE	3
+$W$$N$ $W$ $W$	Chemical	3
+$W$ - ( $W$ ) - $W$ - $W$ - $W$	Chemical	3
+$W$ $N$ ( $W$ ) - $W$	GENE	3
+$W$ - $N$ $W$ $W$ - $W$	Chemical	3
+$W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	3
+$W$ $N$ , $N$ - $W$	Chemical	3
+$W$ ' $W$ $W$	Chemical	3
+$W$$N$ * $N$ / * $N$	GENE	3
+$N$ - ( $W$ ) - $W$	Chemical	3
+$W$ ( $W$ , $W$ - $W$ $W$ )	Chemical	3
+$W$$N$ - $W$ $W$	Chemical	3
+$N$ - $W$ - $W$$N$$W$	Chemical	3
+$N$ - ( $N$ - $W$ ) $W$ $W$	Chemical	3
+$W$ - $W$ $W$ $W$ - $W$	Chemical	3
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	3
+$W$ $W$ , $W$	Chemical	3
+$N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	3
+$W$ $W$ $N$ - $N$$W$ $W$	GENE	3
+( $N$ - $W$ ) - $W$ - $W$	Chemical	3
+$W$ ( $N$ , $N$ ) $W$ ( $N$ )	Chemical	3
+$W$ ( $N$ ) , $W$ ( $N$ ) - $W$ ( $N$ - $W$ ) - $N$ - $W$ - $N$$W$ - $W$ [ $W$ , $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	3
+$W$ - ( $W$ ) $W$	Chemical	3
+$N$ $W$ , $N$ ( $W$ ) ( $N$ ) $W$ ( $N$ )	Chemical	3
+$W$ $W$ $W$ - $W$ $W$ - $N$	GENE	3
+$W$ - ( - ) - $W$	Chemical	3
+( $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	3
+$W$ $N$ , $N$ - $W$	GENE	3
+$W$ - $W$ - $W$$N$$W$	Chemical	3
+( $W$ ) - $N$ - ( $W$ [ $W$ ] $W$ - $N$ - $W$ ) $W$ - $N$ - $W$ - $N$ - $W$	Chemical	3
+$W$ ( $N$ ) - $W$ $W$ $W$	Chemical	3
+[ $N$ , $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	3
+$W$ - $N$ ( $N$$W$ ) - $W$	Chemical	3
+$W$ ( $W$ , $W$ - $W$ - $W$ - $W$ )	Chemical	3
+$W$ - $N$	3
+$N$$W$ ( + )	Chemical	3
+$W$ - $W$ $N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ ) $W$	Chemical	3
+$N$ - $W$ - $N$ , $N$ - $W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	3
+[ $W$ ( $N$ ) $W$ ( $N$ ) ] ( $N$ - )	Chemical	3
+$W$ - / - $W$	GENE	3
+$N$$W$ ( $N$ ) $W$ ( $N$ + )	Chemical	3
+( $W$ ) - $W$ - $W$ - $W$	Chemical	3
+$W$$N$ - ( $W$ - $N$ )	Chemical	3
+$W$ - $N$ , - $N$ $W$ - $N$	GENE	3
+$N$ ' - $W$ / $W$ - $W$	Chemical	3
+$W$ [ $N$ ' , $N$ ' : $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ , $N$ ] $W$	Chemical	3
+$W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	3
+( $N$$W$ ) - ( $N$ - $W$ ) - $N$ , $N$ - $W$	Chemical	3
+$W$ ( $N$ , $N$ - $W$ ) $W$	Chemical	3
+[ $W$ ( $W$ ) $N$ ] $N$	Chemical	3
+$W$ ( $W$ ) $N$$W$ ( $W$ ) $N$ ( * )	Chemical	3
+$W$ - [ $N$ - ( $W$ - $W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ] - $W$	Chemical	3
+$N$ - $W$ - $N$ - $W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	3
+$W$$N$ - $W$ - $W$$N$	Chemical	3
+$W$$N$ - $W$ ' $W$	GENE	3
+$N$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	3
+$W$ * - $W$ - $W$	GENE	3
+$W$$N$$W$ $N$$W$$N$	GENE	3
+$W$ - $N$ , $N$ - $W$ - $W$ - $W$	Chemical	3
+$N$$W$ - $W$$N$	Chemical	3
+$W$ $N$$W$ *	GENE	3
+$W$$N$ $W$ + $W$	GENE	3
+$W$$N$ + - $W$	Chemical	3
+$W$ $W$ $W$ $W$ ( $W$	GENE	3
+$W$ $W$ ( $W$ ) - $W$ $W$ $W$	GENE	2
+$W$$N$$W$ - $W$ $W$ $W$	GENE	2
+$W$ / $W$ $W$ $W$ $W$ $N$	GENE	2
+$W$ - $N$$W$ $W$ $W$	Chemical	2
+$W$$N$$W$ $W$ $W$ $W$ $W$	GENE	2
+$W$ $W$ $N$ $W$ - $W$ $W$	GENE	2
+$W$$N$ , $N$ - $W$ - $W$	GENE	2
+$N$ - $W$ - $W$ $W$	GENE	2
+$N$$W$ - $W$ - $W$	Chemical	2
+$W$$N$ / $N$$W$	GENE	2
+$W$ ( $W$ ) - $W$ $W$	GENE	2
+$W$ - $W$ $N$	Chemical	2
+$W$ $W$ $W$ $W$ $N$ ( $W$ - $N$ ) $W$	GENE	2
+$N$ - $W$ - $W$	GENE	2
+$N$ - $W$ $W$ $W$ - $W$ $W$	GENE	2
+$W$ ( $W$$N$ ) $N$	Chemical	2
+$W$ $W$ $W$ ( $W$ ) - $W$ $W$	GENE	2
+$W$ $W$ - $W$ $W$ $W$$N$$W$	GENE	2
+$W$ - $W$ $W$ - $N$$W$	GENE	2
+$W$ / $W$ $W$ $N$	GENE	2
+$W$ - $W$ $W$ ( $W$ ) $W$ $W$ - $N$	GENE	2
+$N$$W$ ( $W$ , $W$ ) $N$$W$	Chemical	2
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$ $W$	GENE	2
+$W$ ( $W$$N$ - ) - $W$	Chemical	2
+$W$ $N$ - $W$$N$$W$	GENE	2
+$N$ , $N$ - $W$ ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$W$ - $W$ - $W$ $W$ $W$$N$	GENE	2
+$W$ / $W$$N$	GENE	2
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$	GENE	2
+$W$ - $W$ - [ $W$ - $W$ $W$ ]	GENE	2
+$W$$N$ ( $W$ ) $W$	GENE	2
+$W$ $W$$N$ , $W$$N$ $W$ $W$$N$	Chemical	2
+$W$ $W$ $W$ , $W$ , $W$ $W$	GENE	2
+$W$ $W$ - $W$ $W$ $W$ - $W$$N$	GENE	2
+$W$ $W$ $W$ $W$ $W$ - $N$$W$	GENE	2
+( $W$ ) $W$	GENE	2
+$W$ - $W$ $W$$N$$W$ - $N$	GENE	2
+$N$ ' - $W$ - $W$ $W$	Chemical	2
+$W$ $W$ - $N$ $W$ $W$ $W$	GENE	2
+$W$ $W$ $W$ $W$ $N$ - $N$	GENE	2
+$W$ $W$ / $W$ $W$ $W$ $W$	GENE	2
+$W$$N$ * $N$	GENE	2
+$N$ - $W$ - $W$ $N$ - $W$	Chemical	2
+$W$ $W$ $W$$N$ $W$ $W$ $W$	GENE	2
+$W$$N$ $W$ / $W$	GENE	2
+$W$$N$ , $N$$W$ $W$	GENE	2
+( $W$$N$ ) $N$$W$$N$	Chemical	2
+$W$$N$$W$ $W$ $W$$N$$W$ $W$	GENE	2
+$W$$N$ $W$ - $W$ $W$ $W$ $W$	GENE	2
+$W$ / $W$ - $W$	Chemical	2
+$W$ $N$$W$$N$ $W$ $W$	GENE	2
+$W$ - $W$ . $W$	GENE	2
+$W$ - $W$ $W$ $W$ - $N$ $W$ $W$	GENE	2
+$W$ "	GENE	2
+$W$ / $W$ - $W$ $W$ - $W$	GENE	2
+$W$ - $W$ $W$ $W$ - $W$ $W$ $N$	GENE	2
+$W$ - [ $N$$W$ ] $W$	Chemical	2
+$W$ - $W$ $W$ ( $W$ )	GENE	2
+$W$$N$$W$ - $W$ - $N$	GENE	2
+$N$ , $N$ , $N$ ' - $W$	Chemical	2
+$N$ - $W$ - $W$ $W$ $W$	GENE	2
+$W$$N$ - $W$ - $W$	GENE	2
+$W$ $W$ - $W$ - $W$ $W$ $W$ $W$	GENE	2
+$W$ $W$ ( $W$ ) $W$ $W$	GENE	2
+$N$$W$ $W$$N$$W$	GENE	2
+$W$$N$$W$$N$ ( $N$ - $N$ )	GENE	2
+$W$$N$$W$$N$ . $W$$N$ ( $N$ - $N$ )	GENE	2
+$W$ $N$ ' $W$	GENE	2
+$W$ - $W$ $W$ - $W$ - $W$ $W$	GENE	2
+$W$$N$$W$ $W$ - $W$	GENE	2
+$W$ - $W$$N$ - $W$ $W$	GENE	2
+$W$ - $W$ $W$$N$$W$ $W$	GENE	2
+$W$ - $W$ ( $W$ ) $W$	GENE	2
+$W$ $W$ $N$ $W$ $W$ $W$	GENE	2
+$W$$N$ $W$ $W$ $W$ - $W$ $W$	GENE	2
+$W$ - $W$ $W$ $W$ ( $W$ ) $W$	GENE	2
+$W$$N$ - $W$ - $W$ $W$	GENE	2
+$N$$W$ $W$ $W$	Chemical	2
+$W$ , $W$ , $W$ $W$ $W$	GENE	2
+$W$ $N$ ( $W$ ) $W$ $W$	GENE	2
+$W$ - $N$$W$ $W$ $W$ $W$	GENE	2
+$W$ $W$ $W$$N$$W$$N$ - $W$	GENE	2
+$W$ ( $W$$N$$W$$N$$W$ )	GENE	2
+$N$ - $W$ - $W$$N$ $W$	Chemical	2
+$W$ ( $W$ ) $N$ $W$	GENE	2
+$N$$W$ $W$	Chemical	2
+$W$ $N$ $N$	Chemical	2
+$W$$N$ , $N$ , $N$	GENE	2
+$W$ ( $N$ - $N$ ) $W$	GENE	2
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$$N$	GENE	2
+$W$ - $W$ - $W$$N$ - $N$	GENE	2
+$W$ ( $W$ , $W$ )	Chemical	2
+$W$ $W$ - $W$ / $W$	GENE	2
+$W$$N$ $W$ - $W$ $W$ $W$	GENE	2
+$W$$N$ ( $W$$N$$W$ )	GENE	2
+$W$ $W$ $W$ $N$ $W$ $N$	GENE	2
+$W$$N$ $W$ $W$ $W$$N$	GENE	2
+$W$ ( $W$ ) $N$ - $W$	GENE	2
+$W$ $W$ ' $W$	GENE	2
+$W$$N$ ( $W$ ) $W$ $W$	GENE	2
+$W$$N$ + $W$ $W$	GENE	2
+$W$ $W$$N$$W$ $W$ $W$ $W$	GENE	2
+$W$ $W$ ( $N$ - $N$ )	GENE	2
+$W$ - $W$ , $W$ - $W$ $W$	GENE	2
+$W$ . $W$	Chemical	2
+$W$ ( $N$$W$ )	GENE	2
+$W$ - $W$ $W$ $W$$N$ $W$	GENE	2
+$W$ - $W$$N$$W$ $W$ $W$	GENE	2
+$W$ $W$ $W$ - $W$$N$ $W$	GENE	2
+$N$ - $W$ - $W$ $W$$N$ - $W$	Chemical	2
+$N$$W$ $W$$N$ $W$	GENE	2
+$W$ - $W$ - $W$ $W$ ( $W$ ) $W$	GENE	2
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	2
+$W$ $W$ - $W$ $W$ $W$$N$	GENE	2
+$W$ $W$ $W$ - $N$$W$	GENE	2
+$N$ . $N$$W$ - $W$ $W$	GENE	2
+$W$$N$ $N$ ' $W$ $W$	GENE	2
+$W$ $W$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	2
+$W$ $W$ $W$ $W$ $N$$W$	GENE	2
+[ $N$ , $N$ - $N$$W$$N$ ] $W$	Chemical	2
+$W$$N$ - $N$ $W$ $W$	GENE	2
+$W$$N$ $N$	GENE	2
+$W$ $W$ ( $W$ ) ( $W$ ) $W$	GENE	2
+$W$ $W$ $W$ $N$	Chemical	2
+$W$ $W$ $N$ - $N$	Chemical	2
+$W$ $W$$N$ +	GENE	2
+$W$$N$ + $N$	GENE	2
+$W$ $W$ $W$ ( $W$ ) $W$ $W$ $W$	GENE	2
+$W$ - $W$ $W$ $W$ - $W$ $W$ - $N$	GENE	2
+$N$$W$$N$$W$ $W$	GENE	2
+$W$ / $W$ ( $W$ )	GENE	2
+$W$$N$ / $W$	GENE	2
+$W$ - $W$ $W$ $W$ ( $W$ )	GENE	2
+$W$ $W$ $W$ $W$ $W$ $W$ - $N$	GENE	2
+$W$ ( $W$ ) $W$$N$	GENE	2
+$W$$N$ - $W$ $N$	GENE	2
+$W$ . $W$$N$	GENE	2
+$W$ - $N$ , $N$ - $W$ - $W$	Chemical	2
+$N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	2
+$W$ - .	Chemical	2
+$W$$N$$W$ ( $N$ ) $W$	GENE	2
+$N$$W$ $W$ $W$ $W$	GENE	2
+$W$$N$ . $N$ $W$ $W$	GENE	2
+$W$ ( $N$ , $N$ , $N$ ) $W$$N$	Chemical	2
+- $N$ $W$	2
+$N$ - $W$ - $N$ $W$ - $W$	Chemical	2
+$W$ - $W$ - ( $W$ - $W$ - $W$ - $W$ )	Chemical	2
+$N$ - $W$ - $W$ - $W$ $W$	Chemical	2
+$N$ - $W$ - $W$ - $W$ $W$ $W$	Chemical	2
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $W$	Chemical	2
+$W$ - $W$ - $N$ , $N$ - $W$ - $N$ ( $W$ ) - $W$	Chemical	2
+$W$$N$ : $N$ $W$ - $N$	GENE	2
+$W$ $N$ - $W$ - $W$ - $W$ - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	2
+$N$ - $W$ - $N$ , $N$ - $W$ [ $N$ . $N$ . $N$ . $N$ ( $N$ , $N$ ) . $N$ ( $N$ , $N$ ) ] $W$ - $N$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	2
+$N$ , $N$ ' - $W$ - $W$ ( $N$ - $W$ - $N$ - $W$ $W$ )	Chemical	2
+$W$ - $N$ - $W$ - [ $N$ - $W$ - ( $N$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$ ] - $N$ - $W$ - $W$ - $W$	Chemical	2
+$W$$N$$W$$N$ $W$ $W$$N$$W$$N$	GENE	2
+$W$ - $N$ - $W$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$	Chemical	2
+$W$ - ( $W$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ )	Chemical	2
+$N$ , $N$ - $W$ - $W$ $W$	Chemical	2
+$W$ $W$ $N$ - $W$ $N$	GENE	2
+[ ( $N$ ) $W$ ] ( - ) - $W$	Chemical	2
+[ ( $N$ ) $W$ ] ( + ) - $W$	Chemical	2
+$W$ - ( $W$ ) $W$	GENE	2
+$W$$N$ / $W$$N$$W$ $W$	GENE	2
+$W$ ( $W$ $W$	GENE	2
+$W$ - $W$ - ( $W$ , $W$ ) - $W$	Chemical	2
+$W$ - $W$ $W$ ) $W$ $N$	GENE	2
+$W$ ( $N$ ) $W$ ( $N$ ) - $W$ ( $N$ ) $W$ ( $N$ )	Chemical	2
+$W$$N$$W$ / $N$$W$ ( - / - )	GENE	2
+$W$$N$$W$ / $N$$W$	GENE	2
+$W$ - $W$ $W$ ( $W$ ) - $N$	GENE	2
+$W$ $W$ $W$ $W$ ( $W$ )	GENE	2
+$W$ ( - ) $W$	GENE	2
+$W$$N$ / $N$	Chemical	2
+$W$$N$$W$$N$ $W$ $W$$N$	GENE	2
+$W$ $W$ ( $W$ ) $W$	Chemical	2
+$W$ - $W$ ( $N$ ) $W$	GENE	2
+$N$ ' - $W$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	2
+$N$ / $N$	GENE	2
+$N$ - - $W$	Chemical	2
+$N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ - $W$ [ $N$ . $N$ . $N$ . $N$ ( $N$ , $N$ ) . $N$ ( $N$ , $N$ ) ] $W$	Chemical	2
+( + ) $N$ - $W$ - $W$	Chemical	2
+$N$$W$$N$ , $N$$W$$N$ , $N$$W$$N$	GENE	2
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+$W$ / $W$ $N$ $W$	GENE	2
+$W$ - $N$ / $W$	GENE	2
+( +/- ) - $W$	Chemical	2
+$N$ . $N$	GENE	2
+$W$ - $N$$W$ ( + )	GENE	2
+$W$ - $W$ $W$ ( $W$ ) - $N$ $W$	GENE	2
+( $N$ - $W$ - $N$ ) - $N$ , $N$ , $N$ , $N$ - $W$ $W$	Chemical	2
+$W$ $N$ , $N$ , $N$ - $W$	Chemical	2
+$N$ - ( $W$ ) - $N$ - $W$ $W$	Chemical	2
+$W$ $W$ - $W$ $W$ $W$ / $W$	GENE	2
+$W$ ( $N$ ) $W$ ( $N$ ) $W$ $W$	GENE	2
+$W$ - $W$ - $W$ - $N$	GENE	2
+$W$ . $W$ $W$ - $W$ $W$	GENE	2
+$W$ ( $W$ ( $N$ ) ) ( $N$ ) . $W$ ( $N$ )	Chemical	2
+$W$ ( $W$ - )	Chemical	2
+$N$ ' , $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	2
+$N$ - ( $W$ ) - $N$ - $W$	Chemical	2
+$N$ $W$ , $N$ - $W$ $W$ ( $N$ )	Chemical	2
+$W$ - $W$ - $W$ - $N$ , $N$ - $W$	Chemical	2
+( $N$$W$ , $N$$W$ ) - $N$ - ( $W$ - $N$ - $W$ ) $W$ - $N$ - $W$ $W$	Chemical	2
+$W$ - $N$ - $W$ - $N$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $W$	Chemical	2
+$W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ )	GENE	2
+$N$ , $N$ - $W$ - , $N$ , $N$ , $N$ - $W$ - , $W$ $N$ , $N$ , $N$ , $N$ - $W$	Chemical	2
+$N$ , $N$ - $W$ - $W$ - $W$ - $N$ - $W$ $W$	Chemical	2
+$W$ - ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$W$ - $N$ - $N$$W$	Chemical	2
+$W$ ( $N$ ) $W$ - $W$	GENE	2
+$N$ - $W$ - $N$$W$ - $W$	Chemical	2
+$W$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+$W$ $W$ ( $W$ - $W$ )	Chemical	2
+{ ( $N$$W$ ) $W$ ( $W$ ) ( $N$ ) } ( + )	Chemical	2
+[ $W$ ( $W$ ) ( $W$ ( $N$ ) ) ( $W$ ) ]	Chemical	2
+[ $W$ ( $W$ ) ( $W$ ( $N$ ) ) ( $N$ ) ( $W$ ) ]	Chemical	2
+$W$ - $N$ - $W$ $W$ $W$	GENE	2
+$W$ ( $N$ ) $W$ ( $N$ + )	Chemical	2
+( $W$ - $W$ ) ( $N$ )	Chemical	2
+$W$ - $W$ $W$ - $W$ - $W$	Chemical	2
+[ $W$ ( $W$ ) ( $N$ ) ]	Chemical	2
+$N$ , $N$ , $N$ - $W$ $W$ $W$	Chemical	2
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$W$ $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ $W$	Chemical	2
+$W$ ( $W$ ) $W$ $W$ $W$	Chemical	2
+$N$ , $N$ ' , $N$ , $N$ ' , $N$ - $W$ $W$	Chemical	2
+( $W$ ) - $W$ - ( $W$ ) - $W$	Chemical	2
+$W$ ( $W$ ( $W$ $W$ ) $W$ )	Chemical	2
+$W$ , $W$ , $W$ $W$ $W$	Chemical	2
+$W$ .	Chemical	2
+$W$$N$ - $W$ - $W$ $W$	Chemical	2
+$N$ , $N$ - $W$ [ $W$ ] $W$	Chemical	2
+$N$ $W$ - $W$ $W$	GENE	2
+$W$ ( $N$ ) - $W$ $W$	Chemical	2
+$W$$N$ ' - $W$	Chemical	2
+$W$ - $N$ , $N$ - $W$ - $W$ $W$	Chemical	2
+$W$ - $W$ ( $N$ ) $W$ ( $N$ )	Chemical	2
+$N$ - $W$ $N$ - $W$	Chemical	2
+$N$ , $N$ $W$ - $W$	Chemical	2
+$W$ - ( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ , $N$ , $N$ ` , $N$ ` - $W$ - $N$ - $W$ - $N$ ` - $W$	Chemical	2
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	2
+[ $W$ ] $W$	Chemical	2
+$W$ ' $W$ $W$ $W$ $W$	Chemical	2
+$W$ - $W$ - $W$ $N$ , $N$ - $W$	Chemical	2
+$W$ - $N$ , - $N$	GENE	2
+$W$ - $N$ - $W$ ( $W$ ) $W$	Chemical	2
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$ - ( $N$ ' - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$	Chemical	2
+$N$ $W$ - { $W$ - [ ( $W$ ' , $W$ ' - $W$ ) $W$ ] $W$ } $W$	Chemical	2
+$N$ , $N$ - $W$ - $W$ - $W$ $W$	Chemical	2
+$W$ - $W$ $W$ ( $W$ ) - $W$ $W$	GENE	2
+$W$ $W$ $N$ - $W$	Chemical	2
+$W$ $W$ ( - / - )	GENE	2
+[ $W$ ( $W$ ) ( $N$ ) ] -	Chemical	2
+$N$ , $N$ - $W$ ( $N$ , $N$ - $W$ ) - $W$ - $W$ - $N$ - $W$	Chemical	2
+$N$ - ( $W$ - $W$ - $W$ ) - $W$	Chemical	2
+$N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+$N$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	2
+$N$ , $N$ - $W$ - $W$ $N$ - $W$	Chemical	2
+$N$ , $N$ , $N$ - $W$ - $W$	Chemical	2
+$W$ $W$ ( $W$ ) - $N$	GENE	2
+$N$ - ( $N$ - $W$ - $W$ - $W$ - $W$ ) - $N$ - ( $N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ ) - $N$ - $W$ $W$	Chemical	2
+$N$ - ( $N$ - $W$ ) - $N$ , $N$ - $W$ $W$	Chemical	2
+$N$ ' , $N$ ' - $W$ $W$	Chemical	2
+$W$ - $W$ - $W$ - $W$ ( $W$ ) ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( $N$ )	Chemical	2
+$N$ - $W$ - $N$ - ( $N$ , $N$ , $N$ - $W$ - $W$ ) - $N$$W$ - $W$	Chemical	2
+$W$ - ( $N$ - $W$ - $W$ ) - $W$	Chemical	2
+$W$ - [ $N$ - ( $W$ ) $W$ ] - $W$	Chemical	2
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+$N$ - ( $N$ - $W$ ) $W$ $W$ , $W$ , $W$ ' , $W$ ' - $W$ $W$	Chemical	2
+( $N$$W$ , $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ - ( $W$ ) $W$ - $N$ - $W$ $N$ - $W$ - ( $N$ - $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$ - $W$	Chemical	2
+[ $W$$N$$W$$N$$W$ ] $W$	Chemical	2
+$W$ ( $W$$N$ $W$ $W$$N$ )	Chemical	2
+$N$ ' - $W$ - $W$ ( $W$ - $W$ - $W$ )	Chemical	2
+$W$ $W$ - $N$ - $W$ $W$	GENE	2
+$W$ / $W$ ) $W$ ( $W$ ) $W$	GENE	2
+$W$$N$ $W$ - $N$	Chemical	2
+$W$ ( $W$ $W$ ) - $W$	Chemical	2
+$W$ $W$ $N$$W$ - $W$	GENE	2
+$W$ $W$ $N$ $W$ - $N$ - $W$	Chemical	2
+$N$ , $N$ - $W$ $W$ $N$ $W$ - $N$ - $W$	Chemical	2
+$N$ ' - $W$ - $N$ , $N$ - $W$	Chemical	2
+$W$$N$$W$ - $N$ ' $W$ $W$	GENE	2
+$N$ - $W$ $W$ $W$ ( $N$ )	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	2
+[ ( $N$$W$ ) $W$ ] ( + $N$ )	Chemical	2
+$W$ $W$$N$ $W$ $W$$N$	GENE	2
+$N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	2
+$W$ $W$ $W$ $W$$N$$W$$N$	GENE	2
+$W$ $W$ / $W$ / $W$	GENE	2
+$N$ $W$ - $W$ - $N$ , $N$ - $W$	Chemical	2
+$W$ - $N$ , $N$ , $N$ ' - $W$	Chemical	2
+$N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	2
+$W$$N$ , $N$ - $N$	Chemical	2
+( $W$ - $N$ - $W$ ) $W$ - $W$	Chemical	2
+$N$ ' - $W$ - $W$ - $W$	Chemical	2
+$N$ - $W$ - $N$ - $W$ $W$ $W$	Chemical	2
+( $N$ ) $W$	2
+( $W$ ) - $W$ ( $W$ ) - $W$	Chemical	2
+$W$$N$ ~ $W$	GENE	2
+$W$ / $W$ $W$	Chemical	2
+$N$ , $N$ - $W$ ( $N$ - $W$ ) $W$	Chemical	2
+[ $W$ - $W$ ] [ $W$ ]	Chemical	2
+[ $W$ ] [ $W$$N$$W$ ]	Chemical	2
+( $N$$W$ ) , ( $N$$W$ ) - $N$ - $W$	Chemical	2
+$W$ $N$ - $W$ - $N$ , $N$ - $W$	Chemical	2
+$W$ $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+( $W$ , $W$ ) - [ ( $W$ * $W$$N$ ) $N$$W$$N$$W$$N$ ] ( $N$ - )	Chemical	2
+$W$$N$$W$ ( $W$$N$ )	Chemical	2
+$N$ ' - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	2
+$N$ ' - $W$ - $W$ - $N$ - $W$ - $W$ -	Chemical	2
+$W$$N$$W$ $W$ $W$$N$	GENE	2
+$W$ ( $W$ - $W$ - $W$ - $W$ $W$ )	Chemical	2
+$W$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$	Chemical	2
+$W$ ( $N$$W$ - $W$ - $N$$W$ )	Chemical	2
+$N$ $W$ - $W$ - $N$ - $W$ - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	2
+[ $N$ ( $N$ ) $W$ ] - $W$ - $N$ , $N$ ( $N$ ) - $W$ - $N$ - $W$ $W$	Chemical	2
+[ $W$$N$$W$$N$ ] ( - )	Chemical	2
+$N$ - $W$ - $N$ , $N$ ' , $N$ ' - $W$	Chemical	2
+$N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	2
+$W$ [ $N$ , $N$ , $N$ ] $W$	Chemical	2
+$W$ $W$$N$ ( - $N$ ) $W$ $W$$N$	Chemical	2
+$W$$N$$W$ ( - / $N$ )	Chemical	2
+( $W$ ) - $W$ $W$ $W$	Chemical	2
+$W$ $W$ - [ $N$ $W$ - $W$ - $N$ - $W$ - $N$ , $N$ ( $N$ ) - $W$ - $N$ - $W$ ] - ( $W$ ) - $W$	Chemical	2
+$W$ $N$ ' - { [ ( $W$ ) - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ ] $W$ } - ( $N$ ' $W$ ) - $N$ ' , $N$ ' - $W$ - $N$ ' , $N$ ' - $W$ - $N$ ' - $W$	Chemical	2
+$W$$N$$W$$N$ ( + )	GENE	2
+[ $W$ . $W$ - $W$ - $W$ . $W$ ] ( + )	Chemical	2
+$N$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	2
+$W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$	Chemical	2
+$W$ $N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	2
+$W$ ( $W$ ) - $W$ - $W$ - $W$ - $W$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $W$ - ( $N$ '' - $W$ - $W$ ) $W$	Chemical	2
+$N$ - $W$$N$	GENE	2
+$W$ $W$ - $W$ $W$ - $W$ - $W$	Chemical	2
+( + ) - $W$ - $W$ - $W$	Chemical	2
+( + ) - $N$ - $W$ - $W$ $W$ - $W$	Chemical	2
+$W$ - $W$$N$$W$$N$ $W$	GENE	2
+$W$ ( $W$ - $W$ ) $W$ $W$	Chemical	2
+$N$ , $N$ - $W$ $W$ $W$	Chemical	2
+$W$ - $N$ ( + )	GENE	2
+$N$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ ' $N$ ' - $W$	Chemical	2
+$W$ $N$ - $W$ $W$ $N$	GENE	2
+$N$ , $N$ $W$	Chemical	2
+$N$ $W$ $W$$N$$W$ $W$	GENE	2
+$W$ - $N$ , $N$ - $W$$N$	Chemical	2
+$W$$N$$W$ +	GENE	2
+$W$$N$$W$ + $N$$W$$N$$W$ ( $W$ ) $W$	Chemical	2
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ $W$ $W$	Chemical	2
+$W$$N$$W$$N$ - $N$	GENE	2
+( $W$ ) $W$ $W$	Chemical	2
+$W$ $N$ - $W$ - $W$ - $W$ - ( $N$ - $W$ - $W$ - $W$ ) $W$	Chemical	2
+$N$ - $W$ - $N$ '' , $N$ '' - $W$ - $N$ ' , $N$ ' - $W$	Chemical	2
+$W$ , $W$ - $W$ $W$ $W$	Chemical	2
+( - ) - $W$ - $N$ - $W$	Chemical	2
+$W$ $W$ $W$$N$ $N$$W$$N$	GENE	2
+$W$ ( $N$ ) , $W$ ( $N$ ) - $W$ - ( $W$ ) $W$	Chemical	2
+$N$ - $W$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+[ $W$$N$$W$ ] $W$$N$ . $N$	GENE	2
+$W$ - $W$$N$ / $N$ - $W$	GENE	2
+$N$ $W$	2
+$W$ - $W$ - $W$ - ( $N$ - $W$ ) $W$	Chemical	2
+( $N$ $W$ , $N$ $W$ , $N$ $W$ , $N$$W$ ) - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ - $W$	Chemical	2
+[ ( $N$ ) $W$ ]	Chemical	2
+$W$ - $W$$N$ - $W$	Chemical	2
+$W$ - $W$ ( $W$ ( $N$ ) $W$ ' )	Chemical	2
+( $W$ ) $N$$W$	Chemical	2
+( $N$$W$ ) - $N$ - $W$ - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - $W$ - $W$ ] - $N$ - $W$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ $W$ , $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$	Chemical	2
+$N$ - $W$ - $W$ $W$$N$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$	Chemical	2
+$W$ - $N$$W$$N$	Chemical	2
+< $W$ > * < / $W$ > $W$ < $W$ > $N$ < / $W$ >	Chemical	2
+< $W$ > $W$ < / $W$ > - $W$ < $W$ > $N$ < / $W$ >	Chemical	2
+< $W$ > $W$ < / $W$ > - $W$ ( $W$ ) < $W$ > $N$ < / $W$ >	Chemical	2
+$N$ $W$ , $N$ $W$ - $W$ - $N$ ( $N$ ) , $N$ - $W$	Chemical	2
+$W$$N$$W$ ( $W$ ) $W$	GENE	2
+( - ) - $W$ - $W$	Chemical	2
+$N$ $W$ - $W$ $W$	Chemical	2
+$W$$N$$W$ - $W$$N$$W$	GENE	2
+$N$ , $N$$W$ - $W$ - $N$$W$ - $W$	Chemical	2
+$N$ - ( $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+$ ^ { $N$ } $ $W$	Chemical	2
+$N$ - $W$ - [ $N$ ] - $W$	Chemical	2
+[ $W$$N$$W$ ] ( + )	Chemical	2
+[ $W$ ] ( - )	Chemical	2
+$N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+[ $N$$W$ ] $W$ - $W$ - $W$	Chemical	2
+[ $N$$W$ ] $W$ - $W$ - $W$ - $W$$N$	Chemical	2
+[ $N$$W$ ] $W$ - $W$ - $W$ - $W$ - $W$ - $W$$N$	Chemical	2
+$W$ - $W$ - $W$ - $W$$N$	Chemical	2
+$N$ - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ - $W$ - $N$ - $W$	Chemical	2
+$N$ , $N$ - $W$ $N$ - ( $N$$W$ ) - $W$ - $W$	Chemical	2
+( $N$$W$ ) $W$ - $W$ $W$	Chemical	2
+$N$ , $N$ - $W$ ( $N$ - $W$ ) - $W$	Chemical	2
+$W$ $W$ - $N$$W$	Chemical	2
+$N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	2
+( $N$$W$ ) - $N$ , $N$ ' - $W$ - $N$ ' , $N$ ' - $W$	Chemical	2
+$N$ - ( $W$ - ( $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ - $W$	Chemical	2
+$W$ - ( + ) - $N$ - $W$ - $N$ - $W$ $W$	Chemical	2
+( $W$ ) - $W$$N$	Chemical	2
+$N$ - ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$N$$W$ $W$	2
+$N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	2
+$W$ $W$ $W$ - $N$ ( $N$ )	GENE	2
+$N$ ( $W$ ) $W$	Chemical	2
+$N$ $W$ - ( $W$ ) - $N$ - ( $N$ - $W$ ) - $W$	Chemical	2
+$N$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - $W$ - $W$ - $N$ - $W$	Chemical	2
+$N$ - ( ( $N$$W$ ) - $N$ - { [ $N$ - ( $N$ - $W$ ) - $N$ - $W$ ] $W$ } - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	2
+$W$ $W$ - $W$ $W$ - $W$ / $W$	GENE	2
+$W$$N$$W$ ( $N$ )	Chemical	2
+( $W$ ( $N$ ) ) $N$ * $W$$N$$W$	Chemical	2
+$W$ - $W$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	2
+$W$ $W$ ( $N$ , $N$ , $N$ - $W$ ) $W$	Chemical	2
+$W$ $W$$N$ ( $W$ ) $N$$W$	GENE	2
+$W$ - $W$ $W$ $W$ ( $W$ ) - $W$	GENE	2
+$W$ ( $N$ - )	Chemical	2
+$W$ , $W$ , $W$ , $W$ $W$ $W$ $W$	Chemical	2
+$W$ - $W$ ( - / - )	GENE	2
+$W$ $W$ $W$ $W$ $W$ - $W$$N$	GENE	2
+( $N$$W$ ) $W$	2
+$W$ ( $W$ ) ( + )	Chemical	2
+$W$$N$$W$ ( $W$$N$$W$ )	GENE	2
+$W$ ( $N$ ) - $W$ $W$	GENE	2
+$W$$N$ - $W$$N$ / $W$$N$	GENE	2
+$W$$N$ ( - )	GENE	2
+$W$$N$ , $N$ . $N$	Chemical	2
+$W$ - $W$ - $W$$N$	Chemical	2
+( $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	2
+( $N$ ) $W$ ( $W$ )	Chemical	2
+$W$ ( $W$ ) - $W$ - $W$	Chemical	2
+$N$ , $N$ '' - $W$ $W$	Chemical	2
+$N$ - ( $N$ - $W$ ) $W$ - $N$ - $W$ $W$	Chemical	2
+$W$ , $W$ ' - $W$ ( $W$ $N$ - $W$ ) - $W$ - $W$	Chemical	2
+$W$ ( $N$ ) $W$ $W$ ( $N$ )	Chemical	2
+$W$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	2
+$W$ ( - / - ) $W$ $W$	GENE	2
+$W$ - $W$ - $W$$N$$W$	GENE	2
+$N$ - ( $W$ , $W$ ' - $W$ ) $W$ - $N$ - $W$ $W$	Chemical	2
+$W$ ( $N$ ) $W$ $W$ $W$	GENE	2
+$N$ - $W$ - $N$ - ( $N$ , $N$ - $W$ ) - [ $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	2
+( $N$ , $N$ ' ) - $W$	Chemical	2
+$N$ - $W$ - $N$ $W$ , $N$ - $W$ $N$ - $W$	Chemical	2
+[ $W$ ( $W$ ) ( $N$ - $W$ ) $W$ ( $N$ ) ]	Chemical	2
+$W$ - $W$ $W$ $W$ ( $N$ )	GENE	2
+$W$ ( . + )	Chemical	2
+$W$ - $W$ ( $N$ ) $W$ ( $W$ )	Chemical	2
+$N$ / $N$ $W$	2
+( $N$$W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$W$$N$ $N$$W$$N$ / $N$	GENE	2
+$N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $N$ - $W$	Chemical	2
+$W$ $N$ -	Chemical	2
+$W$ $W$ - $W$ $W$ $W$ $W$ - $W$ $W$	GENE	2
+$W$ $N$$W$$N$	Chemical	2
+$W$ $N$ - $W$ - $W$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	2
+$W$ $N$ - $W$$N$$W$ $W$	GENE	2
+$W$ - $N$ , $N$ ( $N$$W$ ) - $W$	Chemical	2
+$N$$W$ - $N$	GENE	2
+$W$ ( $N$ / $N$ ) $W$ ( $N$ / $N$ ) $W$ ( $N$ / $N$ ) $W$ $N$	Chemical	2
+$W$ ( $N$ ) ( $N$ ) $W$	Chemical	2
+$N$ - ( ( $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	2
+[ $W$ ( $W$ ) ( $W$ ) ] ( $N$ + )	Chemical	2
+[ $W$ ] [ $W$ ( $W$ ) $N$ ]	Chemical	2
+$N$ - $W$ - $N$ - $W$ $W$ ( $W$ ) $W$	Chemical	2
+$W$ - $N$ - $W$$N$	GENE	2
+$W$ - $N$ - $W$$N$$W$ $W$	GENE	2
+[ $W$ ( $W$ ) ( $N$ ) ] ( $N$ + )	Chemical	2
+$W$ ( $W$ $W$ ) - $W$ ( $W$ $W$ )	Chemical	2
+$N$ , $N$ , $N$ , $N$ , $N$ $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	2
+$W$ $W$ $W$ ( $N$ )	Chemical	2
+$W$ $N$ $W$ $N$ $W$ $N$ $N$	Chemical	2
+$W$ ( $W$ - $W$ - $W$ ) $W$	Chemical	2
+$W$ $W$ - $W$ $W$ $N$ / $N$	GENE	2
+$N$ ' - $W$ , $N$ ' - $W$ - $W$ - $W$ / $W$ $W$ $W$	Chemical	2
+$W$ $W$ - $W$ $N$	GENE	2
+$W$ - $W$ $N$$W$ $W$ $W$$N$	GENE	2
+$W$ ( $N$ ) $W$ $W$ ( $N$ ) $W$	GENE	2
+$N$ , $N$ - $W$ $W$ - $W$	Chemical	2
+$W$ $N$ - $W$ - $W$ - $W$	Chemical	2
+$W$ ( $W$ ) $W$ $W$ $W$	GENE	2
+$N$ - $W$ - $W$ , $W$ - $W$	Chemical	2
+$W$ [ $W$ ]	Chemical	2
+$W$ ( $W$ $W$ ) - $W$ - $W$ ( $W$ $W$ )	Chemical	2
+$W$ ( $W$ ) $W$ ( $N$ - $W$ )	Chemical	2
+[ $W$ ( $W$ ) $N$ ( $N$$W$ ) ] ( $W$$N$ ) $N$	Chemical	2
+$N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	2
+$N$ , $N$ ' [ ( $N$ - $W$ ) $W$ ] $W$ ( $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ )	Chemical	2
+$W$ , $W$ - $W$ ( $W$ ) - $N$ , $N$ - $W$	Chemical	2
+$W$ $W$ - $W$ $W$ $W$	Chemical	2
+$W$ $W$ $N$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	2
+$W$ [ $N$ , $N$ - $W$ ] $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	2
+$N$ $W$ , $N$ , $N$ - $W$	Chemical	2
+$N$ $W$ - $W$ - $W$ - $W$	Chemical	2
+( $N$ - $W$ ) - $N$ , $N$ - $W$	Chemical	2
+$W$$N$ . $N$$W$$N$ . $N$$W$$N$ . $N$$W$$N$	Chemical	2
+$N$ - $W$ $N$ - ( $N$ - $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+$N$ - $W$ - $N$ - ( $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+$W$ [ $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	2
+$N$ - ( $W$ - $N$ - $W$ ) - $W$ - $W$ - $W$ - $W$	Chemical	2
+$W$$N$ ( . - )	Chemical	2
+$N$ ' - $W$ ( $W$ ) - $N$ - ( $W$ - $N$ ( $N$$W$ ) - $W$ ) - $W$ - $W$	Chemical	2
+$W$$N$ ( - * )	Chemical	2
+$W$$N$ ( * - )	Chemical	2
+$N$ - $W$ - $N$ - [ $N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$ ] - $N$ , $N$ - $W$	Chemical	2
+$W$ $W$ - $W$ $W$ - $W$ $W$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$	Chemical	2
+[ $W$ - $W$ - $N$ ] - $W$$N$	GENE	2
+$W$ - $N$ $W$ - $W$ - $N$ - $W$ $W$	Chemical	2
+( $W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ - ( $W$ - $N$ - $W$ ) $W$ ) $W$ $W$	Chemical	2
+$W$ [ $W$ ] [ $N$ , $N$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	2
+$W$ [ $N$ ] $W$ $W$	Chemical	2
+( $W$ ( - ) ) $N$	Chemical	2
+$W$$N$ ( - ) .	Chemical	2
+$N$ - ( $W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - $W$	Chemical	2
+$N$ $W$ - $W$ - $W$ - $W$ - $W$ - $N$ $W$ , $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	2
+$N$ - $W$ $W$ $W$$N$$W$ $W$	Chemical	2
+$N$ - ( $N$ - $W$ ) $W$ $W$ $W$ $W$$N$$W$ $W$	Chemical	2
+$W$$N$$W$ $W$	Chemical	2
+$W$ $W$ $N$ - $W$ $W$ $N$	GENE	2
+$W$ - $W$ $W$ $W$ $N$ $W$	GENE	2
+$N$ - { [ ( $N$ - $W$ ) ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ] $W$ } $W$ $W$	Chemical	2
+( $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	2
+$W$$N$ ( $W$$N$ ) $N$$W$$N$$W$$N$	Chemical	2
+$W$ $N$ ' , $N$ ' , $N$ ' - $W$	Chemical	2
+$N$ $W$ - $W$ $W$$N$ $W$	Chemical	2
+$N$ ( $W$ ) - $W$ $W$$N$ $W$	Chemical	2
+$N$ - $W$ $W$ - $W$ - $W$	Chemical	2
+$N$ $W$ - $W$ - $N$ $W$ , $N$ $W$ - $W$	Chemical	2
+$N$ , $N$ - $W$ - $N$$W$ - $W$	Chemical	2
+$N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	2
+$N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	2
+$N$ - $W$ - $N$ , $N$ ' , $N$ , $N$ ' - $W$ $W$	Chemical	2
+$N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$	Chemical	2
+$N$ - $W$ - $N$ - ( $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$	Chemical	2
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ ( $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	2
+$W$ ( $N$ - ( $W$ ) $W$ $W$ )	Chemical	2
+$W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	2
+$W$ $N$ - $W$ - $N$ ' $W$	Chemical	2
+$W$ $W$ $W$ $W$ $N$$W$$N$	GENE	2
+$W$ - $N$ - $W$ - ( $N$ - $W$ ) $W$	Chemical	2
+$W$ - $W$ , - $W$ $W$ - $W$	Chemical	2
+[ $W$ ( $W$ ) $N$ ( $W$ ) ] ( $W$$N$ ) $N$	Chemical	2
+$W$$N$ , $N$ $W$ $N$	GENE	2
+[ $W$ ( $W$ - $W$ ) ( $W$ ) ]	Chemical	2
+$N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	2
+$W$ - $N$$W$ - $W$	GENE	2
+$W$ [ $N$ , $N$ - $W$ ( $W$ ) - $N$ - $W$ ] - $W$ - $W$ ( $W$ $W$ )	Chemical	2
+$W$ - $N$ / - $N$	GENE	2
+[ $W$$N$ ] [ $W$ ]	Chemical	2
+[ $W$$N$ ] [ $N$ - $W$$N$$W$ ]	Chemical	2
+$N$ ''' - ( $N$ - $W$ - $N$ - $W$ ) - $N$ '' - $W$ - $W$ - $W$ - $W$ $W$	Chemical	2
+$W$$N$ _ $W$$N$$W$	GENE	2
+$W$ ( $N$ , $N$ - $W$ $W$ ) $W$	Chemical	2
+$W$ ( $W$ $N$ , $N$ - $W$ $W$ ) $W$	Chemical	2
+$W$ ( $N$ , $N$ - $W$ $W$ )	Chemical	2
+$N$ ' - $W$ , $N$ ' - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	2
+$W$ ' $W$$N$	Chemical	2
+: $W$ = $W$$N$	Chemical	2
+$N$ - ( $W$ - ( $N$ - ( ( $N$ - $W$ ) $W$ ) $W$ ) $W$ ) - $N$ - $W$ $W$ $W$	Chemical	2
+$N$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ - $W$	Chemical	2
+$N$ ( $W$ , $W$ ) - $N$ - $W$$N$ - $W$	Chemical	2
+$N$ ( $W$ , $W$ ) - $N$ - $W$ - $W$	Chemical	2
+$N$ ( $W$ ) - $N$ - $W$ - $W$	Chemical	2
+( $N$ ) $W$ $W$ $W$ - $W$	Chemical	2
+$W$$N$ * $W$ / * $W$	GENE	2
+$N$ , $N$ , $N$ - $W$ - $W$ - $W$	Chemical	2
+$W$ - $W$ $N$ , $N$ , $N$ - $W$	Chemical	2
+$W$ [ $N$$W$ - ( $N$ , $N$ ) - $W$ - $N$ , $N$ ' - $W$ ]	Chemical	2
+$W$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	2
+$W$ $N$ $W$ - $W$	GENE	2
+$W$ . $W$ $W$$N$ - $W$	GENE	1
+$N$$W$$N$ +	Chemical	1
+$N$ - $W$ - $N$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ / $N$ / $N$ $W$ $W$	GENE	1
+$W$ $W$ $N$ ' , $N$ ' - $W$	Chemical	1
+$W$ $W$ $W$ : $W$	GENE	1
+$W$ . $W$ : $W$	GENE	1
+$W$$N$ ( $W$ $W$ - $W$ ) $W$	GENE	1
+$W$ ( $W$ ) / $W$ ( $W$ )	GENE	1
+$W$ ( + ) - $W$	Chemical	1
+$N$ , $N$ - $W$ $W$ - $N$ $W$	GENE	1
+$W$ - $N$ - ( $W$ - - > $W$ )	GENE	1
+$N$ ( $W$ $W$ $W$	Chemical	1
+( $W$ ) $W$ - $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ , $W$ $W$ $W$ . $W$	GENE	1
+$W$ $W$$N$ ( $W$$N$ ) / $W$ $W$ $W$	GENE	1
+$W$ $N$$W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ ( $W$$N$$W$ , $W$$N$$W$ )	GENE	1
+$W$ - , $W$ - , $W$$N$ - , $W$ $W$ - $W$	GENE	1
+$W$ $W$ $W$ - $W$ ( $W$ ) $W$	GENE	1
+$W$ $W$ $W$ - $N$ $W$ - $N$	GENE	1
+( $W$$N$ ) $N$ ( $W$$N$ ) $N$$W$$N$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ $N$ $W$ $N$	GENE	1
+$W$$N$ + / $W$ - $W$ $W$ $W$	GENE	1
+( $N$ - - > $N$ ) - $W$ - $W$ $W$ $W$ $W$ - $W$	GENE	1
+$W$ $W$ $W$ $W$ - $N$ ( $W$ - $N$ ) $W$ $W$	GENE	1
+$W$$N$ $W$ $W$ $W$$N$ , $W$ , $W$ $W$ - $N$	GENE	1
+$W$ ( $W$ $W$ $W$ $W$ ) $W$	GENE	1
+$W$$N$ $W$ $W$ ( $W$$N$$W$ ) - $W$$N$$W$	Chemical	1
+$W$$N$$W$ - $W$$N$$W$	Chemical	1
+$W$$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $W$ )	Chemical	1
+$N$ , $N$ - $W$ - $N$ - ( $N$ , $N$ , $N$ - $W$ - $W$ ) - $W$	Chemical	1
+$W$ $W$ + $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$$N$ $W$ $W$ $W$	GENE	1
+$N$ $W$ $N$ ( $N$ - $W$$N$ ) $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ - $W$ $W$	GENE	1
+$W$$N$$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$$N$	Chemical	1
+$W$ [ $W$ + ] $W$	Chemical	1
+$W$ $W$ $W$ ( $W$ ) $W$ $W$ $W$$N$	GENE	1
+[ $N$$W$ ] - $W$ - $W$	Chemical	1
+$W$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$	GENE	1
+$W$$N$$W$$N$$W$$N$$W$$N$	Chemical	1
+$W$ [ $W$ ]	GENE	1
+$N$ - $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$$W$$N$ $W$ - $N$ $W$	GENE	1
+$N$ , $N$ - $W$ ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) - $N$ - [ ( $W$ - $W$ ) $W$ ] - $N$$W$ - $W$ $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ $N$ ' - $W$	Chemical	1
+$W$$N$ $W$$N$ . $N$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $N$ ( $W$ - $N$ )	GENE	1
+$W$ $W$ $W$ $W$ $N$ - $W$ $W$	GENE	1
+$W$ [ $N$$W$ ] $W$	Chemical	1
+$N$ ( $W$ ) - $W$ $W$	Chemical	1
+$W$$N$$W$$N$$W$$N$ $W$	GENE	1
+$W$ $W$ ( $W$ / $N$ ) $W$	GENE	1
+" $W$ $W$ . "	GENE	1
+$W$ $W$ , $W$ , $W$ $W$ $W$	GENE	1
+$W$ $W$ '	GENE	1
+$W$ $W$ $W$$N$ - $W$ - $N$ $W$	GENE	1
+$W$ $W$ $W$ $N$ - $W$ - $W$ $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ $W$ $W$ ( $W$ - $W$ ) $W$	GENE	1
+$N$ - $N$ - $W$ $W$ - $W$	GENE	1
+$W$ ( - ) $N$$W$$N$	Chemical	1
+$W$ + $W$	Chemical	1
+$W$ $W$ $W$ $W$ - $N$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $N$ ( $W$ - $N$ ) $W$ $W$ $W$	GENE	1
+$W$ $N$$W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ $W$ $W$ $W$ - $N$ $W$	GENE	1
+$W$ ( $W$$N$$W$ ) $W$	GENE	1
+$W$ . $N$ $W$ $W$	GENE	1
+$W$$N$ ' - $W$	GENE	1
+$N$ . $N$ $W$ $W$ $W$	GENE	1
+$W$ ( $N$ + ) - $W$ $W$ - $W$ $W$	GENE	1
+$W$ $N$$W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ ( $W$ $W$ $N$ )	GENE	1
+$W$ - $N$ / $W$$N$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ $W$ ( $W$ - $N$ $W$ ) - $W$ $W$	GENE	1
+$W$$N$ - $N$ - $W$	Chemical	1
+$W$$N$ ( $W$ ) $W$ $W$ $W$	GENE	1
+$W$$N$$W$ $W$ ( $W$ )	GENE	1
+[ $W$ $N$$W$ ] $W$	Chemical	1
+$W$ $W$ $W$ $W$ $N$$W$ $W$	GENE	1
+$W$ $N$ $W$ - $W$	Chemical	1
+$N$$W$ $W$ - $W$	GENE	1
+( $W$$N$$W$$N$ ) - $W$	Chemical	1
+$W$$N$ $W$ $W$ $W$$N$ . $N$	GENE	1
+$W$$N$$W$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ $W$ - $N$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ . $N$ $W$	GENE	1
+$W$ ' ( $N$ )	GENE	1
+$W$ $W$ $W$ / $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ ( - $N$ / - $N$ )	GENE	1
+$W$ - $W$ $W$ - $N$ $W$ $W$ $W$	GENE	1
+$W$ $N$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$	GENE	1
+$W$ - $W$ ( $W$$N$ ) $W$ $W$ $N$$W$$N$	GENE	1
+$W$ - $N$$W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ ( $W$ ) $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ ( $W$ ) - - $W$	GENE	1
+$W$ $N$ / $N$ $W$$N$$W$ $W$	GENE	1
+$W$$N$$W$ $N$ ' $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ / $W$ $W$	GENE	1
+$W$$N$$W$ : $W$$N$$W$ $W$ $W$$N$ - $N$ $W$ $W$	GENE	1
+$W$ $N$ . $N$ $N$ ' $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ ( $W$ ) - $W$ $W$	GENE	1
+$W$ - $N$ ( $N$ - $N$ )	GENE	1
+$W$ - ( $N$ - $W$ - $N$ - $W$ ) - $W$ - $W$ $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ $N$ $W$ - $W$ $W$	GENE	1
+$W$ - $N$$W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+' $W$	GENE	1
+$W$ / +	GENE	1
+$W$$N$$W$ . $N$ $W$	GENE	1
+$W$ $W$ - $W$ - $W$ $W$ $W$ ( $W$ - $W$ ) $W$ $W$	GENE	1
+$W$ $N$ - $N$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ ( $W$ - $W$ $W$ $W$ )	GENE	1
+$W$ . $W$ $W$ $N$$W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$$N$ ( $N$ )	GENE	1
+$W$ # $N$	GENE	1
+$W$ . $N$ $W$	GENE	1
+$N$ - $W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$$N$	GENE	1
+$W$ - $N$ $W$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$$N$ $W$	Chemical	1
+$W$ $W$ - $W$ $W$ $W$ / $W$ $W$ $W$	GENE	1
+$W$$N$ $N$ ' - $W$$N$	GENE	1
+$W$ $W$ $W$ - $N$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ - $W$	GENE	1
+$W$ - - $W$$N$ $W$	GENE	1
+$W$ ( $W$ / $W$ ) $W$	GENE	1
+$W$$N$$W$ - $W$ $W$ $W$$N$$W$ - $W$ $W$	GENE	1
+$W$ - $N$ )	Chemical	1
+$W$ / $W$ - $W$ , $W$ - $W$ , $W$	GENE	1
+$W$ $N$ - $W$ $W$$N$	GENE	1
+$W$ $W$ - $W$ - $W$ ( $W$ ) $W$	GENE	1
+$W$ $W$ - $W$ $N$$W$	GENE	1
+$W$$N$ - $W$ / $W$$N$ + $W$	GENE	1
+$W$ - $W$ $W$$N$ +	GENE	1
+$W$ - $N$ - $W$ $W$ ( $W$ ) $N$ , $N$ , $W$ $N$	GENE	1
+$N$ , $N$ $W$ ( $N$$W$ ) $W$ $W$	GENE	1
+$W$ $W$ $W$ ( $W$ ) - $N$ $W$ $W$	GENE	1
+$W$ $W$ - $W$ $N$ ' $W$ $W$	GENE	1
+$W$ $W$$N$ $W$$N$	Chemical	1
+$W$ ' $W$ - $W$ ' $W$	GENE	1
+$W$ $N$ $W$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ - $W$$N$ $W$	GENE	1
+$W$$N$ / $N$ $N$ - $N$$W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $N$$W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ - $N$$W$ $W$	GENE	1
+$N$ . $N$ ( $W$$N$ ) $W$	GENE	1
+$W$ $W$ / $W$ - $W$ - $W$ ( $W$ ) $W$ $W$	GENE	1
+$W$ - $W$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$ ' - ' $W$	GENE	1
+$W$ $W$ - ( $W$ ) $N$$W$	GENE	1
+" $W$ " $W$ $W$ $W$	GENE	1
+$W$ , $N$ - $W$	Chemical	1
+$W$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$ - $W$	GENE	1
+$W$ + / $W$ + $W$	GENE	1
+( $W$$N$ ) $N$ - $W$ $W$	GENE	1
+$W$ - $W$ . $W$ $W$	GENE	1
+$N$ . $N$$W$	GENE	1
+$N$ $W$ $W$ - $W$ $W$ $W$ ( $W$$N$ )	GENE	1
+$N$ $W$ $W$ $W$ ( $W$$N$ )	GENE	1
+$W$ - $W$ $N$ ' $W$ $W$ ( $W$ )	GENE	1
+$W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$ $W$	Chemical	1
+$W$ $W$$N$ $W$$N$	GENE	1
+$W$ - $W$ $W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ $N$ $W$ $W$ $W$ . $W$ $W$ $W$	GENE	1
+$W$ ( $W$ , $N$ ) ( $W$ ( $W$ ) , ( $N$ ) ( $W$ ) - $W$ - $W$ - $N$ ' $W$	GENE	1
+$W$ ( $W$ , $N$ ) ( $W$$N$ ) - $W$ - $W$ - $N$ ' $W$	GENE	1
+$W$ $N$ $W$ ( $W$$N$ - $N$ $W$	Chemical	1
+$N$ - $W$ $W$ $W$ $W$ - $N$ $W$	GENE	1
+$W$$N$$W$$N$ - $W$ $W$	GENE	1
+$N$ ' $W$ - $W$ $W$	GENE	1
+$N$ - $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ , $N$ - $W$ $W$	GENE	1
+$W$ $W$ - $N$ , $N$ - $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$ - $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ ( $W$$N$ / $N$ )	GENE	1
+$W$ $N$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - ( $W$ $W$ ) $W$	GENE	1
+$W$ $W$ $W$ , $W$ , $W$ , $W$ , $W$	GENE	1
+$W$$N$ - $W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ - $N$ - $W$ , $N$ - $W$	GENE	1
+$W$ - $W$ $W$ $W$ ( $W$ ) $W$ ( $W$ ) $N$	GENE	1
+$W$$N$$W$ $W$ $N$	GENE	1
+$W$$N$$W$ - $W$ - $N$$W$ $W$ $W$	GENE	1
+$W$ - $W$ $N$ ( $W$ ) $W$	GENE	1
+$N$ - $N$	Chemical	1
+$N$ - $W$ - $N$ - [ $N$ - [ ( $N$ - $W$ ) - $W$ ] $W$ ] - $N$ - $W$ - $N$$W$ - $W$ $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$$N$$W$ $N$ - $N$	GENE	1
+$W$ ( $W$ ) $N$ - $N$$W$	GENE	1
+[ $N$ ] [ $N$ ] [ $N$ ] [ $N$ ] [ $N$ ] [ $N$ ]	Chemical	1
+$W$$N$ . $N$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ , $W$ $W$	GENE	1
+$W$$N$$W$ ( $N$ $W$ $W$ [ $W$ ] )	GENE	1
+$W$ - $N$$W$ - $W$	Chemical	1
+$W$ - $N$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $N$$W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$$W$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ [ $W$ ] $W$	Chemical	1
+( + ) - $W$ - $W$ [ $W$ ] $W$	Chemical	1
+( + ) - $W$ - $W$ - ( $W$ [ $W$ ] $W$ ) $W$$N$	Chemical	1
+$W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - ( $W$ [ $W$ ] $W$ ) $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$	Chemical	1
+$W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$ - $W$$N$	Chemical	1
+( $W$ [ $W$ ] $W$	Chemical	1
+$W$ $W$$N$ $W$ - $W$ $W$ ' $W$	GENE	1
+$W$$N$ - / -	GENE	1
+$W$ $W$ $W$$N$ $W$ - $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ - $W$ ( $W$ - $W$ ) $W$	GENE	1
+$W$$N$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$ - $W$ - $W$	GENE	1
+$W$ $W$ $N$$W$ $W$	Chemical	1
+$W$ ( $N$$W$ ) $W$$N$ $W$	GENE	1
+( $W$ ) ( $N$ )	GENE	1
+$W$$N$ - ]	Chemical	1
+$W$ ( $N$ , $N$ , $N$ ) $W$	Chemical	1
+$W$ $W$$N$ ( $N$ - $N$ ) $W$	GENE	1
+$W$ ( $W$ - $W$ ) $N$	Chemical	1
+$W$$N$ - $N$$W$ $W$ $W$	GENE	1
+$W$ $W$ $N$$W$ $W$ $N$ $W$	GENE	1
+$W$ $W$ ( $W$ ) $N$	Chemical	1
+$W$ $W$ $W$ $N$ . $N$ $W$ $N$ . $N$ $W$	GENE	1
+$W$$N$ ( + ) - $W$ $W$ $W$	GENE	1
+$W$$N$$W$ , - $N$ , - $N$ , - $N$ , $W$ - $N$$W$	GENE	1
+$N$ - $N$ - $W$ - $W$ - $N$ - $W$	Chemical	1
+$W$$N$$W$ _ $N$$W$ $W$	GENE	1
+$W$$N$$W$$N$ . $W$$N$ . $W$$N$ ( $N$ - $N$ )	GENE	1
+$N$ - $W$ $W$ - $W$$N$ $W$	GENE	1
+$W$ $W$ ( $W$ + $N$ $W$ $W$ + $N$ )	GENE	1
+$W$ $W$ $W$ $N$ $W$ $N$$W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ $N$ , $N$ , $N$ - $W$ $W$ $W$	GENE	1
+$N$ , $N$ - $W$ $W$ $W$$N$	Chemical	1
+$W$$N$ / $N$$W$ $W$	GENE	1
+$W$ $W$ ( $W$ ) $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$ , $N$ , $W$ $N$	GENE	1
+$W$ / $W$ $W$ - $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ $W$ $W$ $N$ $W$ $W$	GENE	1
+( $W$ + $W$ ) $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ - $N$ $W$	GENE	1
+$W$ $W$ $N$ ( $W$ ) $W$ $W$	GENE	1
+$N$ - ( $W$ - $W$ ) - $N$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$$N$$W$ $W$ $W$	GENE	1
+$W$ $W$ ( + ) - $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ / $W$ - $W$ - $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ $N$ $W$ $W$$N$	Chemical	1
+$W$ ( $W$ ) $W$ , $W$ , $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $N$ - $W$ - $W$	GENE	1
+$W$ $N$ $W$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$ $W$$N$$W$ $W$	GENE	1
+$W$$N$$W$$N$ , $W$$N$ $W$	GENE	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ $W$ - $W$ - $N$ $W$ - $W$ - $N$ - ( $W$ - $W$ ) $W$ - $N$ $W$ , $N$ $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ $W$ - ( $W$ - $W$ ) - $N$ $W$ - $W$ - $N$ - $W$ - $N$ $W$ , $N$ $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ $W$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ $W$ ( $W$ - $N$ )	GENE	1
+$W$ + + - $W$	GENE	1
+$W$ $W$ / $W$ / $W$ - $W$ $W$ $W$	GENE	1
+$W$ $N$ $W$ / $W$ $W$ $W$	GENE	1
+$W$ - $W$ $N$ $W$ $W$	GENE	1
+$W$ - $W$ - $N$$W$ - $W$	Chemical	1
+$W$ - $N$$W$ - $W$ $W$	GENE	1
+$W$$N$ / $N$ ' $W$ ' $W$ $W$ $W$ $W$ , $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$$W$ , $W$ , $W$ $W$	GENE	1
+$W$$N$$W$$N$ - $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ ( $W$ ) - $W$ $W$ / $W$ $W$ $W$	GENE	1
+$W$$N$ , $W$$N$ , $W$$N$ , $W$ $W$$N$$W$ $W$ $W$	GENE	1
+$W$ $N$ $W$ $W$ - $W$	GENE	1
+( $W$$N$$W$ $W$$N$ . $N$$W$$N$$W$ ) $W$	Chemical	1
+$W$ - $N$ / $W$ - $N$ $W$	GENE	1
+$W$ $N$ - $W$$N$ $W$	GENE	1
+$W$ $N$ . $N$$W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$$N$	GENE	1
+$W$ $N$ ' , $N$ ' - $W$ ( $N$ - $N$$W$ ) $W$	GENE	1
+$W$ $W$ - $W$ $W$ ( $W$ / $W$ ) $W$	GENE	1
+$W$ $W$ ( $N$ ) $W$ $W$ $W$	GENE	1
+$N$ ' $W$$N$$W$ $W$	GENE	1
+$W$$N$$W$ - $N$$W$	GENE	1
+$W$ $W$ $W$$N$ , $N$ - $W$	GENE	1
+$W$ , - $W$ , $W$ - $W$	GENE	1
+$W$ ' $W$ $W$$N$ + $W$ $W$	GENE	1
+$W$$N$ $W$ $W$ $W$ $W$ [ $W$ ] $W$ $W$	GENE	1
+$N$$W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ $W$ ( $W$ - $W$ ) $W$	GENE	1
+$N$ - ( $W$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - $W$ $N$ - $W$ [ $W$ ] $W$ $W$	Chemical	1
+$W$$N$ - $W$$N$ - $W$$N$	Chemical	1
+$W$$N$ - $W$ $W$ $W$$N$ - $W$ $W$	GENE	1
+[ $N$$W$ ] $W$ $W$$N$	Chemical	1
+$W$ - $W$ $W$$N$ - $N$ $W$	GENE	1
+( $N$$W$ ) $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - $N$	GENE	1
+$W$ $W$ / $W$ $W$ / $W$ $W$ - $W$ - $W$	GENE	1
+( - ) - ( $N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ ) - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ [ $W$ ] $W$	Chemical	1
+$W$ ( $N$ , $N$ ) ( - ) - ( $N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ ) - $W$$N$ - [ $N$ - ( $N$ , $N$ , $N$ , $N$ - $W$ [ $W$ ] $W$ ) ] - $N$ ' - $W$	Chemical	1
+$W$ ( $W$ ) / $W$$N$$W$	GENE	1
+$N$ . $N$ - $W$ $W$ - $W$ $W$ - $W$ $W$ $W$	GENE	1
+$N$ - $W$ $W$$N$ - $N$ - $W$	GENE	1
+$W$$N$ $W$ ( $N$ - $N$ $W$ , $N$ . $N$ $W$ )	GENE	1
+$W$$N$ / $W$ $W$ - $W$ $W$ $W$$N$$W$	GENE	1
+$W$ $W$ $W$ - $W$ - $W$	GENE	1
+$W$ - $W$ $W$ $W$ ( $W$ ) $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ $W$ - $W$ ( $W$ ) $W$ $W$	GENE	1
+$N$ $W$ $W$ - $N$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ ( $W$ ) - $W$ $W$ $W$ $W$ - $N$	GENE	1
+$N$$W$$N$ - $N$$W$$N$	Chemical	1
+$N$$W$ - $W$$N$ $W$	GENE	1
+$N$$W$ $W$ - $W$	Chemical	1
+$W$$N$ - $N$ / $N$ $W$	GENE	1
+$W$$N$ . $N$ , $W$ , $W$	GENE	1
+$W$ . $W$ - $W$ $W$	GENE	1
+$W$ $W$ $N$ . $N$ $W$ $W$	GENE	1
+$W$$N$$W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $N$$W$ ( $W$$N$ ) $W$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ $W$ $W$ ( $W$ $W$ ) $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $W$$N$	GENE	1
+$N$ - $W$ - $W$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ / $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ $W$ - $W$ $W$ $W$	GENE	1
+" $W$ $W$$N$ "	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$ - $W$ - $N$ $W$ $N$ $W$ - $W$	Chemical	1
+$W$ - $W$ $W$ $W$$N$ - $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ $N$ - $W$	GENE	1
+$N$ - $W$ $W$ $W$ $W$$N$	GENE	1
+$W$$N$$W$ $N$$W$ $W$	GENE	1
+$N$ . $N$ - $W$ $W$	GENE	1
+$W$ $W$ $N$$W$	Chemical	1
+$N$ - $W$ $W$$N$ . $N$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ - $W$ ( $W$ $W$ ) $W$	GENE	1
+$N$ - $W$ $W$$N$$W$ $W$ $W$ $W$ $W$ $W$ $W$$N$	GENE	1
+$N$$W$ - $W$ ( $N$ )	Chemical	1
+$W$ - $W$ $W$ - $N$ ' - $W$	Chemical	1
+$W$ $W$ $W$ $W$ $N$ ' - $W$ $W$	GENE	1
+$W$ $N$ ' - $W$ $W$ ( $N$ ' - $W$ )	GENE	1
+$W$ ( $W$ $W$ ) $W$	GENE	1
+" $W$ $W$ "	GENE	1
+$W$ . $W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ ( $W$ )	GENE	1
+$N$$W$ +	Chemical	1
+$W$ ( $N$ + ) - $W$ - $W$ ( $N$ + )	Chemical	1
+$W$ - $W$ $W$ $W$ $W$ - $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ $N$ $W$ $W$ ( $W$ . $W$ )	GENE	1
+$N$ $W$ $W$ ( $W$ . $W$ )	GENE	1
+" $W$ . "	GENE	1
+$W$ $W$$N$ / *	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ $N$ $W$ $N$	GENE	1
+$W$ $W$ $W$ - $W$ $N$ ' $W$ $W$	GENE	1
+$W$$N$ , $W$$N$ - $W$ $W$	Chemical	1
+$W$ / $W$ $W$ $W$ $N$	GENE	1
+$W$ - $N$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ : $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $N$ ( $W$ ) $W$	GENE	1
+$W$ $W$ ( $W$ ) $W$ $W$ $W$	GENE	1
+$W$ $W$ $N$ $W$ $W$ $W$ $W$	GENE	1
+$W$ ( $N$ - $N$ ) $W$$N$$W$ / $W$$N$$W$	GENE	1
+$N$ , $N$ ( $W$ ) $N$ - $W$ $W$$N$	Chemical	1
+$N$ ( $W$ ) - $W$ $W$$N$	Chemical	1
+$N$ , $N$ , $N$ ( $W$ ) $N$ - $W$ $W$$N$	Chemical	1
+$W$ $N$ , $N$ $W$	Chemical	1
+$W$ - $W$ / $W$ - $W$ $W$	GENE	1
+$W$ $W$ ( + ) - $W$	GENE	1
+$W$ $W$ $W$$N$ + $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ . $W$ - $N$ $W$	GENE	1
+$W$ - $N$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ - $N$ - $N$ $W$	GENE	1
+$W$$N$ . $N$$W$$N$$W$	Chemical	1
+$W$ ( $N$ + ) - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ - $W$	GENE	1
+$W$ ( $W$ $W$ $W$ ) - , $W$ - $W$ $W$ - $W$	GENE	1
+$W$$N$ - - - - $W$$N$ - - - - $W$$N$ - - - - $W$$N$ - - - - $W$$N$	Chemical	1
+$W$ $W$ $W$ $W$ - $W$ $W$ - $W$ $W$	GENE	1
+$W$ ( $W$ ) $W$ $W$ ( $W$ )	Chemical	1
+$W$ / $N$ - $W$ - $W$	Chemical	1
+$W$ $W$ . $W$ $W$	GENE	1
+$N$ - ( $W$ ) - $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ $W$ $W$ $W$ $N$ $W$$N$	GENE	1
+$W$ $N$ $W$ $W$ $W$ $W$$N$ $W$	GENE	1
+$W$ $W$ $W$ $W$ . $N$	GENE	1
+$N$ - ( $N$ - $W$ ) - $W$ - $N$ - $W$	Chemical	1
+$N$ $W$ +	GENE	1
+$W$ - $W$$N$ - $W$ - $W$$N$ - $W$ - $W$$N$ - $W$	Chemical	1
+$W$ $W$ ( $W$ ) $W$ - $W$	GENE	1
+$W$ $W$ ( $W$ ) $N$ + $W$	GENE	1
+$W$ - $W$ ( - $N$ ) $W$	GENE	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+( $W$ - ) $W$	GENE	1
+$W$ $W$ $W$ / $W$ $W$	GENE	1
+$W$$N$ - - >	Chemical	1
+$W$ - $W$ $W$ ( $W$ ) $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$$N$ - $W$	GENE	1
+$W$ . $W$ $W$ $W$ , $W$ , $W$ $W$	GENE	1
+$W$ $W$ - $N$ $W$ - $W$	GENE	1
+$W$$N$ / $W$ - $W$ $W$	GENE	1
+$W$$N$ $W$ $W$$N$ $W$ $W$$N$ $W$	GENE	1
+$W$$N$ ' $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $N$ - $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$$N$ , $N$ - $W$ $W$	GENE	1
+$W$ : $W$$N$ $W$	GENE	1
+$W$ $W$ $W$ $N$ $W$$N$ $W$	GENE	1
+$W$ $W$ $N$ $W$$N$$W$	GENE	1
+$W$ $W$$N$ - - $W$	GENE	1
+$N$ , $W$ - $W$	Chemical	1
+$W$ $N$ , $N$ , $N$ , $N$ - $W$ ( $W$$N$ ) - $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $N$ - $W$ $W$	GENE	1
+$W$ $W$ ( $W$ ) $W$$N$ - $N$ $W$	GENE	1
+$W$ - - > $W$	Chemical	1
+$W$ $W$ $W$$N$ +	GENE	1
+$W$ $W$ $W$ $N$ / $N$	GENE	1
+$W$ - $N$ / $W$ - $W$$N$ / $W$$N$	GENE	1
+$W$ $W$ , $W$ - $W$ $W$ $W$	GENE	1
+$W$ ( - )	GENE	1
+$W$ $W$ $W$ $W$ / $W$ $W$ $W$ $N$ $W$ $W$	GENE	1
+$N$ - $W$ $W$ $W$ $W$ $W$ $W$ - $W$ $W$ $W$ - $W$	GENE	1
+$N$ - ( $N$ ' - $W$ - $N$ ' - $W$ ) - $W$	Chemical	1
+$W$ $W$$N$$W$ / $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ ( $W$ / $N$ )	GENE	1
+$W$ ( $W$ / $N$ )	GENE	1
+$W$ ( $N$ / $N$ )	GENE	1
+$N$ - $W$ $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ ( $W$ ) - $N$	Chemical	1
+$W$ $W$ $W$$N$ - $W$ $W$ $W$	GENE	1
+$W$$N$$W$ - $W$ $N$ $W$ $W$	GENE	1
+$W$$N$$W$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ / $N$ $W$ $W$	GENE	1
+$W$ - $N$$W$ $N$ - $W$ $W$ $W$	Chemical	1
+$W$ - $W$$N$$W$ - $N$	GENE	1
+$W$ $W$ $W$$N$ + $W$	GENE	1
+$N$ - $W$ - $W$ - $W$$N$	Chemical	1
+$W$ , $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ $N$ , $N$ - $W$ - $W$	GENE	1
+$W$ $W$ $W$ , $W$ $W$ $W$	GENE	1
+( $N$$W$ - $N$$W$ ) $W$ - $W$ $W$	GENE	1
+$W$ $W$ ( $W$ $N$ , $N$ )	GENE	1
+$W$ - $W$ ( $N$ . $N$ $W$ $W$ [ $W$ ] )	GENE	1
+$W$ $W$ $W$ ( $N$ $W$ )	GENE	1
+$W$ $W$ $W$$N$ . $W$ - $N$$W$$N$ ( $W$$N$ )	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ . $W$ $W$$N$	GENE	1
+$W$$N$ + / $W$ ( $W$ ) - $W$ $W$ $W$	GENE	1
+$W$ , $W$ ' $W$	Chemical	1
+$W$ $W$ $W$ ( $W$ ) - $W$ / $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ / $W$ - $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - $W$ - $W$ ( $N$ - - > $N$ ) $W$ - $W$ - $W$	Chemical	1
+$N$ ' - $W$ - $W$ - $N$ '	Chemical	1
+$W$ - $N$ / $N$ / $N$ $W$ $W$	GENE	1
+$W$ $W$ / $W$$N$ $W$	GENE	1
+$W$$N$ - $W$ $W$$N$	GENE	1
+$W$ $W$$N$ - $W$ $W$ $W$ $N$	GENE	1
+$N$ . $N$ - $W$ $W$ $W$ $W$	GENE	1
+$W$$N$$W$ $W$ $W$ ( $N$ - $N$ )	GENE	1
+$W$$N$ [ $W$$N$$W$$N$$W$$N$ ] $N$ . $W$$N$$W$	Chemical	1
+$W$ - $N$ - $W$ $W$ / $W$ $W$	GENE	1
+$W$ - $W$ , $W$ - $W$ $W$ $W$ $W$	GENE	1
+$N$ - $W$$N$$W$ - $W$	GENE	1
+$W$ - $W$ $W$$N$ $N$ ' $W$	GENE	1
+$W$ + , $W$ ( + ) - $W$	GENE	1
+$W$$N$$W$ ( $W$ $N$ $W$ $N$ )	GENE	1
+$W$ - $W$ $W$ - $N$ $W$ $W$ - $N$ $W$$N$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $N$ $W$ ( $W$ $N$ ) $W$	GENE	1
+$W$$N$ / $N$ $W$ / $W$	GENE	1
+$W$ $W$ $W$ ( $W$ ) - $W$ $W$ - $W$ $W$	GENE	1
+$W$ - $W$ ( $N$ - - > $N$ ) $W$ - $W$ $W$	GENE	1
+$W$ ( $W$ ) - $N$$W$	GENE	1
+$N$ - $W$ $W$ , $W$$N$	GENE	1
+$W$ / $W$ $W$ $W$ ( $W$ / $W$ ) $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$$N$ $W$	GENE	1
+$W$$N$ $W$ , $W$	GENE	1
+$W$ $W$ - $W$ - $N$ - $W$ - $W$ $W$ ( $W$ ) $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$ ' - $W$ $W$	GENE	1
+$W$ $W$ ( - $N$ / + $N$$W$ )	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $N$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ ( $N$ + ) - $W$ $W$	GENE	1
+$W$$N$ ( + ) $W$ $W$	GENE	1
+$W$$N$ $W$ , $W$ , $W$ , $W$ $W$	GENE	1
+$W$ $W$$N$ - $N$$W$ $W$ $W$	GENE	1
+$N$$W$ $W$ $N$$W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ ( $N$ , $N$ ) $W$ $W$	GENE	1
+$W$ $W$ $N$ , $N$ $W$	Chemical	1
+$W$ $N$ . $N$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ - $N$ - $W$ $W$	GENE	1
+$W$ $W$ , $W$ , $W$$N$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ $W$	GENE	1
+[ $N$$W$ ] ( + ) - $N$ - $W$	Chemical	1
+" $W$$N$ " $W$	GENE	1
+$W$$N$ - $N$$W$$N$	GENE	1
+( + ) - $W$ $W$ $W$ $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $W$ - ( $N$ - $W$ ) $W$ $W$	Chemical	1
+$W$$N$$W$ $W$$N$	Chemical	1
+$N$ - - $W$ - $N$ - $W$ $W$	GENE	1
+$W$$N$ - $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$$N$ ( $W$$N$ ) $W$	GENE	1
+$W$ $W$ ( $W$ - $N$ )	GENE	1
+$N$ ' $W$ / $W$$N$	GENE	1
+$N$ ' - $W$ $W$ $W$$N$	GENE	1
+( $N$$W$ , $N$ ' $W$ , $N$ ' $W$ , $N$ ' $W$ ) - $N$ - ( $N$ , $N$ - $W$ ) $W$	Chemical	1
+$W$ $W$$N$ '	GENE	1
+$N$ . $N$ $W$ $W$ - $W$	GENE	1
+$N$ ' - $W$ $W$	GENE	1
+$W$ - $W$$N$ - $N$ - $W$ - $W$$N$ - $N$ - $W$	Chemical	1
+$W$ - $W$$N$ - $N$ - $W$	Chemical	1
+$W$ $W$ $N$ $W$$N$$W$ $N$ - $W$ $W$ $W$$N$ $N$ - $W$ $W$	GENE	1
+$W$ ' $W$ $W$ $W$ $W$ $N$ $W$ $W$ $W$	GENE	1
+$N$ $W$ ( $W$ )	GENE	1
+$N$ $W$ ( $W$ - $W$ )	GENE	1
+$W$$N$ $W$$N$$W$$N$ / $N$	GENE	1
+$N$ - $W$ $W$ - $W$ - $W$ $W$	GENE	1
+$N$ - $W$ $W$$N$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $N$ $W$ $W$ $W$	GENE	1
+( $W$$N$ ) $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$$N$	GENE	1
+$W$ $W$ $N$$W$$N$ $W$	GENE	1
+$W$ $N$ . $N$ . $N$	GENE	1
+$W$$N$ / $N$ / $N$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ $W$ / $W$ - $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $N$ $W$ $W$ $W$	GENE	1
+$W$ ( $W$ ) $W$$N$$W$	GENE	1
+$W$ $W$$N$ $W$ $N$ $W$ - $W$	GENE	1
+$W$ - $N$ $W$ $W$ $W$ $W$ $W$$N$ $W$	GENE	1
+$N$ - $W$ $W$ $W$ $W$ ( $W$ ) $W$	GENE	1
+$W$ - $W$ $W$ - $N$ $W$ $N$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ ( $W$ ) ( $W$ ) - $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$$N$ - $N$	GENE	1
+[ $W$ ( $N$ ) $W$ ]	GENE	1
+$N$ - $W$ $W$ ( $W$$N$ ) $W$	GENE	1
+$W$$N$ $W$ - $W$ $W$ $N$ ' - $W$	GENE	1
+$W$ ( $W$ / $W$ ) $N$$W$	GENE	1
+$W$ $W$ - $N$$W$$N$ $W$	GENE	1
+$N$ - $W$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ $W$ ( $W$ $W$ ) $W$	GENE	1
+$W$ $W$ $W$ $N$$W$ $W$ $W$	GENE	1
+$W$$N$$W$ ( $W$ $N$ - $N$ )	GENE	1
+$N$ , $N$ - $N$$W$$N$ ] - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ ( $W$ $N$ - $W$ ) $W$	GENE	1
+[ $W$$N$ ] $W$ ( $N$ - $N$ )	GENE	1
+$W$ $W$ ( - $N$ $W$ + $N$ $W$ ) $W$	GENE	1
+$W$ $W$ $W$ $W$$N$ - $N$	GENE	1
+$W$ $W$ $N$$W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ , $N$ - - > $W$	Chemical	1
+[ $W$ + ]	Chemical	1
+$W$ $W$ - $W$ $W$ ( $W$ $W$ ) $W$ - $W$	GENE	1
+$N$$W$ $W$ - $W$ $W$ $W$	Chemical	1
+$W$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$ $W$ $W$	GENE	1
+$W$ ( $W$ ) $N$$W$$N$	Chemical	1
+$W$ : $W$ $W$$N$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $W$$N$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ ( $W$ ) ( $W$ ) $W$	GENE	1
+$W$ - $W$ / $W$ - $W$ ( $W$ ) $W$	GENE	1
+$W$$N$$W$$N$ $N$ ' - $W$ $W$	GENE	1
+$W$ ( $W$ ) $N$ - $N$$W$	Chemical	1
+$W$ $W$ $N$ $W$ $W$ - $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ , $W$ $W$ $W$ $W$ $W$$N$	GENE	1
+$W$ $W$ . $N$	GENE	1
+$W$$N$ $W$ - $W$ $W$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $N$ ( $W$ - $N$ ) $W$ $W$	GENE	1
+$W$ - $W$ / $W$ $W$	GENE	1
+$W$ $N$$W$ $W$ $W$	Chemical	1
+$W$ $N$$W$ $W$	Chemical	1
+$N$ + $N$$W$	Chemical	1
+$W$ $W$ $W$ ( $W$ ) - $W$$N$	GENE	1
+$W$ . $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ ( $W$ - $N$ ) $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$ - $W$ $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ - $W$$N$ $W$ $W$ $W$ $W$	GENE	1
+$N$ . $N$ - $W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ - $N$$W$ ( $W$ $W$ ; $W$ - $W$ )	GENE	1
+$N$ - $W$ $W$ $N$ $W$	GENE	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ ( $W$ )	GENE	1
+' $W$ $W$ $W$ $W$$N$ - $W$ '	GENE	1
+$W$ $W$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$ $W$	GENE	1
+- $N$ $W$ - $N$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $W$ , $W$ $W$	GENE	1
+$W$ ( $N$$W$ , $N$$W$ ) - $N$ - [ ( $N$$W$ ) - $W$ ] - $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ ( $W$ ) - $N$ $W$	GENE	1
+$W$ -	GENE	1
+$W$$N$ + / $W$ - $W$ $W$ $W$ $W$	GENE	1
+- $N$ / $W$$N$ . $N$ $W$ $W$	GENE	1
+$W$ ( $W$ - $W$ $W$ ) $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$$N$$W$	GENE	1
+$W$ - $W$ / $W$ - $N$ $W$ $W$ $W$	GENE	1
+$W$$N$$W$$N$ - $W$$N$$W$$N$ - $W$ - ( $W$$N$$W$$N$$W$ ) $W$ - $N$ $W$$N$$W$$N$$W$	Chemical	1
+$W$ $N$$W$ $W$$N$$W$ $W$	GENE	1
+$W$ $W$ ( $W$ ) $W$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ $N$ ' $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$$N$ . $N$ $W$	GENE	1
+$W$ - $W$ $W$$N$ $W$ $W$$N$ $W$ $W$ $W$	GENE	1
+$W$ $W$$N$ - $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ . $W$ $W$ , $W$ , $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$ ' $W$	GENE	1
+$N$$W$ $W$ - $W$ $W$	GENE	1
+$W$ - $N$$W$ $W$ $W$ - $N$$W$ $W$ $W$	GENE	1
+$N$$W$ $W$ , $N$ - $W$	Chemical	1
+$W$ $N$$W$$N$ $W$ $N$$W$$N$	GENE	1
+$W$ ( $N$ ) $W$ ( $N$ ' )	Chemical	1
+( $N$ ) $W$ ( $N$ )	Chemical	1
+$W$ - $N$ $W$ $N$ ' $W$	GENE	1
+$W$ $W$ ' $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ $W$ , $W$ $W$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ ) - $W$ - $W$ - $N$ , $N$ - $W$ $W$ $N$ , $N$ - $W$	Chemical	1
+$W$$N$ , $W$	Chemical	1
+$W$ - $W$$N$ $W$ $W$ - $N$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ $W$ ( $W$ ) $W$ $W$	GENE	1
+$N$ - $W$ - $N$	Chemical	1
+$W$ - $N$ - - > $W$	Chemical	1
+$W$ ( $W$ - $W$ ) $W$	GENE	1
+$N$ . $N$ - $W$ $N$ - $W$ $W$ $W$	GENE	1
+$W$ ( $N$ ' - $N$ ' ) $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$$N$$W$$N$	GENE	1
+$W$ $W$ ( $W$ ) $W$ $W$ - $W$ $W$ $W$$N$	GENE	1
+$W$ - - $W$ $W$	GENE	1
+$N$ . $N$ - $W$ $W$ - $N$ $W$	GENE	1
+$W$$N$ - $W$$N$$W$ / $W$$N$$W$ $W$	GENE	1
+$W$ - , $W$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $W$ $W$	GENE	1
+$N$ , $N$ - ( $W$ ) $N$$W$	Chemical	1
+$N$$W$ - $W$ $W$ $N$ $W$	GENE	1
+$W$ / $W$ - $W$ - $W$ $W$ $W$ . $N$	GENE	1
+$W$ - $W$ : $W$ $W$ $N$ - - - - $N$$W$ $W$ $N$ - - - - $N$ - $W$	GENE	1
+$W$$N$$W$ / $W$$N$ $W$ $W$	GENE	1
+$W$ / $N$	GENE	1
+$W$ $W$ $W$ / $W$ $W$ $W$$N$ $W$	GENE	1
+$W$ + , $W$ + - $W$	GENE	1
+$W$$N$ ( + ) $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ ( $W$ $W$ )	GENE	1
+$W$ ( $W$ - $N$ ) - $W$	GENE	1
+$N$ $W$ $W$ ' $W$ $W$ $W$ $W$ ' ( $W$ ) $W$	GENE	1
+$N$ $W$ $W$ $W$ - $W$	GENE	1
+$W$$N$ $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ / $W$ - $W$ $W$ ( $W$ / $W$ ) $W$	GENE	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$N$ [ $W$ ] $W$ - $W$	Chemical	1
+$W$ + $W$ . $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$$N$	GENE	1
+$N$ - $W$ - $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $N$ - ( $N$ $W$ ) $W$ $W$	Chemical	1
+$W$ $W$ - , $W$ $W$ , $W$ $W$ $W$ - $W$	GENE	1
+$W$ - $W$ - $N$ ' - $W$ $W$ $W$ $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ ( $W$ ) - $W$$N$ $W$	GENE	1
+$W$ $W$ $N$ ( $W$$N$ ) $W$	GENE	1
+$W$$N$$W$ / $W$$N$$W$ $W$ $W$	GENE	1
+$W$$N$ - $W$ $W$ ( $W$ )	GENE	1
+$W$ $W$ $W$ - $N$ $N$$W$$N$	GENE	1
+$W$ $W$ $W$ $W$ $W$$N$ $W$	GENE	1
+$W$$N$ - $N$ $W$$N$	GENE	1
+$W$$N$ - $N$ $W$$N$ - $N$	GENE	1
+$W$ $W$$N$ - $N$ / $N$ $W$	GENE	1
+$W$$N$$W$ $W$ '	GENE	1
+$W$ $W$ $W$ / $N$ / $N$ $W$ $W$	GENE	1
+$W$$N$$W$ - $W$$N$$W$ - $W$$N$$W$	Chemical	1
+$W$ $W$ - $N$$W$ $W$ $W$	GENE	1
+$W$$N$ ( $W$ , $W$ ' )	Chemical	1
+$W$ - $W$ $W$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ ( $N$ , $N$ $W$ )	GENE	1
+$W$ - $N$ - $W$ - $W$ $W$ - $N$ , $N$ - $W$ - $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ - $N$ $W$ $W$ $W$	GENE	1
+$W$ - $N$ . $N$	GENE	1
+$W$ - $W$$N$ $W$ $W$ ( $W$ $W$ )	GENE	1
+$W$ / $W$ $W$$N$ - $N$	GENE	1
+$W$ - $N$ $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$ $W$ - $W$ - $W$ : $W$ $W$ $W$	GENE	1
+$N$ - $N$ - $W$ $N$ - $W$	Chemical	1
+$W$$N$ ( + ) $W$ $W$ $W$	GENE	1
+$W$ - $N$ , - $N$ , $W$ - $N$	GENE	1
+$W$ . $W$ - $W$ $W$ - $N$	GENE	1
+$W$ $W$ $W$ ( $W$ $W$ - $W$ $N$ $W$ $W$ $W$$N$ )	GENE	1
+$W$ / $W$ - $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $N$ - $W$ $W$ $W$	GENE	1
+$N$ . $N$ - $W$ $W$ $W$	GENE	1
+$W$$N$ / $W$$N$ ( + )	GENE	1
+$W$ $W$ $N$$W$ $W$ $W$	GENE	1
+$W$ $W$ ( $N$ ) / $W$	GENE	1
+$W$$N$ / $W$$N$ ( $W$ )	GENE	1
+$W$$N$ / $W$$N$$W$ ( $W$ )	GENE	1
+$W$ - $W$ ( $W$ ) $W$$N$ $W$	GENE	1
+$W$ - $N$ $W$ $W$ - $W$ - $W$ $W$	GENE	1
+$W$ - $N$ + $W$	GENE	1
+$W$ $W$$N$ - $N$ $W$ $N$ - $N$ $W$	GENE	1
+[ $N$$W$ ] $W$ $W$	Chemical	1
+$W$ $W$ - $W$ - $W$ $W$ $W$ $N$	GENE	1
+$W$ - $N$ ( $W$ - $W$ $N$ $W$ $W$ )	GENE	1
+$W$ + $N$	Chemical	1
+$W$ , $W$	Chemical	1
+$W$ / $W$ - $W$ $W$ $N$	GENE	1
+$N$ - $W$ $W$$N$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ . $W$ $W$ - $W$ $W$ $W$ $W$	GENE	1
+$N$ . $N$ - $W$ $W$ - $W$$N$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ ( $W$ ) $W$ $W$	GENE	1
+$N$ - $W$ - $W$ $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ ( $W$ ) $W$ : $W$ $W$	GENE	1
+$W$ ( $W$ ) $W$ : ( $W$ $W$ ) $W$	GENE	1
+$N$ - ( $N$ , $N$ - $W$ - $N$$W$ ) - $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ $W$ ( $N$ ) , $W$ ( $N$ ) $W$ $W$ ( $N$ )	Chemical	1
+( $N$$W$ ) - $N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $N$ $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $N$ $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$$W$ $W$ , $N$ $W$ , $N$$W$ $W$ - $W$	Chemical	1
+$W$ , $W$ - $W$ $W$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ - $W$ - $N$ ( $N$ ) - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - $N$ $W$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - $N$ $W$ , $N$ - $W$	Chemical	1
+$N$ , $N$ ' - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ - $N$ $W$ ( $W$ ) $N$	GENE	1
+$W$ - $W$ $W$ $W$$N$ $W$ - $W$	GENE	1
+( $W$ , $W$ ) - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $W$ ) $W$ $W$	Chemical	1
+$W$ - $W$ - $W$ $N$ - $W$ - $N$$W$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$$W$ - $W$ [ $W$ ] $W$	Chemical	1
+( $N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ ( $N$$W$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$$N$ , - $W$$N$ , - $W$$N$	GENE	1
+$W$ ( $W$$N$ : $N$ $W$ - $N$ ) $W$ $W$ ( $W$$N$ : $N$ $W$ - $N$ ) $W$	Chemical	1
+$W$ - [ $N$ ( $W$ ) $W$ ] - $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ , $N$ - $W$ - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+- $N$ , $N$ - $W$ - $W$ - $W$ - $W$ $W$ $W$	Chemical	1
+$W$ - $N$ - $W$ - [ $N$ - $W$ - ( $N$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$ ] - $N$ - $W$ - $W$ - $W$	Chemical	1
+$W$$N$ / $N$ $W$ $W$$N$ $W$	GENE	1
+- $W$ ( $N$ ) - $W$	GENE	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ ) - $W$ - $N$ , $N$ ( $N$ ) , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $N$$W$$N$ $W$ , $W$ $N$$W$$N$ $W$ $W$ $W$ $N$$W$$N$ $W$	GENE	1
+$W$ $N$$W$$N$ $W$ $W$ $W$ $N$$W$$N$ $W$	GENE	1
+$W$ - $N$ , $N$ - $W$ - $W$ - $W$ - $W$ $N$ ' - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ ' , $N$ ' - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $N$ , $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$$N$ ( $N$ $W$ $W$	GENE	1
+( - ) - ( $N$$W$ ) - $N$ - [ ( $W$ ) - $N$ ' - ( $N$ '' , $N$ '' - $W$ - $W$ ) $W$ - $N$ ' - $W$ ] - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+( + ) - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ ) - $W$ - $N$ ' - $W$	Chemical	1
+$W$ ( $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+$W$ , $W$ , $W$ - $W$ $W$ $W$ - $W$ $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - ( $N$ --> $N$ ) - [ $W$ - ( $N$ --> $N$ ) ] - $W$	Chemical	1
+$W$ ( $N$ - $W$ - $N$ , $N$ - $W$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ )	Chemical	1
+$N$$W$$N$ $W$ $N$$W$$N$ $W$	GENE	1
+$W$ $W$ $N$ ( $W$ )	GENE	1
+$W$ $W$ $W$ $N$ , $W$ $N$ $W$ $W$ $N$	GENE	1
+$W$ / + )	GENE	1
+$N$ - $W$ - $N$ ' - $W$ - $W$	Chemical	1
+$W$ - ( $W$ ) - $N$ $W$ $W$ $W$	Chemical	1
+$W$$N$$W$$N$ $W$$N$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ $N$	GENE	1
+$W$$N$$W$$N$ - $W$$N$$W$$N$ $W$	GENE	1
+$W$$N$ * -	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ - $W$	Chemical	1
+$W$$N$ $W$ / $W$$N$$W$ $W$	GENE	1
+$W$$N$$W$ / $W$$N$$W$ / $W$$N$$W$ / $W$$N$ $W$ / $W$$N$$W$ $W$	GENE	1
+$W$ * $N$	GENE	1
+$W$ - $W$$N$ ( $W$ * $N$	GENE	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - $W$ $W$	1
+$W$$N$ $W$ - $W$ $W$ - $W$	GENE	1
+$W$ $W$ $W$$N$ $W$ $N$	GENE	1
+$W$$N$$W$ $W$ $W$ - $N$	GENE	1
+$W$ - ( $W$ ) ( $W$ ) $W$	GENE	1
+$W$ - $W$ $N$ - $W$ $W$	Chemical	1
+$W$ ( $N$$W$ ) - $W$	GENE	1
+$W$ / $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ $W$ . $W$ . )	GENE	1
+$W$ $N$ / $W$ $N$ $W$ $W$ $N$ / $W$ $N$	GENE	1
+$W$ - [ ( $N$ - $W$ ) $W$ ] $W$ - $N$ - $W$	Chemical	1
+$W$ ,	Chemical	1
+$N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	1
+$W$ - $N$ ' - $W$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - [ $N$ '' - $W$ - $W$ - $W$ ] - $W$ - $W$ - $W$	Chemical	1
+$W$ , $W$ $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ [ $N$ , $N$$W$ ] $W$ - $N$ - $W$	Chemical	1
+$N$ $W$ , $N$ ( $W$ ) $N$$W$$N$	Chemical	1
+$W$ $N$ $W$ $N$ / $N$	GENE	1
+( $N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ ) - $N$ - [ $N$ - ( $N$ ( $N$ ) $W$ - $W$ - $N$ - $W$ ) $W$ ] $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - ( $N$ ) $W$ $W$	Chemical	1
+$W$ - $W$ $W$ $W$ $N$ $W$ $N$	GENE	1
+$W$ / $W$ - $W$ $W$ ( $W$ / $W$ ) $W$ $W$	GENE	1
+$N$ - ( $N$ - $W$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - [ ( $N$ - $W$ - $W$ ) - $W$ ] - $N$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$	GENE	1
+$W$ $W$ $W$ $W$ ( $W$ ) $W$ $W$ ( $W$ ) $N$ . $N$	GENE	1
+$N$ - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	GENE	1
+$W$ ( $W$$N$ - $W$ )	Chemical	1
+$N$ $W$ , $N$ $W$ - [ $N$ - [ ( $N$ , $N$ , $N$ , $N$ , $N$ - $W$ ) $W$ ] $W$ ] $W$ - $N$ , $N$ , $N$ ( $N$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$ $N$ ' - $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ $N$ $W$	GENE	1
+$W$ ( $N$ , $N$ , $N$ ) - $W$	Chemical	1
+$N$ - $W$ - ( $W$ ) - $W$	Chemical	1
+$W$$N$$W$$N$ $W$ $W$$N$ $W$	GENE	1
+[ $N$ , $N$ ' - $W$ ] - $N$ , $N$ ' - $W$	Chemical	1
+$W$ ( $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$$N$$W$ / $N$$W$ / $W$ - / - $W$	GENE	1
+$W$ , $W$ $W$	GENE	1
+$N$ , $N$ , $N$ ' - $W$ - $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ , $N$ - $W$	Chemical	1
+$N$$W$$N$ / $N$	GENE	1
+$N$$W$$N$ / $N$ / $N$ / $N$	GENE	1
+$N$$W$$N$ * $N$ * $N$	GENE	1
+$W$$N$$W$$N$ * $N$ * $N$	GENE	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$ - $N$ $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+( $N$$W$ * , $N$$W$ * , $N$$W$ * ) - $W$ , $N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $W$ $N$ - $W$ - $W$ - $W$ - $W$ ( $N$ --> $N$ ) - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ ' - $W$ ) - $W$ - $W$	Chemical	1
+$N$ - ( $W$ - $W$ - $N$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ $W$ $W$ $W$	Chemical	1
+$W$ $N$ - [ $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - ( $W$ ) $W$ ] $W$	Chemical	1
+$W$ $W$ $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$ * $N$$W$$N$$W$	Chemical	1
+$W$ - ( $N$ - $W$ - $N$ - $W$ ) - $W$ ' - $N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ ' - ( $N$ - $W$ ) $W$	Chemical	1
+$W$ - ( ( $W$ - $N$ - $W$ ) $W$ ) $W$	Chemical	1
+$W$ - $N$ ' - $W$ - ( $N$ - [ $N$$W$ ] - $W$ ) $W$	Chemical	1
+[ ( $N$ ) $W$ ] - $W$ $W$ $W$	Chemical	1
+$W$ $W$ - $N$ , $N$ - $W$	GENE	1
+$W$ - $N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ / $W$ - $N$	GENE	1
+$W$ - $W$ , - $W$	GENE	1
+$W$ - [ $N$ - ( $N$ - $W$ ) $W$ ] $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ $W$$N$ $W$	GENE	1
+$W$ - $W$ - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ / $W$$N$	Chemical	1
+$W$ $W$$N$ ( $W$$N$ ) $N$$W$$N$	GENE	1
+$W$ $W$ $W$ $W$ $N$$W$$N$ / $N$	GENE	1
+( $W$ ) $N$	GENE	1
+$N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ $W$ $W$ $W$ - $W$ - $W$ $W$	GENE	1
+$W$$N$$W$$N$ / $N$ / $N$	GENE	1
+$W$ $N$$W$ $W$ $W$ $W$	GENE	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ( $W$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ ( $W$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ - ( $W$ - $W$ ) - $N$ - ( $W$ - $W$ ) - $W$	Chemical	1
+$N$ , $N$ - $W$ - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ ( $N$ ) - $W$ $W$ - $W$ ( $N$ , )	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$$N$	Chemical	1
+$W$ ( $N$ ) $W$ ( $N$ ) ( $N$ - )	Chemical	1
+$W$ ( $N$ ) $W$ ( $N$	Chemical	1
+$W$ $N$ ( $N$ - )	Chemical	1
+$W$ ( $N$$W$ ) $W$	GENE	1
+$W$ ( $W$ ) - $W$ $W$ ( $N$$W$ ) $W$ $W$ ( $N$$W$ ) $W$	GENE	1
+$W$ ( $N$$W$ ) $W$ $W$ ( $N$$W$ )	GENE	1
+$W$ $W$ - $W$ $W$ - $W$	Chemical	1
+$W$ , $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $N$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ ( $W$ ) - $N$	GENE	1
+$W$ : $W$ $W$	Chemical	1
+$W$ , $W$	GENE	1
+$N$ ' , $N$ ' - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ ( $W$ )	GENE	1
+$N$ , $N$ , $N$ , $N$ - $W$ ( $W$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ ' - $W$ - $W$	Chemical	1
+$W$ ' - $W$	Chemical	1
+$N$ . $N$ $W$ $W$	GENE	1
+$W$ - $W$ / $W$ $W$ / $W$ - $W$ $W$ $W$	GENE	1
+$N$ , $N$ , $N$ ' , $N$ ' - $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ ' , $N$ ' - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ ' , $N$ ' - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$W$ $N$ ' - $W$ - ( $N$ - [ ( $N$ ) $W$ ] $W$ ) $W$	Chemical	1
+$W$ ( $N$ ) $N$ -	Chemical	1
+$W$ $W$ $W$ ( $W$ ) - $N$ $W$ - $N$	GENE	1
+$W$ $W$ $W$$N$ / $W$$N$ $W$	GENE	1
+$W$ ( $N$ - $N$ ) [ $W$ ( $N$ ) ] $W$	Chemical	1
+$W$ $W$ $W$ ( $N$ ) $W$ ( $N$ )	GENE	1
+$W$$N$ - $W$ $W$ $W$ $W$ $N$ ( $W$$N$ ) $W$	GENE	1
+$W$$N$ - $W$$N$ - $W$ $W$ $N$ - $W$ $N$	GENE	1
+$W$ - ( [ $N$ , $N$ ' - $W$ ] - $N$ - $W$ ) - $N$ - $W$ [ $W$ ] [ $N$ , $N$ , $N$ ] $W$ - $N$ - $W$	Chemical	1
+$W$$N$ . $W$	GENE	1
+$W$ ( + ) $W$ ( + )	Chemical	1
+$W$ - $N$$W$ *	GENE	1
+( $W$ ( $N$ ) ) ( $N$ ) $W$ - $W$ - $W$ ( $W$ ( $N$ ) ) ( $N$ )	Chemical	1
+$W$ / $W$$N$ $W$	GENE	1
+$N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$	Chemical	1
+$W$ $W$ - ( $W$ ) $W$ $W$	GENE	1
+$W$ : --> $W$ ( $N$ + )	Chemical	1
+$W$ ' $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ - $W$	Chemical	1
+$W$ - $N$ , $N$ , $N$ - $W$ - $N$ $W$ , $N$ - $W$	Chemical	1
+$W$ ( $W$ ) - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ ' - $W$ - $W$ $W$	Chemical	1
+$N$ $W$ , $N$ - $W$ $W$ $N$	Chemical	1
+() $N$ $W$ $N$	Chemical	1
+$W$ $W$ $W$ - / $W$ $W$ - $W$ $W$ ( $W$ ) - $W$ $W$	GENE	1
+$W$ - $N$ - $W$ - $W$ - $W$ $W$	Chemical	1
+[ $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ - $W$ ( $N$ ) ] $W$	Chemical	1
+[ $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ - $W$ ( $N$ ) ] $W$	Chemical	1
+$W$ $W$ ( $N$ ) $W$ ( $N$ ) $W$ $W$ $W$ ( $W$ $W$ - $W$ - $W$ $W$ )	GENE	1
+$W$ - , $W$ - , $W$ $W$	Chemical	1
+$W$ - $N$ , $N$ ' - $W$	Chemical	1
+$N$ , $N$ ' - $W$ - $W$ - ( $N$ - $W$ ) - $W$ , $W$ ' - $W$	Chemical	1
+$W$ $N$ , $N$ ' - $W$	Chemical	1
+$W$ $W$$N$ - $N$ , $W$$N$ - $N$ , $W$ $W$	Chemical	1
+$W$ . $W$ ( $N$ )	Chemical	1
+$W$ - - $W$ $W$ $N$	Chemical	1
+$W$ () , () - $W$	Chemical	1
+$N$ , $N$ - $W$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ - $W$$N$ $W$	GENE	1
+$W$ - $W$ ( $W$ ) $W$ / $W$	GENE	1
+$W$ $W$ $N$$W$$N$	GENE	1
+$W$ $W$ , $W$ $W$ $W$	Chemical	1
+$N$ , $N$ ' , $N$ - $W$ - $W$ - $W$	Chemical	1
+$N$ ( $W$ ) - , $N$ ( $W$ ) - , $N$ ( $W$ ) - $W$ $N$ ( $W$ ) - $W$	Chemical	1
+$N$ ( $W$ ) - , $N$ ( $W$ ) - $W$ $N$ - $W$	Chemical	1
+$W$ $W$ $W$ ( $N$ )	GENE	1
+$W$ $W$ $W$ ( $N$ ) $W$	GENE	1
+$W$ $W$ $W$ ) $W$$N$ $W$	GENE	1
+$N$ - $N$ $W$ )	GENE	1
+$W$ $W$ ( $W$ ) $W$ - $N$	GENE	1
+$N$ , $N$ - $W$ ( $N$ - $W$ ) - $N$ - [ $N$ - { $N$ - ( $N$ - $W$ ) $W$ } $W$ - $W$ ] - $N$ - $W$ $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - $W$	Chemical	1
+$W$ - $N$$W$$N$$W$$N$	GENE	1
+$W$$N$ $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ $N$ - $W$ - $N$	GENE	1
+$W$ - ( $W$ - $W$ ) - $N$ - ( $W$ - $W$ ) - $N$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	1
+( $W$ ) - $W$ - ( $N$ - ( $W$ - $W$ ) $W$ ) - $W$ - ( $N$ - ( $W$ - $W$ ) - $N$ - $W$ - $N$ - ( $W$ - $N$ - $W$ ) $W$ ) $W$ - $N$ - $W$	Chemical	1
+$W$ : $N$	Chemical	1
+$W$$N$ ( $W$$N$$W$ ) $W$ $W$	GENE	1
+( $N$$W$ ) $W$ ( $W$ ) ( $N$ ) } ( + )	Chemical	1
+( $N$$W$ ) $W$ ( $W$ ) ( $N$ )	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ $W$	Chemical	1
+$W$ ( $N$ ) $W$ ( $N$ ) $W$	GENE	1
+$W$ ( $N$ , $N$ , $N$ - $W$ )	Chemical	1
+( $W$ ) - $N$	GENE	1
+$W$ - $N$ , - $N$ , - $N$ , - $N$ , - $N$ , - $N$	GENE	1
+$W$$N$ - $W$ $W$ ( $W$ ) - $N$ $W$	GENE	1
+$W$ - $W$ ) $W$	GENE	1
+$W$ - $N$ $W$ $W$ / $W$	GENE	1
+$W$ - $N$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ ( $W$ - ( $N$ - $W$ ) - $W$ )	Chemical	1
+$W$ - , $W$ - $W$ $W$ - $W$	Chemical	1
+$W$ $W$ , $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ / $W$ $W$	GENE	1
+$N$ - $W$ - $N$ , $N$ $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+[ $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ( $W$ ) $W$ ] $W$ ( $W$ )	Chemical	1
+[ $N$ , $N$ - $W$ [ $N$ - ( $W$ ) $W$ ] - $N$ , $N$ - $W$ ] $W$ ( $W$ )	Chemical	1
+$N$ - $W$ - $W$$N$ / $W$$N$ $W$	Chemical	1
+$W$$N$ ( [ $W$ ( $N$ ) $W$ ( $W$ ) ( $N$ ) ( $W$ ( $N$ ) $W$ ) ( $N$ ) ] ( + ) )	Chemical	1
+$W$ ( $N$ , $N$ ' - $W$ - $W$ - $W$ - $W$ , $W$ ' - ( $N$ - $W$ ) - $W$ - $W$ , $W$ ' - $W$ - $N$ , $N$ - $W$ - $W$	Chemical	1
+$W$ ( $N$ , $N$ ' - $W$ - $W$ - $W$	Chemical	1
+( $W$ ) $W$ $W$ ( $W$ $W$ ) $W$	Chemical	1
+$W$ ( $W$ $W$ ) $W$ $W$	Chemical	1
+$W$ $N$ $W$ $W$ $N$	GENE	1
+( ( $N$ ) $W$ ) $W$	Chemical	1
+$W$ ( ( $W$ ) - $W$ )	Chemical	1
+$N$ - { ( $W$ ) - [ ( $N$$W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ] $W$ } $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ - [ $N$ - ( $N$$W$ ) - $N$ - [ ( $W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ] - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ] $W$ ] $W$ $W$	Chemical	1
+$W$$N$ ( $W$ $W$$N$ ) - $W$$N$	GENE	1
+$W$ $W$$N$ ) - $W$$N$ - $W$$N$ $W$ $W$$N$ ( $W$ $W$$N$ ) - $W$$N$	GENE	1
+$W$$N$ - $W$$N$ - $W$$N$ - $W$$N$	GENE	1
+$W$ - $W$ $W$ $N$$W$$N$ - $N$	GENE	1
+$W$ ( * )	GENE	1
+( $N$ - ( ( $N$ - ( ( $W$ ) $W$ ) - $N$ - $W$ ) $W$ ) $W$ ) $W$	Chemical	1
+$N$ - $W$ ( $N$ )	Chemical	1
+$N$ - $W$ $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ ' , $N$ ' , $N$ ' , $N$ ' - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ ) - $N$ - ( $N$ - $W$ ) $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ ( $W$ $W$ ) - $W$ - $W$ ( $W$ - $W$ )	Chemical	1
+$W$ ( $W$ - $W$ ) - $W$ - $W$ ( $N$ - $W$ $W$ $W$ )	Chemical	1
+$N$ ' , $N$ , $N$ - $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$N$ , $N$ , $N$ , $N$ , - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$$N$ - $N$$W$$N$	GENE	1
+$W$ - $W$ $W$ ( $W$ ) $N$ - $N$	GENE	1
+$W$ - ( $N$ $W$ --> $N$ ) - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$ $W$ $W$ ( $N$ $W$ )	Chemical	1
+$N$ - $W$ - $W$ ( $N$ $W$ )	Chemical	1
+$W$$N$$W$$N$ *	GENE	1
+$W$ - - $W$$N$$W$$N$ * $N$	GENE	1
+$W$ $W$ $W$ $W$$N$ - $W$$N$$W$ $W$	GENE	1
+$W$ ( $N$ , $N$ - $W$ - $W$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ ( $W$ - $N$ - $W$ ) - $W$ - { $W$ - $N$ - $W$ [ $N$ - $W$ ( $W$ $W$ $W$ $W$ ) $W$ ] } - $W$ , $W$ - $W$	Chemical	1
+$N$ - ( $N$ ' - $W$ - $W$ - $W$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ - $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ - $W$ ( $W$ ) $W$	Chemical	1
+$W$ - $W$ - $W$ ( $W$ )	Chemical	1
+$W$ - $W$ $W$ [ $N$ ] $W$	Chemical	1
+[ $W$$N$$W$$N$ + ( $N$ - $W$ ) $W$$N$$W$$N$ ]	Chemical	1
+$N$$W$ ( $N$ ) $W$	Chemical	1
+[ $W$ ( $N$ ) $W$ ( $N$ ) + ( $N$ - $W$ ) $W$ ( $N$ ) $W$ ( $N$ ) ]	Chemical	1
+( $W$ - $W$ ) $W$ ( $N$ + )	Chemical	1
+$W$ ( $N$ ) $W$ - $W$	Chemical	1
+$W$ - $N$$W$ $W$ $W$ - $W$	GENE	1
+$W$ - $W$ $W$ ) $W$ ( $W$ ) $N$	GENE	1
+$W$ - $W$ - $W$ $W$ ) $W$ ( $W$ ) $N$	GENE	1
+$W$ $W$$N$ ( $W$ ) $N$$W$$N$	GENE	1
+$W$ . . . $W$	GENE	1
+$W$ = $W$ - $W$	Chemical	1
+[ ( $N$ ) $W$ ] $W$ $N$ ' - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ ) $W$ $N$ $W$ $N$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ - $N$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ - $N$	GENE	1
+$W$ ( $W$$N$$W$$N$ $W$ $W$$N$$W$$N$ ) $W$ - $W$ $W$	GENE	1
+$N$ $W$ - $W$ - $N$ $W$ $W$ - $N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ - $W$ - $N$ ( $N$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ $W$ $W$ - $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ - $W$ - $N$ ( $N$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ ( $N$ $W$ $N$ )	GENE	1
+$N$ / $N$$W$ ( $N$ )	Chemical	1
+[ ( $N$ - $W$ - $N$ - $W$ ) $W$ ] ( { $N$ - [ ( $N$$W$ ) - $N$ - ( $W$ - $N$ - $W$ ) - $N$ - $W$ [ $N$ . $N$ ] $W$ - $N$ - $W$ ] $W$ } ) $W$	Chemical	1
+$W$ - $W$$N$ - $N$ : $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ $W$ ( $W$ ) $W$ $W$ $W$ $W$	GENE	1
+$N$$W$ , $N$ , $N$ , $N$ , $N$ , $N$$W$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $W$ , $W$ ] $W$	Chemical	1
+$N$ - $W$ - $N$ ' $W$	Chemical	1
+$W$ $W$ $W$$N$$W$$N$ $W$	GENE	1
+$W$ ' $W$ $W$ ( $N$ ) $W$ $W$	Chemical	1
+$W$ - $N$ - ( $N$$W$ ) - $W$	Chemical	1
+( $N$$W$ ) - $N$ - [ ( $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ ] - $N$ - ( $N$ - $W$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( ( $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ - $W$ $N$ $W$ $N$ $W$ $W$	GENE	1
+$W$ - $W$ - $W$ ( $W$ / $W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $W$ . $W$ $W$ $N$	GENE	1
+$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ - ( $N$ , $N$ - $W$ )	Chemical	1
+$W$$N$$W$$N$$W$ - $W$$N$$W$$N$$W$	GENE	1
+$W$$N$$W$$N$$W$ ( + ) $W$$N$ ( + )	GENE	1
+( $W$ , $W$ ) - $W$ ( $N$ ) $W$	Chemical	1
+$W$ ( $N$ ) $W$ , $W$ $W$ $W$	GENE	1
+$W$$N$ $W$$N$$W$ $W$	GENE	1
+$W$$N$ - $W$$N$ $W$ $W$	GENE	1
+( $N$ , $N$ - $W$ ) ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ ( $N$ ) $W$ ( $N$ ) - $W$ - $W$ - $W$ ( $N$ ) $W$ ( $N$ )	Chemical	1
+$W$ ( $N$ / + )	Chemical	1
+$W$ ( + / $N$ )	Chemical	1
+$W$ ( + + )	Chemical	1
+$N$ , $N$ - $W$ [ $N$ - ( $N$ - $W$ ) - $W$ ] $W$ $W$ $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$	Chemical	1
+$N$ ' - ( $N$ ' , $N$ ' - $W$ ) - $W$ - [ $N$ - $W$ ) $W$ ] $W$	Chemical	1
+$W$ $W$ $N$ $W$ $N$ $W$ $W$ $N$ $W$ $N$	GENE	1
+$N$ , $N$ - $W$ $W$ $N$	Chemical	1
+$N$ , $N$ ( $W$ ) $N$ $W$$N$	Chemical	1
+$W$ $W$ - $N$ $W$ - $N$	GENE	1
+$W$ - $W$ - $W$ - $N$ - $W$	GENE	1
+$W$ ( $W$ , $W$ ) ( $W$ , $W$ ) $N$	Chemical	1
+$W$ $W$ - $W$ - $W$ ( $W$ ) - $W$ $W$ $W$	GENE	1
+$N$ , $N$ - $W$ ( $W$ - $W$ ) - $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ ( $W$ - $W$ ) - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ ( + $N$ )	Chemical	1
+$N$ $N$ $W$ - ( $W$ ) $W$	Chemical	1
+( $W$ ) $W$ ( $W$ ) $W$	Chemical	1
+( $N$$W$ ) $W$ - ( $W$ ) $W$	Chemical	1
+$N$ , $N$ ' - $W$ - ( $N$ - $W$ $W$ )	Chemical	1
+( $N$$W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - [ ( $N$$W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ] $W$	Chemical	1
+( $N$$W$ ) - $N$ - $W$ - $N$ - [ $N$ - ( $W$ ) - $W$ ] $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ = $W$ - $W$$N$$W$$N$ - $W$	Chemical	1
+$W$ - $W$$N$$W$$N$ - $W$ = $W$ - ( $W$ ) $W$ - $W$ = $W$ - $W$$N$$W$$N$ - $W$	Chemical	1
+$W$ ( $W$ ) $N$$W$ ( $W$ ) $N$$W$$N$ ( $W$ ( $W$ , $W$ , $W$ - $W$ ) ) $N$ ( $W$$N$$W$ ) $N$	Chemical	1
+$W$ ( $W$ ) ( $N$ ) $W$ ( $W$ ) ( $N$ ) $W$ ( $N$ ) ( $W$ ( $W$ , $W$ , $W$ - $W$ ) ) ( $N$ ) ( $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+$W$ $W$ ( $W$ ) $W$ ( $W$ )	Chemical	1
+[ $W$ ( $W$ ( $N$ ) $W$ ) $W$ ] ( $W$ ( $N$ ) )	Chemical	1
+[ $W$ ( $W$ ( $N$ ) $W$ ) $W$ ] ( $W$ )	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	1
+$W$ - $W$ $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	1
+( $W$ - $W$ ( $N$ ) $W$ - $W$ ( $N$ ) $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+( $W$ - $W$ - $W$ ( $N$ ) $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+$W$ ( $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$ ( $W$ - $W$ )	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - $N$ - $W$ - $W$	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ , $N$ , $N$ ' , $N$ ' - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ $W$$N$ - $W$ $W$ $N$	GENE	1
+$W$ - [ $N$ , $N$ - $W$ ] - $N$ $W$ - ( $N$ , $N$ - $W$ ) $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ $W$ - $W$ $W$	1
+$N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $W$ $W$ - $W$ $W$ $N$	GENE	1
+$N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$W$ - $N$ $N$$W$ $W$	GENE	1
+$W$ - $N$ $N$$W$ / $N$$W$	GENE	1
+$W$ $N$ ( $W$$N$ ) $W$	GENE	1
+[ ( $N$ ) $W$ ] $W$ - $W$$N$	Chemical	1
+[ $N$ , $N$ - ( $N$ ) $W$ ] $W$	Chemical	1
+$W$ [ $W$ ] $W$ ( $W$ = $N$ , $N$ )	Chemical	1
+( $N$$W$ , $N$$W$ ) $W$	Chemical	1
+( $W$ - ) $W$	Chemical	1
+< $W$ > $W$ < / $W$ > - $W$ $N$ - $W$	Chemical	1
+$N$ ' , $N$ ' - $W$ - $W$ - $N$$W$	Chemical	1
+$W$ ( $N$ - $W$ - $N$ , $N$ - $W$ )	Chemical	1
+$W$ ( $N$ - $W$ - $N$ - $W$ - $W$ - $W$ $W$ )	Chemical	1
+$W$ - $W$ - $N$$W$ $W$	GENE	1
+$W$ ( $W$ ) ( $N$ ) $W$ ( $N$ )	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ ( $N$ ) , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ ( $N$ ) , $N$ - $W$	Chemical	1
+[ ( $N$ ) $W$ ] - $W$$N$	Chemical	1
+$W$ - $N$ ' - ( $W$ ) $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $W$ - $W$	Chemical	1
+$W$ [ $N$ ' . $N$ '' ] $W$ - $N$ '' - $W$ - $W$ [ $N$ . $N$ ' ] - ( $N$ ' - $W$ ) - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $W$ - $W$	Chemical	1
+[ $W$$N$ ( $W$$N$ ) $N$ ]	Chemical	1
+$W$ ( $W$ - $W$ - $W$ - $W$ - $W$ - $W$ )	Chemical	1
+$W$ ( $W$ ) ) $W$	GENE	1
+$W$ - ( [ $N$$W$ , $N$$W$ , $N$$W$ ] - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ - ( $N$ - [ $W$ ] $W$ ) - $N$ - $W$	Chemical	1
+$W$ [ ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ) - $W$ - $W$ - ( $N$ , $N$ ' - { $N$ , $N$ ' - $W$ } ) ]	Chemical	1
+$W$ [ ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ) - $W$ - ( $N$ , $N$ - $W$ ) ]	Chemical	1
+$N$ - ( $N$ - { $N$ - [ ( $N$$W$ ) - $N$ - $W$ ] $W$ } - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ $W$ $W$ ( $W$ ) $W$ *	GENE	1
+$W$ , $W$ - $W$ ( $W$ ) $W$ $W$ $W$	Chemical	1
+$W$ - $W$ ( $N$ - $W$ $W$ )	Chemical	1
+$W$ $N$ ' - $W$ - $N$ ' - $W$	Chemical	1
+$N$ ' - $W$ - $N$ ' - $W$ - $N$ - $W$	Chemical	1
+$N$ ' - $W$ - $N$ ' - $W$ $N$ ' - $W$	Chemical	1
+$W$ $W$ - ( $N$ - $W$ - $N$ - [ { $W$ } $W$ ] $W$ )	Chemical	1
+$W$$N$ $W$ - $N$	GENE	1
+$W$ ( $N$ - $W$ - $W$ )	Chemical	1
+$W$ $W$$N$ $W$ $N$	GENE	1
+$W$$N$$W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ ( $W$ ) $N$ , $N$ $W$ $N$	GENE	1
+$N$ - $W$ - $W$ - [ ( $N$$W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - $W$ ] - $N$ - ( $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ) $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ . $N$	GENE	1
+( + ) - $W$ ( - ) - $W$ $W$	Chemical	1
+[ $N$ , $N$ ( $N$ ) , $N$ ( $N$ ) , $N$ ( $N$ ) - $W$ ( ( $N$ - ( $W$ - $W$ - $W$ - $N$ - $W$ ) - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) $W$ ] $W$ ( $W$ )	Chemical	1
+$N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ $W$ $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+( $W$ ) - $W$ - ( ( $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $W$ ] [ $N$ , $N$ ] $W$ - $N$ - $W$ ) $W$ ) $W$ - $N$ - $W$	Chemical	1
+- $W$ ( $W$ ) $N$$W$$N$	1
+$W$ - $W$ - $W$ $W$ - $W$ - $N$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ ( $W$ $W$ ) $N$ $W$	Chemical	1
+$W$$N$ - $W$ $W$	1
+$W$ $N$$W$ / $W$	GENE	1
+$N$ , $N$ - $W$ $W$ $N$ $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ $W$ $N$ $W$ - $W$ $W$ $N$	Chemical	1
+$N$ ' , $N$ ' - $W$ - $N$ - ( $W$ , $W$ - $W$ ) $W$	Chemical	1
+[ $W$ - ( $N$ , $N$ ' - $W$ ) ( $W$ ) $N$$W$$N$ ] ( $N$ + )	Chemical	1
+$W$ , $W$ , $W$ $W$ - $W$ $W$	Chemical	1
+$W$ $W$ ( $W$ $W$ ) $W$	GENE	1
+$W$ $N$ ( $N$ ) , $N$ ( $N$ ) , $W$ $N$ ( $N$ )	Chemical	1
+$W$ $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ ( $N$ ) - $W$	Chemical	1
+$W$ , $W$ $W$ ( $N$ ) , $W$ ( $N$ ) $W$ $W$ ( $N$ )	Chemical	1
+$W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$	GENE	1
+$N$ , $N$ $W$ $W$ $W$ ( $N$ )	Chemical	1
+$W$$N$ : $N$ $W$	GENE	1
+$W$$N$ : $N$	GENE	1
+$W$ $W$$N$ . $N$ $W$	GENE	1
+$W$$N$ - $W$ ( $W$ )	Chemical	1
+$W$$N$ = $W$ - $W$ - $W$	Chemical	1
+( $N$$W$ ) $W$ - [ $W$$N$ - $W$ ( $W$ ) ] $N$	Chemical	1
+$W$ ) - $N$	GENE	1
+( - ) - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $W$ $W$ $N$ $W$	Chemical	1
+$W$ $W$$N$ ( $W$$N$ ) $N$$W$	GENE	1
+( $W$ ) - $W$ ( $W$ ) - $W$ $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ $W$ $W$ - $W$	Chemical	1
+$W$ - $W$$N$ , - $W$$N$ , - $W$$N$ , - $W$$N$ , $W$ - $W$$N$	Chemical	1
+$N$ ( $W$ ) , $N$ - $W$ - $W$ $W$	Chemical	1
+$N$ ( $W$ ) , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ ( $W$ ) , $N$ - $W$ - $N$ $W$ - $W$ $W$	Chemical	1
+$N$ ( $W$ ) , $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ ' , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ ( $W$$N$$W$ ) $N$ ( $N$ + )	Chemical	1
+$N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$ - $N$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ $W$ , $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+[ $N$$W$$N$ ] - $W$	Chemical	1
+[ ( $N$ ) $W$$N$ ] - $W$	Chemical	1
+$W$ $N$ ' - $N$ - $W$ - ( $W$ ) $W$	Chemical	1
+$W$ - ( $W$ - $N$ - $W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - ( $N$ , $N$ - $W$ - $W$ ) - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+( - ) - $N$$W$ - [ $N$ - $W$ - $N$ - ( $N$ , $N$ - $W$ - $W$ ) $W$ ] - $W$ - $N$ - [ $N$ - $W$ - $W$ ] $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - ( + ) - [ $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - [ ( $N$ - $W$ ) $W$ ] - $W$ [ $N$ , $N$ , $N$ - $W$ ] - $N$ , $N$ - $W$ - $N$ - $W$ ] ( $N$ - $W$ ) - $W$ $W$	Chemical	1
+$W$ ( $W$ $W$ - $W$ )	Chemical	1
+$N$ , $N$ - $W$ $N$ , $N$ - $W$	Chemical	1
+$W$ ( + / - )	GENE	1
+$W$$N$$W$$N$ - $W$ ( + / - )	GENE	1
+$W$$N$ ( - / - ) $W$	GENE	1
+$W$$N$ - $W$ - $N$$W$$N$ ( - / - )	GENE	1
+$W$ [ $W$ - $W$ - ( $W$ - $W$ ) ]	Chemical	1
+$W$$N$$W$ / $N$$W$ $W$ $W$	GENE	1
+$N$ - $W$ - $W$ , $W$ - $W$ - $N$ - $W$	Chemical	1
+$N$$W$ - $N$ - $W$ - $W$ - $N$ - $W$ $W$ - $N$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $N$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ $W$	Chemical	1
+( $W$ ) - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - ( $W$ ) - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $N$$W$ - [ $N$ , $N$ , $N$ ] $W$ - $N$ - $W$	Chemical	1
+$W$$N$$W$$N$ - $W$$N$	GENE	1
+$N$ - ( $W$ - $N$ - $W$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $W$ $W$$N$ $W$$N$	GENE	1
+$W$$N$$W$ ~ $W$	GENE	1
+$W$ ( $W$ ) ( $N$ ) ( $N$ - )	Chemical	1
+* $W$	Chemical	1
+$N$ ' , $N$ ' - $W$ $W$	GENE	1
+$W$ ( $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - ( $N$ , $N$ , $N$ , $N$ , $N$ - $W$ ) - $W$	Chemical	1
+[ $W$ ( $N$ . $N$ ) - $W$ ] $N$ [ $W$ ] $N$	Chemical	1
+[ $W$ - $W$ ] $N$ [ $W$ ] $N$ [ $W$$N$$W$ ]	Chemical	1
+[ $W$ - $W$ ( + ) ] [ $W$ ( - ) ] . $W$	Chemical	1
+[ $W$ - $W$ ( + ) ] [ $W$ ( - ) ]	Chemical	1
+$N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $N$$W$ - $W$ $W$	GENE	1
+$N$ ' - $W$ - $W$ - $N$ - $W$ - $W$ $W$ $W$	Chemical	1
+$N$ '' - $W$ - $W$ - $W$ - $W$ - $N$ ' - $W$ - ( $N$ - $W$ - $W$ - $W$ - $W$ ) - $W$	Chemical	1
+$W$ $W$$N$ $N$$W$$N$ / $N$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ - $N$ ( $W$$N$ ) $W$ $W$	GENE	1
+$W$ - ( $N$ - ( $W$ - $N$ - $W$ ) $W$ ) $W$	Chemical	1
+[ $N$$W$ ] $W$ - $N$	Chemical	1
+[ ( $W$$N$$W$$N$ ) $W$ ( $W$ ) $W$ ] $W$ . $N$$W$$N$$W$	Chemical	1
+$W$ $W$ $W$ $N$ - $W$	GENE	1
+$W$ ( $N$ +	Chemical	1
+$W$ $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$$N$ + $W$ $N$	GENE	1
+$W$$N$ + $W$ $N$ , $W$ $N$ , $W$ $N$	GENE	1
+( $N$ - $W$ ) ( $N$ , $N$ - $W$ - $N$ - ( ( $N$ - $W$ ) $W$ ) - $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$ ) $W$	Chemical	1
+$W$$N$ ( $W$ $W$ $W$$N$ - $W$ $W$ $W$	GENE	1
+[ ( $N$ ) $W$ ] $W$ - $N$ - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ ' - $W$ ( $W$ )	Chemical	1
+( - ) - [ $W$ , $W$ ] - $W$ ( + ) - [ $W$ , $W$ ] - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+( +/- ) - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+( +/- ) - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+( - ) - [ $W$ , $W$ ] - $W$ ( + ) - [ $W$ , $W$ ] - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$$N$$W$ - $N$	GENE	1
+$W$ $W$ - $W$$N$$W$	GENE	1
+$W$ . $W$ $W$ - $W$	GENE	1
+$W$ ( $N$ - $W$ - $W$ - $N$ - $W$ )	Chemical	1
+$W$ [ ( $W$ , $W$ ) - $N$ - $W$ ]	Chemical	1
+$W$ $N$ - $W$$N$	GENE	1
+$W$ - $N$ , $N$ ( $N$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+[ $N$ ( $N$ ) $W$ ] - $W$ [ $N$ ( $N$ ) $W$ ] - $W$ - $N$ , $N$ ( $N$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ ' - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ - ( $W$ - $W$ - $W$ ) - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ $W$ - $W$ - $N$ , $N$ ( $W$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ - $N$ $W$ $W$ - $N$ $W$ $W$	Chemical	1
+$W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ = $W$$N$	Chemical	1
+$N$ , $N$ ' - $W$ - $W$ - ( $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ , $W$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ ( $W$ ) $W$ $N$	GENE	1
+$W$ - $W$ ()	GENE	1
+$N$ , $N$ - $W$ , $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ ' , $N$ ' ' - $W$ ( $W$ - $N$ - $W$ ) - $W$	Chemical	1
+$W$ $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+( $W$ / $W$ ) - $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ ' , $N$ ' - $W$	Chemical	1
+$W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$$N$ ) $W$	GENE	1
+$W$ $W$ / $W$ $W$ - $W$	GENE	1
+$W$ ( $W$ ) . $W$$N$	GENE	1
+$W$$N$ [ $W$ ( $W$ ) $N$$W$ ] . $N$$W$$N$$W$	Chemical	1
+$W$ - $N$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ - $N$ - $W$	GENE	1
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$ ( $W$$N$ ) $W$	GENE	1
+$W$ - $N$ ' , $N$ ' - $W$ $W$	Chemical	1
+- $W$ $W$ $W$ $N$	1
+$N$ - ( $N$ - $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ ( $W$ ) - $W$ - $W$ - $W$ $W$ $W$	Chemical	1
+$N$ - ( $N$ - [ $W$ ] $W$ ) $W$	Chemical	1
+$W$ - ( [ $N$ - ( $W$ ) $W$ ] $W$ ) $W$ $W$	Chemical	1
+$W$ ( $N$ ) $W$ ( + )	Chemical	1
+$W$ / $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - ( $N$ - $W$ ) $W$	Chemical	1
+( $N$$W$ ) - $W$ - $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - ( $W$ - $N$ - $W$ ) - $W$ - $W$	Chemical	1
+( $N$ ' $W$ ) - $W$ ( $N$ ' $W$ ) - $N$ ' - $W$ $N$ ' - { [ ( $W$ ) - $W$ - $N$ - $W$ - $N$ - $W$ ] - $W$ } $W$	Chemical	1
+( $N$ ' $W$ ) - $W$ ( $N$ ' $W$ ) - $N$ ' - { [ ( $W$ ) - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ ] - $W$ } $W$	Chemical	1
+$N$ - $W$ $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$N$ - $W$ $W$ [ $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$$N$ $N$ $W$	GENE	1
+( $N$$W$ , $N$$W$ ) - $W$ - $W$	Chemical	1
+$W$ - $N$ , $N$ - $W$ - ( $W$ , $W$ ) - $W$	Chemical	1
+[ $W$ . $W$ - $W$ / $W$ - $W$ . $W$ ] ( + )	Chemical	1
+( $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ [ $W$ ] $W$	Chemical	1
+$W$ $W$ $W$ $W$ ' $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ ' $W$ $W$ $W$	GENE	1
+( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) - ( $N$ - $W$ - $N$ - $W$ ) - $W$	Chemical	1
+( $N$ - $W$ - $N$ - $W$ ) - [ $N$ - ( $N$ - $W$ - $N$ - $W$ - $W$ ) $W$ - $N$ - $W$ ] $W$	Chemical	1
+$W$ $W$ ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+[ ( $W$ - $W$ ) $W$ ( $W$ ) ] ( $W$$N$ ) $N$	Chemical	1
+$W$ ( $W$ - $N$ - $W$ ) { [ $N$ - ( $W$ ) $W$ - $N$ - $W$ ] $W$ } $W$	Chemical	1
+[ ( $W$ ) $W$ ( $W$ ) ] ( $W$$N$ ) $N$	Chemical	1
+$W$ * ( + )	GENE	1
+$W$ ( $W$ $W$ ) - $W$ - $W$ [ $W$ - $W$ - ( $N$ - ( $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ $W$ ) ]	Chemical	1
+$W$ - $W$ - $W$ ( $W$ - $W$ - $W$ )	Chemical	1
+$N$ - ( $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ ( $N$ ) , $W$ ( $N$ ) , $W$ $W$ ( $N$ )	1
+$N$ $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ - $W$ - $W$ - $W$ - $W$ - $N$ $W$ - $W$	Chemical	1
+$W$ $W$ $W$ $N$ $W$ - $W$ - $W$ - $W$ - $W$ - $N$ $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $W$ ) - $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ ( $W$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ $W$ - $W$ - $N$ , $N$ ( $W$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ ( $W$ - $W$ - $W$ - $W$ ) - $N$ - ( $W$ - ( $W$ ) $W$ ) $W$	Chemical	1
+( $W$$N$$W$$N$ ) $W$ ( $W$ ' $N$$W$$N$ ) $W$ ( $W$$N$$W$$N$ ) $N$ - ( $W$ + $W$ )	Chemical	1
+$W$$N$$W$$N$$W$$N$$W$	Chemical	1
+$W$ ( $N$ , $N$ - $W$ ) $W$ - $W$ , $W$ [ $W$ ] $W$ ( $W$ )	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ - $W$ - $W$ - ( $N$ '' - $W$ - $W$ ) $W$	Chemical	1
+$W$ [ $W$ - $N$ , $N$ ' - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $W$ ( $N$ - $W$ ) $W$	Chemical	1
+$N$$W$ - $W$ - $W$	GENE	1
+$N$ $W$ - $W$ $N$ , $N$ - $W$	Chemical	1
+$W$ ( $W$$N$ $W$ $W$	GENE	1
+$W$ $N$ $W$ $N$ $W$ $N$$W$ $W$ $W$	GENE	1
+$W$ $N$ $W$ $N$$W$$N$$W$ $W$ $N$$W$ $W$	GENE	1
+$W$ $N$$W$$N$$W$ - $W$	GENE	1
+$W$ ( $N$ - $W$ $W$ - $W$ - $W$ $W$ )	Chemical	1
+$W$ $W$ ( $W$ - $W$ - $W$ $W$ - $W$ - $W$ )	Chemical	1
+$W$ - $N$ , $N$ ( $W$ ) - $W$	Chemical	1
+$W$ ( + ) ( $W$ ) $N$	Chemical	1
+$N$ , $N$ ' , $N$ , $N$ ' , $N$ - $W$	Chemical	1
+$W$ ( $W$ , $W$ ) - $W$ - $W$ $W$	Chemical	1
+[ ( $N$ ) $W$ ] $W$$N$ $W$ $W$	Chemical	1
+$N$ - $W$ $N$ - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ $W$	1
+$N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ - $W$ - $N$ - $W$ ) - $W$ - { $N$ - [ $N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ - $W$ - $N$ - $W$ ) - $W$ ] - $W$ } - $W$	Chemical	1
+$W$$N$ $W$ $W$$N$	GENE	1
+$N$ - $W$ $N$ , $N$ - $W$	Chemical	1
+$W$ $W$$N$ ( + )	GENE	1
+$W$ $W$ ( + )	GENE	1
+$W$$N$$W$ ( $W$$N$$W$$N$ - $N$ - $W$$N$$W$$N$$W$$N$ - $N$ ' - )	Chemical	1
+$W$ ( $N$ - $W$$N$$W$$N$ - $N$ - $W$$N$$W$$N$$W$$N$ - $N$ ' - )	Chemical	1
+$W$$N$ . $N$	Chemical	1
+$W$ - $W$ , $W$ $W$ $W$ $W$	Chemical	1
+$W$ $W$ - $W$ $N$ - $W$ $W$ $N$	GENE	1
+$W$ $W$ $N$ - $N$	GENE	1
+$W$ - ( $N$ - $N$	GENE	1
+$N$ - $N$	GENE	1
+$N$ - $W$ $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$ - $N$ - $W$ $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $W$ - $N$ - $W$ $W$ - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $W$ - $N$ - $W$ - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - ( ( $N$$W$ - $W$ - $N$ - $W$ ) - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$ - $N$ , $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ $W$	1
+$N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ $W$	Chemical	1
+$N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ - $W$ $W$ - $N$	Chemical	1
+$W$$N$ ( $N$ - $N$ $W$ )	GENE	1
+( $W$$N$ , $W$$N$$W$ ) $W$	Chemical	1
+( $W$$N$ , $N$$W$$N$$W$ ) $W$	Chemical	1
+( $W$$N$ , $W$$N$$W$ ) $N$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ ' , $N$ ' , $N$ - $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ ' , $N$ ' , $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ ' , $N$ - $W$ - $N$ ' , $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ ' , $N$ , $N$ - $W$ - $N$ , $N$ ' - $W$	Chemical	1
+$N$ ' , $N$ - $W$ - $N$ , $N$ ' , $N$ , $N$ - $W$	Chemical	1
+$N$ ' , $N$ - $W$ - $N$ , $N$ ' , $N$ - $W$	Chemical	1
+$N$ ' , $N$ , $N$ - $W$ - $N$ , $N$ ' , $N$ - $W$	Chemical	1
+$W$ $N$ ' $W$ $W$	GENE	1
+$W$ / $W$ ( $N$ ) - $W$	GENE	1
+$W$ - $W$ ( $N$ ) $W$ $W$	Chemical	1
+$W$ $W$ ( $N$ ) $W$	Chemical	1
+$W$ - $N$ ( $N$ - $W$ - $N$ - $W$	GENE	1
+$N$ - $W$ - $N$	GENE	1
+$W$ $W$$N$$W$$N$ . $N$	GENE	1
+$W$$N$$W$$N$ . $N$ $W$ $W$	GENE	1
+$W$$N$$W$$N$ * $N$ / * $N$	GENE	1
+$W$$N$$W$ + $N$$W$$N$$W$ ( $W$ ) $W$$N$	Chemical	1
+$W$$N$$W$$N$$W$$N$$W$ ( $W$ ) $W$$N$	Chemical	1
+$W$$N$$W$$N$$W$ ( $W$ ) $W$$N$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ $N$ , $N$ , $W$ $N$	GENE	1
+- $W$ - $W$ $W$	1
+- $W$ - $W$ $W$ ( $W$ ) $W$$N$	1
+$W$ - $W$ $W$ $W$ $N$$W$	GENE	1
+( $N$$W$ ) - $N$ ' , $N$ ' - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - $W$ - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+$N$$W$ $W$ $W$$N$ $W$	GENE	1
+$N$ , $N$ '' - $W$ - $N$ '' , $N$ '' - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ , $N$ '' - $W$ - $N$ '' $N$ '' - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ , $N$ $W$ $W$	GENE	1
+$N$ - ( $N$ , $N$ - $W$ ) - $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ $W$ $W$	Chemical	1
+$W$ ( $N$ ) , $W$ ( $N$ ) , $W$ ( $N$ ) - $W$ - ( $W$ ) $W$	Chemical	1
+$N$ ' , $N$ - $W$	Chemical	1
+$W$ ( $W$ - / - )	GENE	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - [ $N$ - ( $N$ , $N$ - $W$ ) $W$ ] - $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - $W$ $W$$N$ . $N$ $W$ $W$	GENE	1
+$W$ - $W$ $W$$N$ . $N$	GENE	1
+$W$ $W$$N$ / $N$	GENE	1
+$W$$N$ - $W$ - $W$ - $N$	GENE	1
+$W$ - $W$ ( $W$ ) $N$$W$	Chemical	1
+$W$ $W$ - $W$ ?	GENE	1
+$N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ $W$ $W$ ( $W$ ) $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $N$ - $W$ - $N$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$N$ ( $W$$N$ ) $W$	1
+$W$$N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ - $W$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+< $W$	GENE	1
+$W$ - $W$ - ( $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ ( $N$ ) , - $W$ ( $N$ )	Chemical	1
+$W$ - $W$ ( $W$ ' ) $N$	GENE	1
+$W$ ( $W$ ' ) $N$	GENE	1
+$W$ - $W$ $W$ $W$ $N$$W$$N$	GENE	1
+$N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ ( $W$ ( $W$ $W$ ) $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$$W$ - $W$ $W$	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ '' - $W$	Chemical	1
+$W$ $W$ - $W$ $N$ / $N$	GENE	1
+$W$ $W$ $W$ - - $N$ - $W$	GENE	1
+( $W$ , $W$ ) $N$$W$$N$	Chemical	1
+$W$ $W$$N$$W$$N$	Chemical	1
+$W$ $W$ $W$ ( $N$ . $N$ - $W$	GENE	1
+$W$ $W$ - $N$ ( $N$ . $N$ - $W$ ) $W$ $W$ $W$	GENE	1
+$W$ - $W$ = $W$ - $W$	Chemical	1
+( $N$ $W$ , $N$ $W$ , $N$$W$ ) - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - [ $W$ - $W$ - $W$ - ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ - $W$	Chemical	1
+( $N$ $W$ , $N$ $W$ , $N$$W$ ) - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - [ $W$ - $W$ - $W$ ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ - $W$	Chemical	1
+( $N$ ) $W$$N$ - $W$$N$$W$ $W$	GENE	1
+$N$ , $N$ - $W$ - $W$ [ $W$ ] [ $N$ , $N$ , $N$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $W$ - $N$$W$	GENE	1
+$W$ ( $N$ )	1
+$N$ - $W$ - $W$ $W$ $W$ $W$ $W$ $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ { $N$$W$ ( $N$ - $W$ ) - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$$W$ } $W$ $W$ $W$	Chemical	1
+$N$ { $N$$W$ ( $N$ - $W$ - $W$ - $N$$W$ ) - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$$W$ } $W$ $W$ $W$	Chemical	1
+$W$ $W$ $W$ - $W$ $W$ $N$ $W$ $N$	GENE	1
+$W$ ( $N$ - $W$ )	GENE	1
+$W$ ( $N$ - $W$ $W$ )	GENE	1
+$W$ ( $N$ - $W$	Chemical	1
+$W$$N$$W$ ( $W$ ) $W$ ( * ) $W$$N$$W$	Chemical	1
+$W$$N$$W$ ( $W$ ) $W$ ( $W$ ) ( * ) $W$$N$	Chemical	1
+$N$ - ( $N$ - { $N$ - [ ( $N$$W$ - $W$ - $N$ - $W$ ) $W$ ] $W$ } $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ ( $W$ ) $N$$W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$ $N$ - $W$	Chemical	1
+$W$ ( $N$ , $N$ ''' - $W$ - $W$ )	Chemical	1
+$W$ ( $N$ , $N$ - $W$ ( $N$ - $W$ - $N$ - $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ )	Chemical	1
+$W$$N$ ( $W$$N$$W$ ) $W$ $W$$N$ ( $W$$N$$W$ ) $W$	GENE	1
+$W$ - $W$ $W$ $N$ - $N$	GENE	1
+$W$ $W$ ( $W$ $W$ ) - $W$ - $W$ ( $W$ - $W$ )	Chemical	1
+- $N$ - $W$ $W$	1
+$W$ - $W$$N$$W$ - / - )	GENE	1
+$W$ / $W$	Chemical	1
+$W$ $N$ $W$ - $W$$N$	GENE	1
+$W$ - , $W$ - $W$ $W$ $N$	GENE	1
+$N$ - $W$ - ( $W$ - $W$ - $W$ ) - $W$	Chemical	1
+$W$ - $W$ - $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$$N$ , $N$ , $N$ , $W$ $N$	GENE	1
+$W$ - $W$$N$ $W$ $W$ $W$	GENE	1
+$W$ ( $W$ - $W$ ) $N$$W$	Chemical	1
+$N$ - $W$ - [ $N$ - $W$ - $W$ - $W$ - $W$ - $W$ ] - $N$ - $W$ - $W$ $W$	Chemical	1
+( - ) - $N$ - $W$ $W$ - $N$ - $W$ - [ $N$ ' - $W$ - ( $N$ '' - $W$ ) - $W$ - $W$ - $W$ ]	Chemical	1
+$N$ , $N$ - $W$ - $N$ ( $N$ ) , $N$ ( $W$ ) - $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ ( $N$ ) , $N$ ( $N$ ) , $N$ ( $W$ ) - $W$ - $N$ $W$ - $W$ - $N$ $W$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ ( $N$ ) , $N$ ( $N$ ) ( $W$ ) , $N$ ( $W$ ) - $W$ - $N$ $W$ - $W$ - $N$ $W$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+[ ( $N$ ) $W$ ] $W$ - $W$ - $N$ - ( $W$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - $W$ ) - $W$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$$W$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$N$ $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ - $W$ ( $N$ - $W$ - $W$ ) - $W$ - ( $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ $W$ - $N$ , $N$ - $W$ ( $N$ - $W$ - $W$ ) - $N$ , $N$ - $W$ - ( $N$ - $W$ ) $W$	Chemical	1
+$W$ [ $N$ / $N$ ]	Chemical	1
+$W$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ - $W$ ) - $N$ ' - $W$	Chemical	1
+$W$ ( $W$$N$$W$$N$ ) $N$	Chemical	1
+$W$ - ( $N$ - $W$ $W$	Chemical	1
+$W$ - ( $N$ - $W$ ) $W$ $W$	Chemical	1
+( $W$$N$ $W$ ) $W$	Chemical	1
+$W$$N$ $W$ ( + )	Chemical	1
+( $W$$N$ $W$ ) $N$ ( + )	Chemical	1
+[ ( $N$ ) $W$ ] - $W$ $W$	Chemical	1
+$W$ - $W$ $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$N$ - ( $N$ - ( $N$ - $W$ - $N$ - ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ , $N$ - $W$ [ $N$ . $N$ ] $W$ - $N$ - $W$ ) - $N$ - ( $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ) $W$	Chemical	1
+$N$ - ( $N$ - ( $N$ - $W$ - $N$ - ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ , $N$ - $W$ [ $N$ . $N$ ] $W$ - $N$ - $W$ ) - $N$ - ( $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ) $W$	Chemical	1
+- ( $N$ - ( $N$ - $W$ - $N$ - ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ , $N$ - $W$ [ $N$ . $N$ ] $W$ - $N$ - $W$ ) - $N$ - ( $N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ , $N$ ] $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$$N$ / $N$ / $N$ $W$	GENE	1
+$W$$N$$W$ ( + / - )	GENE	1
+$W$ ( $W$ ) < $W$ > $N$ < / $W$ >	Chemical	1
+$W$ ( $W$ ) < $W$ > $N$ < / $W$ > $W$ < $W$ > * - < / $W$ >	Chemical	1
+< $W$ > $W$ < / $W$ > - , < $W$ > $W$ < / $W$ > - , $W$ < $W$ > $W$ < / $W$ > - $W$ ( $W$ ) < $W$ > $N$ < / $W$ >	Chemical	1
+< $W$ > $W$ < / $W$ > - $W$	Chemical	1
+$W$$N$$W$$N$ - $N$ $W$ --> $W$ $W$ $W$	GENE	1
+$N$ - $W$ ,	Chemical	1
+$W$ - $W$$N$ - $W$ - $W$ - $W$ ,	Chemical	1
+( - ) - $W$ $W$ - $W$ - $W$ - $W$	Chemical	1
+( - ) - ( $N$$W$ , $N$ ' $W$ , $N$$W$ , $N$ ' $W$ ) - $N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ - $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+( - ) - ( $N$$W$ , $N$ ' $W$ , $N$$W$ , $N$ ' $W$ ) - $N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ - $N$ , $N$ ' - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	1
+( - ) - ( $N$$W$ , $N$ ' $W$ ) - $N$ , $N$ ' - $W$ - $N$ , $N$ ' , $N$ ' - $W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	1
+( - ) - ( $N$$W$ , $N$$W$ ) - $W$ - $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+( - ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ ( $N$ ) , $N$ - $W$	Chemical	1
+$N$ ' - $W$ ( $N$$W$ , $N$ ' $W$ , $N$ ' $W$ ) - $N$ - ( $W$ ) $W$	Chemical	1
+( $N$$W$ , $N$ ' $W$ , $N$ ' $W$ ) - $N$ - ( $W$ ) $W$	Chemical	1
+( $N$$W$ , $N$$W$ , $N$ ' $W$ , $N$ ' $W$ ) - $N$ - ( $N$ , $N$ - $W$ ) - $N$ , $N$ ' - $W$ - $N$ ' - $W$ - $N$ ' - $W$ - $N$ ' - ( $N$ ' , $N$ ' - $W$ ) - $W$	Chemical	1
+$W$ - $N$ - ( $N$ , $N$ - $W$ ) - $N$ - ( $N$ , $N$ - $W$ ) - $N$ , $N$ - $W$ - $W$	Chemical	1
+( + ) - $W$ ( $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - ( $N$ , $N$ - $W$ ) - $N$ , $N$ - $W$ - $W$ )	Chemical	1
+$W$ ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ) $W$ ( $W$ )	Chemical	1
+[ $W$ ( $W$ ) $N$ ] +	Chemical	1
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$	Chemical	1
+$W$ $W$$N$ , $W$$N$ , $W$ , $W$$N$ , $W$ , $W$$N$ , $W$ , $W$ $W$$N$	Chemical	1
+$W$ - $W$ - $N$ - ( $W$ - $W$ ) $W$ - $N$ - $W$	Chemical	1
+$W$ , $W$ - $W$ ( $W$ - $N$ - $W$ ) ( $N$ - $W$ ) - $W$ - $W$	Chemical	1
+$W$ $N$ , $N$ - $W$ - $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ $N$ , $N$ - $W$ - $W$ $W$	GENE	1
+$W$ $W$$N$ $W$ $W$ $W$ - $W$	GENE	1
+$W$$N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ , $N$ $W$ $N$	GENE	1
+( $N$ - $W$ - $N$ - $N$ [ [ ( $N$ - $W$ ) $W$ ] $W$ ] - $N$$W$ - $W$ - $N$ - $W$ ) - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ ' - $W$ ( $W$ )	Chemical	1
+$N$ ' - $W$ - ( $W$ ) - $N$ ' - $W$ - ( $N$ , $N$ , $N$ - $W$ ) $W$	Chemical	1
+$W$ ( $W$ . $W$ . <$W$> , <$W$> $W$ <$W$> )	Chemical	1
+$W$ ( $W$ - $W$ ) - $W$ - $W$ ( $W$ - $W$ )	Chemical	1
+$W$ ( $W$ - $W$ ) $N$ - $W$ - $W$ ( $W$ - $W$ ) $W$	Chemical	1
+$N$ - ( $W$ ) - $N$ - $W$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$$N$ ( $W$ ) $N$$W$$N$ $W$	GENE	1
+$W$ - $N$ ' , $N$ ' - $W$ - $N$ ' - $W$ - ( $N$ '' - $W$ - $W$ ) - $N$ - $W$	Chemical	1
+$N$ , $N$ ' , $N$ '' , $N$ '' ' - $W$ - $N$ '' ' , $N$ '' ' $W$ - $W$ ( $N$ ' --> $N$ '' ) - $N$ - $W$ - ( ( $N$ - $W$ ) $W$ )	Chemical	1
+$W$$N$$W$ $W$	1
+$W$$N$$W$ $W$ $W$	1
+$N$$W$ - $N$ , $N$ - $W$ - $N$ - $W$	GENE	1
+$N$ - ( $N$ - $W$ ) - $W$ - ( $N$ - $W$ - $N$$W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - ( $N$ - $W$ - $N$$W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ - $W$	Chemical	1
+$W$$N$ $W$ $W$ - $W$	GENE	1
+$N$ , $N$ - $W$ ( $N$ - $W$ ) $W$ - $N$ - $W$ $W$	Chemical	1
+$W$$N$ / - $W$ $W$ $W$	GENE	1
+$W$$N$ , $N$ ]	GENE	1
+$W$ $W$ ) - $W$ $W$	GENE	1
+$N$ - $W$$N$ $W$	1
+$N$ - $W$$N$ / $N$ $W$	GENE	1
+$N$ - $W$ - $W$ - [ $N$ ] - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$$W$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ $W$ - $W$ - $W$ - $W$ - $W$ - ( $N$ --> $N$ ) - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$$N$ / $N$ / $N$	GENE	1
+$W$ [ $N$ , $N$ - $W$ ] $W$ $W$ $W$	Chemical	1
+[ $W$ ( $W$ ) $N$ ] ( - )	Chemical	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$ - $N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$$N$	Chemical	1
+$W$ / $W$ ) $W$	GENE	1
+$W$ ( - $W$ )	Chemical	1
+$N$ - ( $N$ - ( $N$ - $W$ ) - $N$ , $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+[ $W$ ( $W$$N$ - $W$ - $W$ ) $N$ ] ( $W$$N$ ) $N$	Chemical	1
+$N$$W$ , $N$ - $W$ - $W$	Chemical	1
+[ () $W$ ] $W$$N$	Chemical	1
+$W$ ( $N$ / $N$ ) $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ - $N$ ( $N$ ) - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ ( $W$$N$ ) $W$ $W$	GENE	1
+$N$ , $N$ - $W$ - $N$ - ( $W$ ) - $N$ , $N$ - $W$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ ( $N$ --> $N$ ) - [ $W$ - $W$ - $W$ ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ , $N$ - $W$ - $W$ - $W$ - $W$ ( $N$ --> $N$ ) - [ $W$ - $W$ - $W$ ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ ( $N$ --> $N$ ) - [ $W$ - $W$ - $W$ ( $N$ --> $N$ ) ] - $W$ - $W$ - $W$ , $N$ - $W$ - $W$ - $W$ - $W$ ( $N$ --> $N$ ) - $W$ - $W$ - $W$ $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $N$ $W$ $W$ $W$ $W$	GENE	1
+$W$ - $W$ - $N$ $W$ $W$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $N$$W$	GENE	1
+$W$ - $N$$W$	1
+$N$ , $N$ , $N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $W$ - $N$ - $W$ - ( $N$ ' - $W$ $W$ ) - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+$W$ $W$ $W$ $N$$W$ $W$	GENE	1
+$N$ - ( $N$ - $W$ - $W$ ) - $N$$W$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ ( $N$ ) - $W$ - $N$ $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $N$ , $N$ ( $N$ ) - $W$ - $N$ $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $N$ , $N$ - $W$ - $N$ $W$ - $W$ $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $W$ - $W$ - $N$ $W$ , $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$$N$ $W$ $N$$W$	GENE	1
+[ ( $N$ ) $W$ ] $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ , $W$ ' - $W$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+$N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ ) - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$ $W$	Chemical	1
+$W$ - $N$ , $N$$W$	Chemical	1
+$N$ - [ [ ( $N$ , $N$ - $W$ ) $W$ ] $W$ ] $W$ ] $W$ ) $W$ $W$	Chemical	1
+$N$ - [ ( $W$ - $W$ - $W$ ) $W$ ] - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - [ ( $W$ - $W$ - $W$ ) $W$ ] - $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$ $W$ $W$	Chemical	1
+$W$ - $W$ - $N$$W$ $W$ $W$ $N$	GENE	1
+$N$ $W$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ ' - $W$ - $W$ - $N$ ' - $W$ ) - [ $N$ , $N$ ] $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	1
+$W$ - ( $W$ - $W$ - $W$ $W$ )	Chemical	1
+$N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$ - $N$ - ( $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ - $W$ $W$ $N$	GENE	1
+$W$$N$$W$$N$$W$$N$$W$ ( $W$$N$ ) $W$$N$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+[ $N$ - $N$ ] - $W$	Chemical	1
+$N$$W$ / $W$	GENE	1
+$N$$W$ / $W$ $W$	GENE	1
+$W$ - $N$ $W$ + $N$$W$ / $W$ $W$	GENE	1
+[ () $N$ $W$ ] $W$$N$	Chemical	1
+[ $N$$W$ ] $W$$N$	Chemical	1
+( $W$ $W$ $N$ - $N$$W$	GENE	1
+$N$ , $N$ ' , $N$ '' - ( $N$ - $W$ - [ $N$$W$ ] - $W$ - $N$ , $N$ , $N$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ - $W$ ( $N$ - $W$ ) - $N$ - $W$ - $N$ - [ $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ - [ $N$ - $W$ - $N$ , $N$ - $W$ ( $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ] $W$	Chemical	1
+$W$$N$$W$$N$$W$$N$$W$	GENE	1
+$W$ $N$ - $W$ $W$ $W$	Chemical	1
+~ $N$ $W$ $W$ $W$	GENE	1
+$N$ , $N$ ' , $N$ , $N$ ' - $W$ - $N$ , $N$ ' , $N$ , $N$ ' - $W$	Chemical	1
+$N$ - [ $N$ - ( $W$ ) $W$ ] - $N$ - ( $W$ ) - [ $N$ , $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ , $W$ - $W$ , $W$ $W$ $W$ $W$	Chemical	1
+$W$ - ( $N$ ) - [ $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - [ ( $W$ ) $W$ ] $W$ [ $N$ , $N$ , $N$ - $W$ ] - $N$ , $N$ - $W$ ] - ( $N$ - $W$ ) $W$ $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $W$	Chemical	1
+$W$ - ( - ) - $N$ , $N$ - $W$ - $W$ - $W$ - $W$ - [ $N$ - ( $N$ - $W$ ) $W$ ] $W$	Chemical	1
+$N$ - ( $W$ - $N$ - $W$ ) - $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+( $N$ - $W$ - $N$ - $W$ - $N$ - [ $N$ - ( $N$ - $W$ ) $W$ ] - $N$$W$ - $W$ - $N$ - $W$ ] ( $N$ - $W$ ) $W$ )	Chemical	1
+$N$$W$ - $W$ $W$ $W$	Chemical	1
+( $N$ ) $W$ - $W$ $W$	Chemical	1
+$W$ ( $W$ ) ]	GENE	1
+( $W$ - $N$ , $N$ , $N$ ' - $W$ ) $W$	Chemical	1
+$W$ - $N$ ' - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $W$ , $N$ - $W$ - $W$ - $W$	Chemical	1
+$W$ - [ $N$ ( $W$ ) - $W$ ] - $N$ - $W$ $W$	Chemical	1
+$W$$N$ , $W$$N$	GENE	1
+$W$ , $W$ - $W$ - $N$ - ( $N$ - ( $N$ - ( $N$ [ ( $N$ ) $W$ ] - $W$ ) $W$ ) $N$ , $N$$W$ [ $N$ , $N$$W$ ] $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ - $N$ , $W$ - $N$ $W$ $W$ - $N$ $W$ - $W$ $W$ - $W$ - $W$ $W$ - $W$	Chemical	1
+$W$ - $N$ $W$$N$$W$	GENE	1
+$W$ $W$ $W$ - $N$ - $W$	GENE	1
+$W$ $W$ ( $N$ , $N$ , $N$ - $W$ ) - $W$	Chemical	1
+$N$ ' , $N$ ' - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ $W$ $W$ $W$ - $W$ $N$	GENE	1
+$W$ / $W$ - $W$ $W$	Chemical	1
+$W$ ( $N$ - ( $W$ ) $W$ )	Chemical	1
+$N$ - $W$ - $W$ - { $N$ - [ $N$ - ( $N$ - $W$ ) - $N$ - ( $W$ ) - $N$$W$ - $W$ - $N$ - $W$ ] - $W$ } - $W$	Chemical	1
+$W$$N$ - $W$$N$ $W$ $W$ ( $W$ $W$ $W$ )	GENE	1
+[ $W$ ( $W$ ( $W$ , $W$ ) ) ] ( $W$ ( $N$ ) ) ( $N$ )	Chemical	1
+$N$ , $N$ - $W$ ( ( $W$ ) - $W$ - $W$ ) - $N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+[ $W$ ( $W$ ( $W$ , $W$ ) ) ] ( $N$ ) [ $W$ ( $N$ ) $W$ ( $N$ ) ( $W$ ) ( $N$ ) ] ( $N$ )	Chemical	1
+$W$ - $N$ , $N$ ' - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ ( $N$$W$ ) $W$	Chemical	1
+$W$ ( $N$ ) $W$	1
+$W$ $W$ $W$ $W$$N$$W$$N$ $W$	GENE	1
+$W$ ( $W$ ( $N$ ) )	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ $N$ - $W$ $W$	GENE	1
+$W$ . $N$$W$ > $W$ $W$	GENE	1
+$W$ $N$ ) $W$	GENE	1
+$W$ - $W$$N$ $W$ $W$ $W$ $W$ - $N$	GENE	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$ [ $W$ ( $N$ - $W$ ) $W$ $W$ ] )	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ - [ $W$ ( $N$ - $W$ ) $W$ $W$ ] - $N$ , $N$ - $W$ [ $W$ ( $N$ - $W$ ) $W$ $W$ ]	Chemical	1
+$W$ - $W$ $W$ $N$ $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ ( $N$	GENE	1
+$W$ $W$ $W$ $W$ ( $N$ )	GENE	1
+$N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ , $W$ $N$	GENE	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - $W$ $W$ $W$	Chemical	1
+$N$ - [ $N$ - $W$ - $N$ - $W$ ] - $N$ - $W$ $W$ $W$	Chemical	1
+$W$ - $N$ $W$ $W$ - $N$	GENE	1
+$N$ , $N$ - $W$ ( $N$ - $W$ ) $W$ - $W$ , $W$ , $W$ ' , $W$ ' - $W$ $W$ - $W$ $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+( + ) - $W$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$$W$ - $W$ [ $W$ , $W$ ] $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ - $N$ $W$ $W$ - $N$ $W$ $W$	GENE	1
+$W$ ( $N$ ) ( - / - )	GENE	1
+$W$$N$ . $N$ ( + )	GENE	1
+( $N$ ) $W$ $W$	GENE	1
+$W$$N$$W$ ( $W$ $W$$N$$W$	GENE	1
+$W$ - $W$ $N$$W$ $W$ $W$ - $N$$W$	Chemical	1
+$W$ $W$ - $W$ $N$ ' - $W$ $W$	GENE	1
+$W$ _ $N$	GENE	1
+$W$ $W$ _ $N$	GENE	1
+$W$ $W$ $W$ $W$ $W$ _ $N$	GENE	1
+$W$ $W$ ( $N$ ) - $W$ $W$	GENE	1
+$W$ - $W$ $W$ ( $N$ ) $W$	GENE	1
+$W$ - $W$ $W$ ( $N$ ) - $W$	GENE	1
+$W$ ( $W$ . $W$ )	Chemical	1
+$N$ - , $W$ - $N$ - , $W$ $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - ( $W$$N$$W$ ) $W$ $N$ - $W$ - $W$ - ( $W$$N$$W$ ) $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $N$$W$	GENE	1
+$W$ $W$ $W$$N$$W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$$N$ . $N$ $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ / $W$$N$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $N$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ - $W$ $N$ $W$	GENE	1
+$W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ + $W$ )	Chemical	1
+$W$ $W$ ( $N$ - $W$ ) $W$	GENE	1
+$N$ $W$ - $W$$N$ ) - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ $N$	GENE	1
+$W$$N$ - $W$$N$ / $W$$N$ ]	GENE	1
+$W$$N$ - $W$$N$ / $W$$N$ )	GENE	1
+$W$$N$ - $W$$N$ / $W$	GENE	1
+$W$ $N$ . $N$ . $N$ . $N$ . , $W$	GENE	1
+$W$$N$ - $W$ ( $N$ )	Chemical	1
+$W$ $W$ / $W$ - $W$	GENE	1
+$W$$N$ ( - ) $N$ ( - )	GENE	1
+$W$$N$ ( - / - ) $W$$N$ ( - / - )	GENE	1
+$W$ $N$ , $N$ - $W$ $W$$N$	GENE	1
+$W$$N$ ( - ) $N$ ( - ) $N$ ( - )	GENE	1
+$W$ , $W$ , $W$ $W$ $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ ' - $W$ $W$	Chemical	1
+$N$ - , $N$ - $W$ $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ $W$ $W$ ( $W$ ) - $N$	GENE	1
+$W$ { [ $W$ ( $W$ $W$ ) $W$ ] - $W$ - ( $W$ $W$ ) }	Chemical	1
+$W$ [ ( $W$ - $W$ ) - $W$ - ( $W$ $W$ ) ]	Chemical	1
+( $N$$W$ , $N$$W$ ) - $N$ - ( $N$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$$W$ , $N$ , $N$ , $N$$W$ - $W$ [ $W$ ] $W$ - $N$ - $W$	Chemical	1
+$W$ - ( + ) - [ $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - [ ( $W$ ) $W$ ] $W$ [ $N$ , $N$ , $N$ - $W$ ] - $N$ , $N$ - $W$ ] - ( $N$ - $W$ ) $W$ $W$	Chemical	1
+( $W$ ) - ( + ) - $W$ - $N$ ' - $W$ - $N$ ' - $W$ ( $W$ )	Chemical	1
+$N$ - ( $N$ - $W$ ) - $N$ - ( $N$ , $N$ - $W$ - $W$ ) - $N$ - $W$ - $W$ - ( $W$ - $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ ) - $N$ - ( $N$ , $N$ - $W$ ) - $N$ - $W$ - $W$ - ( $W$ - $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+( +/- ) - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$ $W$	Chemical	1
+( $W$ ) - ( + ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$ $W$	Chemical	1
+( $N$$W$ ) - $N$ , $N$ , $N$$W$ , $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ [ $W$ , $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ ( $N$ , $N$ ) - $W$ $W$ $W$	GENE	1
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - $W$ $W$ $W$ $W$ $W$	Chemical	1
+( - ) - $N$ - ( $N$ - $W$ - $N$ - ( $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - $W$ $W$ $N$ - $W$	Chemical	1
+$W$$N$$W$$N$ - $W$$N$$W$$N$	GENE	1
+$W$ $N$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $W$ - $W$ ' - $W$	Chemical	1
+$N$$W$ ( $W$ )	GENE	1
+$N$ - $W$ $N$ - $W$ - ( $N$ - $W$ ) $W$ $N$ , $N$ - $W$ $W$ $W$	Chemical	1
+$N$ - $W$ - ( $N$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	1
+$W$ ' - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+( $W$ ) - $N$ - $W$ - $W$ ' - ( $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - $W$ ' - ( $N$ - $W$ ) $W$ [ $W$ ] [ $N$ , $N$ ] $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - $W$ ' - ( $N$ - $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	1
+() $W$ ( $W$ )	Chemical	1
+$W$ ( $W$ ( $N$ . $N$ ) $W$ ( $N$ . $N$ ) ) $W$ ( $N$ )	Chemical	1
+$W$$N$ - $W$$N$ - $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ $W$ ( $N$ - $W$ ) $W$ $W$ $W$	Chemical	1
+$W$ ( - ) - $W$	Chemical	1
+$W$ ( $N$ ) - ( $W$ - $W$ - $N$ - $W$ ) - $W$	Chemical	1
+( $W$$N$ ) $W$	Chemical	1
+$W$$N$$W$ / $W$$N$$W$ $W$	GENE	1
+( * ) $W$	Chemical	1
+$W$ - $W$ ( $W$ ) $N$ - $N$$W$ - $W$ $W$	GENE	1
+$N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - [ $N$ - ( $N$ - $W$ ) $W$ ] $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - ( $N$ - $W$ $W$ ) $W$	Chemical	1
+[ () $W$ ] - $W$	Chemical	1
+$W$ $W$ / $W$	1
+$W$ $W$ $W$ - ( $W$ ) - $W$	GENE	1
+$W$$N$ - $W$ - $N$	GENE	1
+$W$ / $W$ $W$ ( $W$ ) $W$	Chemical	1
+[ $W$ ( $W$ ( $N$ ) $W$ ) ( $N$ ) ] $W$ ( $N$ )	Chemical	1
+{ [ $W$ ( $N$ ) $W$ ( $W$ ( $W$$N$ ) ) ( $N$ ) ] $W$ [ $W$ ] } ( $W$ )	Chemical	1
+( $W$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $N$ - ( $N$ - $W$ - $W$ ) - $W$ [ $W$ ] $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ )	Chemical	1
+$W$ $N$ , $N$ - $W$ $N$ , $N$	GENE	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ - ( $N$ - $W$ ) - $W$ - $N$ - $W$	Chemical	1
+( $N$$W$ , $N$$W$ , $N$$W$ ) - $N$ - $W$ - $W$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ [ $N$ . $N$ . $N$ . $N$ ~ $N$ , $N$ ~ ] $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	1
+$W$ ( $W$ ) $W$ $W$ ( $W$ ) $W$	Chemical	1
+$W$ ( $W$ $W$ $W$	GENE	1
+$W$ - $W$ - $W$ $W$ - $N$ $W$ $N$ $W$	GENE	1
+$W$ $N$ - ( $W$ - ( ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ ) $W$ ) $W$	Chemical	1
+$W$ $W$ , $W$	GENE	1
+$W$ $W$ $W$ [ $W$ ] $W$ $W$	Chemical	1
+$W$ - $N$ , - $N$ , - $N$ / $N$	GENE	1
+$N$ - $W$ , $W$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ ( $W$ - $W$ ) - $N$ , $N$ - $W$ [ $W$ , $W$ , $W$ , $W$ ] - $W$	Chemical	1
+$W$ - [ $N$ - ( $W$ ) $W$ ] $W$	Chemical	1
+$W$ ( $N$ . $N$ ) $W$ ( $N$ . $N$ ) $W$	Chemical	1
+[ $W$ ( $N$ ) $W$ ] $W$ ( $N$ )	Chemical	1
+$W$ $W$$N$$W$$N$ $W$ $W$$N$ $W$	GENE	1
+$W$$N$ ( * ) $N$	GENE	1
+$N$ , $N$ - $W$ , $N$ , $N$ - $W$ , $N$ - $W$	Chemical	1
+$W$ - ( + ) - $W$	Chemical	1
+$W$ - $N$$W$ $W$ $W$ $N$	GENE	1
+$W$ ( $N$ ) - $W$ ( $N$ )	Chemical	1
+$W$ - ( $W$ , $W$ )	Chemical	1
+( + ) - $N$ - ( $N$ , $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$ [ $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ $W$ $W$ - $W$ $W$ - $N$$W$	GENE	1
+$W$ $N$ $W$ / $W$ $W$	GENE	1
+$W$ - $W$ ( $W$ , $W$ , $W$ , $W$ - $W$ - $W$ ) $W$	Chemical	1
+[ $W$ ( $W$ ) ( $W$ ) ( $N$ - $W$ ) ( $N$ ) ]	Chemical	1
+[ $W$ ( $W$ ) ( $W$ ) ]	Chemical	1
+[ $W$ ( $W$ ) ( $W$ ) ( $W$ ) ( $N$ ) ] $W$	Chemical	1
+$W$ ( $N$ ) $W$$N$	GENE	1
+$W$ $N$ $W$ $W$ $N$ $W$	GENE	1
+$N$ - $W$ - $N$ , $N$ - $W$ - ( $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ $N$$W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $N$$W$	GENE	1
+$N$ , $N$ ' - $W$ ( $N$ - $W$ - $N$ - $W$ $W$ )	Chemical	1
+$N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ - $W$ ) $W$ $W$	Chemical	1
+$W$ ( $N$ ) - ( $N$ - ( $N$ / $N$ / $N$ - $W$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) - $W$ ( $N$ ) - ( $N$ - $W$ - $N$ - ( $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ ( $N$ ) - ( $N$ - ( $N$ / $N$ / $N$ - $W$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) - $W$ ( $N$ ) - ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ ) - $W$	Chemical	1
+$N$ , $N$ - $W$ - $W$ - ( $N$ - $W$ )	Chemical	1
+$W$ - $W$ ) / $W$$N$ - $W$$N$$W$	GENE	1
+$W$ - $W$ - $W$$N$ - $W$ - $W$ ( $N$ )	GENE	1
+$W$ - $W$ [ $W$ - $W$ - ( $W$ - $W$$N$$W$ - $W$ - $W$ ) - $W$ ] - $W$ - $W$ ( $N$ )	GENE	1
+[ $W$ - $W$ - ( $W$ - $W$$N$$W$ - $W$ - $W$ ) - $W$ ] - $W$ - $N$ )	GENE	1
+$W$ - $W$ $W$ ( $W$ )	Chemical	1
+$W$ - $W$ $W$ ( $W$ ) $W$	Chemical	1
+$W$ ( $W$ ) $W$ ( $W$ ( $N$ ) $W$ ) ( $W$ )	Chemical	1
+$W$ ( $N$ ) $W$ ( - )	Chemical	1
+$W$ ( $N$ ) $W$ ( $W$ ( $N$ ) $W$ )	Chemical	1
+$W$ ( $N$ ) $W$ ( $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+$W$ - $W$ ( $N$ ) $W$ ( $W$ ( $N$ ) $W$ ) ( $N$ )	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ $W$ - $N$ $W$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ , $N$ , $N$ , $N$ - $W$ - $N$ $W$ ) $W$ $W$	Chemical	1
+$W$ - $W$ - $W$ - ( $W$ ) $W$	Chemical	1
+$N$ / $N$ ( $W$$N$ / $N$ ) $W$	1
+$W$$N$ ( $W$$N$ )	GENE	1
+$W$$N$ - $W$ $W$$N$ - $W$	Chemical	1
+$W$$N$ ' $W$	GENE	1
+$W$ $W$ - $W$ - $N$ - $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ $W$ $W$ - $W$ $W$ $W$ $W$ - $W$	GENE	1
+$W$ $N$ - $W$ - $W$	GENE	1
+$W$$N$$W$ $W$ $W$ - $W$ $W$	GENE	1
+( $W$ , $W$ ) - $N$ , $N$ - $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ ( $W$ ) $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $W$ - $W$ - $N$ - ( $N$ - $W$ - $N$ , $N$ - $W$ ) $W$	Chemical	1
+( $W$ ) ( $W$ ) $W$	1
+$W$ $W$ $W$ $W$ $W$ $W$ - $W$ $W$ - $W$ $W$	GENE	1
+$W$ $N$ $W$ - $N$ $W$	GENE	1
+$N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - ( $W$ ) - $W$	Chemical	1
+$W$ , $W$ - , $W$ - $W$ $W$ - $W$ $W$	Chemical	1
+$N$ - ( ( $N$$W$ , $N$$W$ ) - $W$ - $N$ , $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - ( ( $N$ - ( $N$ - $W$ ) $W$ - $N$ - $W$ ) $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ - $W$ - ( $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ $W$ $W$	Chemical	1
+$W$ - ( $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ ( $W$ ) ( $N$ ) $W$	Chemical	1
+$N$ - ( $W$ $N$ - ) - $W$ - $N$ ' , $N$ ' - $W$ $W$	Chemical	1
+$N$ ' - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$$N$ $N$$W$$N$ $W$	GENE	1
+$W$$N$ $N$$W$$N$ $W$	GENE	1
+$W$ $W$ $W$ $N$ ( $W$ ) $W$ $W$	GENE	1
+[ () $W$ ] $W$$N$ , $N$	Chemical	1
+$W$ - $N$ $W$ / $W$	GENE	1
+$N$ , $N$ - $W$ ( ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) - $W$ ) $W$	Chemical	1
+$W$ - $W$ - $W$ ' - $W$ - $W$ - $W$	Chemical	1
+[ $W$ ( $N$ ) ( $W$ ( $N$ ) ) ( $N$ ) ]	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - [ $N$ - $W$ ] - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - [ $N$ - $W$ ] - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$ - $N$	Chemical	1
+( $N$ ) $W$ ( + ) - $W$	Chemical	1
+( $W$ ) - ( $N$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $N$ - $W$ $W$	Chemical	1
+( + / - ) - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - ( $N$$W$ ) - $N$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+( $N$ ) $W$ - $N$ , $N$ - $W$ ( $N$ - $W$ ) - $W$	Chemical	1
+$W$ $W$ $W$ $W$$N$ $N$$W$$N$	GENE	1
+$W$ $W$ $W$ $W$ - $W$ $W$ ( $W$ ) $W$	GENE	1
+$N$ - $W$ - $N$ - ( $N$ , $N$ - $W$ ) - $N$ - $W$ ] $W$ $W$	Chemical	1
+$W$ - $W$ $N$$W$ $W$ $W$	GENE	1
+( $N$ - $W$ ) [ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( $N$ . $N$ ) ( $W$ ( $N$ ) ) ( $N$ . $N$ ) ] - $W$	Chemical	1
+( $N$$W$ ) - $N$ - [ ( $N$ - $W$ ) $W$ ] - $N$ - [ $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$ ] $W$ $W$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ ( $W$$N$$W$ )	GENE	1
+$W$ - $W$ $W$ $W$ $W$ - $W$ $W$	GENE	1
+$W$$N$$W$$N$ $W$ $W$ $W$$N$$W$$N$ . $N$	GENE	1
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ > $W$ - $W$	Chemical	1
+$W$ - ( $N$ - $W$ ) - $W$	Chemical	1
+$N$ - [ $N$ - $W$ - $N$ - ( $W$ - $N$ - $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ [ $N$ , $N$ ] $W$ [ $N$ , $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ] - $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ - $N$$W$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - ( $N$ ' - $W$ - $N$ ' - $W$ ) - $W$ - $N$ - $W$ - $N$ - $W$ - $W$	Chemical	1
+( $N$$W$ ) - $N$ , $N$ - ( $N$ , $N$ - $W$ ) - $N$ - $W$ - $N$ ' - $W$	Chemical	1
+$W$ - $W$ $W$ ( $W$ ) $N$$W$$N$	GENE	1
+$N$ , $N$ - $W$ ( $W$ ) - $N$ - $W$	Chemical	1
+$W$ $W$ $N$$W$ $W$ $N$$W$	GENE	1
+$N$ - ( $W$ ) - $N$ - ( $W$ ) - $N$$W$ - $W$	Chemical	1
+$W$ ( $W$ $W$ ) - $W$ - $W$ ( $W$ - $W$ - $W$ - $W$ )	Chemical	1
+$W$ $W$ $W$ $W$$N$$W$ $W$	GENE	1
+$W$$N$$W$ $W$$N$$W$ $W$	GENE	1
+$W$ ( $W$$N$ ) $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ , $W$ , $W$ , $W$ , $W$ , $W$ $W$	Chemical	1
+$W$ ( $W$ $W$ ) - $W$ ( $W$ $W$ $W$ )	Chemical	1
+$W$ $W$ - $W$$N$ - $W$ $W$ $N$	GENE	1
+$W$ $N$ $W$ $N$ $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ ( $W$ ) - $N$	GENE	1
+$W$ $W$ $N$ / $N$	GENE	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ ( $N$$W$ , $N$$W$ ) - $W$	Chemical	1
+$N$$W$ ( $N$ )	Chemical	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+( +/- ) - $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ , $N$ - $W$	Chemical	1
+$N$$W$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ ( $N$ ) - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$$N$ $W$ $W$ $W$ $W$ ( $N$ ) $W$	GENE	1
+$N$ - [ ( $N$ - $W$ ) ( $W$ ) $W$ ] - $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ [ $W$ - $W$ - $W$ - $W$ - $W$ ]	Chemical	1
+$W$ - $N$ $W$ / $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ ( $W$ ) - $W$	GENE	1
+$W$ - $W$ $W$ $N$ - $W$	GENE	1
+$W$ - $W$ $W$ - $W$ - $N$	GENE	1
+$W$ ( $N$ ) $W$ )	GENE	1
+$W$ - [ $W$ ( $W$ ) ( $N$ ) ( $W$ ) $W$ ( $N$ ) ] ( $W$ ( $N$ ) )	Chemical	1
+$W$ $W$ ( $W$$N$ ) $W$	GENE	1
+( $N$$W$ , $N$$W$ ) - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+[ $W$$N$$W$$N$ ] $N$ -	Chemical	1
+$N$ $W$ $N$ $W$ $W$ - $W$ $W$	GENE	1
+$N$$W$ , $N$$W$ , $N$$W$ , $N$$W$ - $W$	Chemical	1
+$W$ $N$ : $N$	Chemical	1
+$W$ $W$ $W$ - $W$ - $W$ - $W$	GENE	1
+$W$ - $W$ ( $W$ - $W$ )	Chemical	1
+$W$ ( $W$ ) ( - )	Chemical	1
+$N$ , $N$ , $N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ ( $N$ ) - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$ ( $W$ ( $N$ - $W$ ) $W$ ( $W$ ) ) ( $N$ ) $W$ ( $N$ )	Chemical	1
+$W$ ( $N$ ) ( $W$ ( $N$ - $W$ ) $W$ ( $W$ ) ) ( $N$ )	Chemical	1
+$W$ ( $N$ - $W$ ) $W$ ( $W$ ) $W$ ( $N$ ) $W$ ( $N$ )	Chemical	1
+$W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ - $N$ - $W$$N$	GENE	1
+$N$ - $W$ - $N$ - ( $W$ ) $W$	Chemical	1
+$W$ - ( $N$ - $W$ - $N$ - [ ( $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$ ] $W$ ) - $N$ - $W$	Chemical	1
+$W$ - ( $N$ - $W$ - $N$ - ( ( $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ ) $W$ ) $W$ ) $W$	Chemical	1
+[ $W$ - $W$$N$ , $W$ - $W$ - $W$$N$ , $W$$N$ ] - $W$	Chemical	1
+$W$ - $N$ ' - $N$ - ( $W$ - $W$ ) - $W$	Chemical	1
+$W$ - / - )	GENE	1
+$W$ $W$ ( $W$ ) $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+[ ( $W$ ) ( $N$ ) $W$ ( $W$ ) ] ( $N$ + )	Chemical	1
+[ ( $W$ ) ( $N$ ) $W$ ( $W$ ( $N$ ) $W$ ) ] ( $N$ + )	Chemical	1
+$W$ ( $W$ ) $W$ - $W$	Chemical	1
+$W$ ( $N$ - $W$ $W$ ) - $W$ - $W$ ( $W$ $W$ )	Chemical	1
+$W$ ( $N$ - $W$ ) - $W$ - $W$ ( $N$ - $W$ )	Chemical	1
+$W$$N$$W$ - $W$ - $W$$N$$W$	Chemical	1
+$W$ $W$ $W$ $N$ $W$ - $W$ $W$	GENE	1
+$W$ $W$$N$ $W$ - $N$ $W$	GENE	1
+$N$ - $N$ - $N$	GENE	1
+$W$ - $W$ ( $W$ ) - $W$ $W$	Chemical	1
+$W$ ( $W$ - $W$ - $W$ - ( $N$ - $W$ ) $W$ - $W$ , $W$ ' ) $W$ ( $W$ )	Chemical	1
+$W$ ( $W$ ) $N$ ( $W$ )	Chemical	1
+$W$ ( $W$ ) $N$ ( $N$ , $N$ - $W$ )	Chemical	1
+$W$ ( $W$ ) $N$ ( $N$ , $N$ ' - $W$ )	Chemical	1
+$W$ - $W$ $N$ - $W$ $W$ - $W$	Chemical	1
+$W$$N$ ( $W$ $W$$N$ ) $W$	1
+$W$$N$ ( $W$ $W$$N$ ) $W$ $W$	1
+$N$ - $W$$N$$W$ / $N$$W$ / $N$$W$ $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ , $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$$N$$W$ / $N$$W$	GENE	1
+$W$ - $W$ - $W$ $W$ $W$ $N$ $W$	Chemical	1
+$W$ - $N$$W$ $W$ $N$	GENE	1
+$W$ [ $N$ , $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ [ $N$ , $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	1
+$W$ , $W$ - $W$ - $W$ $W$ ( $W$ $W$ )	Chemical	1
+$W$ - $W$ - $W$ - $W$ $W$ ( $W$ $W$ )	Chemical	1
+$W$ - $W$ - ( $W$ )	Chemical	1
+( $N$ ) ( $W$ )	Chemical	1
+$N$$W$ $W$ $N$	GENE	1
+$N$ - $W$ - $N$ - $W$ $W$ ( $W$ - $W$ ) $W$	Chemical	1
+$W$ . $N$$W$ > $W$ ( $W$ . $W$$N$$W$ ) $W$ $W$	GENE	1
+$N$ , $N$ - $W$ $W$ ( $N$ )	Chemical	1
+$W$ $W$ $W$ - $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$$N$ ,	Chemical	1
+$W$ ( $W$ ) ( $W$ $N$ $W$ $N$ $W$ $N$ ) $N$	Chemical	1
+$N$ , $N$ : $N$ , $N$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ $W$ - $W$ - $W$	Chemical	1
+$W$$N$$W$ + $W$$N$$W$ $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ - $W$	Chemical	1
+[ $W$ ( $W$ - $W$ ) ( $W$ / $W$ - $W$ ) $W$ ] ( + )	Chemical	1
+$W$ = $W$ ( $W$ ) $W$ $W$ ( $W$ )	Chemical	1
+$W$ = $W$ $W$ $W$	Chemical	1
+$W$ . $W$ $N$ $W$	Chemical	1
+( - ) - $W$ $W$ $W$ - $W$	Chemical	1
+$W$ $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ ( $N$ ) , $W$ $W$	Chemical	1
+$W$$N$ - $W$$N$ $W$	Chemical	1
+$W$ - $W$ $W$$N$	Chemical	1
+$N$ - $W$ $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - $W$ $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ - $W$ - $W$ $W$$N$	GENE	1
+/	GENE	1
+( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ $N$ ' - $W$ , $N$ ' - $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $W$$N$ $W$ $W$	GENE	1
+( $N$ ) $W$ - $W$ $N$ - $W$ - $W$	Chemical	1
+$W$ $W$ $W$ $N$$W$ $W$ $N$$W$	GENE	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ - ( $W$ ) $W$ ) $W$ $W$	Chemical	1
+( $W$ ) - $W$ ' - ( $N$ - ( $W$ ) $W$ ) $W$	Chemical	1
+$W$$N$$W$ - $N$$W$ - $W$	Chemical	1
+$W$ - $W$ $W$$N$$W$$N$$W$	GENE	1
+$W$ - $W$ $W$ $W$ $W$$N$$W$$N$	GENE	1
+$W$ $W$ $N$ $W$ $W$ $W$ $N$	GENE	1
+$N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ - ( $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	1
+$W$$N$$W$$N$ , $W$$N$ $W$ $W$	GENE	1
+$W$ $N$ ' - $W$ - , $W$ - $W$ $W$	Chemical	1
+( $N$$W$ ) - [ $N$ , $N$ , $N$ ] $W$ $W$ ( $N$$W$ ) - [ ( $N$ - $W$ - [ $N$ , $N$ , $N$ ] $W$ ) $W$ ] $W$	Chemical	1
+$N$ ( $W$ ) - [ $N$ , $N$ , $N$ ] $W$ $W$ ( $N$$W$ ) - [ ( $N$ - $W$ - [ $N$ , $N$ , $N$ ] $W$ ) $W$ ] $W$	Chemical	1
+$N$ - $W$ $N$ - ( $N$ - $W$ - $N$ - $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $N$ ( $W$$N$ ) $W$ $N$	GENE	1
+$W$ - $W$ - $W$ - $W$ ( $W$ )	Chemical	1
+$N$ - $W$ ( $N$ ) $W$ $W$ ( $N$ ) ]	Chemical	1
+( $W$ ) - $N$ , $N$ - $W$ - $N$ ( $N$ ) , $N$ - $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - $N$ , $N$ - $W$ - $N$ ( $N$ ) , $N$ - $W$ - $N$ - $W$ $N$$W$	Chemical	1
+$W$ ( $W$ - $W$ ) - $W$ - $W$ ( $W$ $W$ )	Chemical	1
+$W$ ( $W$ - $W$ - $W$ $W$ - $W$ - $W$ - $W$ )	Chemical	1
+$W$ $W$ $W$ ( $W$ ) $N$ $W$	GENE	1
+[ $W$$N$$W$$N$ ] ( $N$ - )	Chemical	1
+$N$ , $N$ - $W$ ( $N$ , $N$ - $W$ ) $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ , - $W$	Chemical	1
+$W$ $N$ - $N$ - $W$$N$$W$ - $W$	GENE	1
+$W$ $W$ - $W$ - $W$ - $N$	GENE	1
+$W$ $W$ - $W$$N$$W$ - $W$	GENE	1
+$W$ - $W$ $W$ $N$ , $N$ $W$ $N$	GENE	1
+$W$ ( $W$ ) $N$ - $W$	Chemical	1
+$W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ )	Chemical	1
+$W$ $W$ - $W$ - $W$ - $W$ $W$ $W$	Chemical	1
+$N$$W$ - [ $N$ , $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$	Chemical	1
+[ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( ( $W$ ( $N$ ) ) ( $N$ ) - $W$ - ( $W$ ( $N$ ) ) ( $N$ ) $W$ ( $N$ ) ) ( $N$ ) ] ( $N$ - )	Chemical	1
+[ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( ( $W$ ( $N$ ) ) ( $N$ ) $W$ - $W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ ) ) ( $N$ ) ] ( $N$ - )	Chemical	1
+[ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( ( $W$ ( $N$ ) ) ( $N$ ) $W$ - ( $W$ ( $N$ ) ) ( $N$ ) $W$ ( $N$ ) ) ( $N$ ) ( ( $W$ ( $N$ ) ) ( $N$ ) $W$ - $W$ ( $N$ ) $W$ ( $N$ ) $W$ ( $N$ ) ) ( $N$ ) ] ( $N$ - )	Chemical	1
+[ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( ( $W$ ( $N$ ) ) ( $N$ ) $W$ - $W$ ( $W$ ) $W$ ( $N$ ) $W$ ( $N$ ) ) ( $N$ ) ] ( $N$ - )	Chemical	1
+[ ( $W$ ( $N$ ) $W$ ( $N$ ) ) ( ( $W$ ( $N$ ) ) ( $N$ ) $W$ - $W$ ( $W$ ) ( $W$ ( $N$ ) ) ( $W$ ) $W$ ( $N$ ) ) ( $N$ ) ] )	Chemical	1
+$W$ - $W$ ( $W$ $W$ )	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ - $W$	Chemical	1
+$W$$N$$W$ / $W$$N$$W$	GENE	1
+$W$ $W$$N$$W$ / $W$$N$$W$	GENE	1
+$W$ $W$ $W$ ( $W$ ) $W$ / $W$ $W$	GENE	1
+$W$ $N$ $W$ / $W$ $N$	GENE	1
+$W$$N$ $W$$N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ - $W$ - $W$ - $W$ ) - $W$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$	Chemical	1
+$W$ ( $N$ - $W$ ) - $N$ , $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ $W$ - $N$	Chemical	1
+$N$ - [ ( $W$ ) $W$ ]	Chemical	1
+$W$$N$$W$ $W$ - $W$ $W$ $W$	GENE	1
+$W$ - $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$W$ - $W$ $W$ ) $W$$N$	GENE	1
+( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - ( ( $N$ - ( $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) - $W$ ) $W$ ) - $N$ - $W$ - $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$$W$ ( - $N$ )	GENE	1
+$W$ $W$ ( $W$ $W$ )	Chemical	1
+$W$ , $W$ , $W$ $W$ $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ ' - $W$ - $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	1
+$N$ , $N$ $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ ( $N$ ' - $W$ ) - $N$ , $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ - , $W$ - $W$ $W$	Chemical	1
+$N$ - $W$ $W$ ( $N$ )	Chemical	1
+$W$ $W$ $W$ ( $W$ ) $W$$N$$W$ $W$	GENE	1
+$N$$W$ ( $W$ ) $N$	Chemical	1
+( $N$$W$ ) $W$ ( $W$ ) $N$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ ( $W$ ) $W$ $W$	GENE	1
+$N$ - $W$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$	Chemical	1
+$W$ - ( $N$ - $W$ - $W$ ) - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $N$ - $W$ $N$ , $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ - $N$$W$	GENE	1
+$W$ $N$ , $W$ $N$	GENE	1
+$W$ $N$ $W$ $N$ * $W$	GENE	1
+$W$ $N$ $W$ $N$ *	GENE	1
+$W$ $N$ $W$ $N$ $W$ $N$ * $W$ $W$	GENE	1
+$W$ - ( $N$ , $N$ - $W$ ) - $W$ - $W$	Chemical	1
+$W$ - ( $N$ , $N$ , $N$ - $W$ ) - $W$ - $W$	Chemical	1
+$W$ - ( $N$ , $N$ - $W$ ) - $W$ - $W$ $W$	Chemical	1
+$W$ - ( $N$ , $N$ , $N$ - $W$ ) - $W$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ $W$ $W$	Chemical	1
+( +/- ) - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ $N$ - $W$ - $N$ ' , $N$ ' , $N$ ' - $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ ( $W$ ) - $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - $W$ - $N$ $W$ $W$	GENE	1
+$W$ - $W$ - $N$ $W$ $W$$N$$W$$N$	GENE	1
+[ $N$ ] $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ $W$ , $N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ - $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ $W$ $W$ $W$	Chemical	1
+$N$ $W$ , $N$ $W$ - $W$ - $N$ , $N$ , $N$ - $W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$ $W$ $W$ $W$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ ) - $N$ , $N$ - $W$ $W$ $W$	Chemical	1
+$W$ - $N$ $W$ , $N$ - $W$	Chemical	1
+$W$ ( + ) <-- $W$ ( $N$ ) $W$ ( + )	GENE	1
+$W$ - $W$ = $W$	Chemical	1
+$W$ [ $W$ ( $N$ - $W$ ) $W$ ( $W$ ) ] $W$$N$	Chemical	1
+$W$$N$ . $N$$W$$N$ . $N$$W$$N$ . $N$ ( $W$ ) $N$	Chemical	1
+$N$ , $N$ , $N$ ' - $W$ - $N$ ' , $N$ ' , $N$ - $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ ' - $W$ - $N$ ' - $W$	Chemical	1
+$W$ $N$ - $W$ - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ $N$ - $W$ - ( $N$ , $N$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ $N$ - $W$ - ( $N$ , $N$ , $N$ - $W$ - $W$ ) $W$	Chemical	1
+$N$ - $N$ - $N$ $W$ $W$	GENE	1
+$W$ $W$ - - $W$ $W$ ( $W$ - $W$ ) $W$	GENE	1
+$W$ { $W$ ' - [ $W$ - ( $N$ - $W$ ) - $N$ - $W$ ] $W$ }	Chemical	1
+$W$ [ $W$ ( $W$ ) ]	Chemical	1
+( $W$ ) - $W$ - $W$ [ $W$ ( $W$ ) ]	Chemical	1
+$W$ - $W$ - $W$ [ $W$ ( $W$ ) ]	Chemical	1
+$W$ - $W$ ( $W$ $W$ $N$ ) $W$	GENE	1
+$N$ - ( $N$ - $W$ )	Chemical	1
+$N$ - $W$$N$$W$ $W$$N$ $W$	1
+$W$ - $N$ ' , $N$ ' - $W$ - $W$ - $W$	Chemical	1
+( - ) - $W$ ( $N$ ) - $W$	Chemical	1
+$W$$N$$W$$N$ . $N$$W$$N$$W$	Chemical	1
+$W$ - $N$ $W$$N$ $W$ $W$	GENE	1
+$W$$N$$W$ - $W$ $W$ - $W$ $W$ $W$$N$	GENE	1
+$W$$N$$W$ / $N$$W$ $W$	GENE	1
+$W$ ( $W$ ) - $W$ $W$	Chemical	1
+$W$ ( $W$ ) - ( $W$ ( $N$ ) - $W$ )	Chemical	1
+( $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ $W$	Chemical	1
+( $W$ ) - $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ , $N$ $W$ $W$ - $W$ - $N$ , $N$ $W$ - $W$	Chemical	1
+( $N$$W$ ) - $W$ ( $N$$W$ ) - $W$ - $N$ - $W$ - $N$$W$ , $N$ - $W$	Chemical	1
+$W$ $W$ $W$$N$ ( $W$$N$ ) $N$$W$$N$	GENE	1
+$N$ , $N$ - $W$ [ $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$ $W$ $N$ $W$	GENE	1
+$N$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ [ $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ , $N$ - $W$ ( $N$ - $W$ ) - $N$ , $N$ - $W$ [ $W$ ] $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$ / $W$ $W$ $W$ $W$$N$	GENE	1
+$W$ - $W$ ) $W$ $W$	GENE	1
+$N$ - ( $N$ - $W$ - $N$ - $W$ ) - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$$W$ - $W$ - $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ ] $W$ [ $N$ , $N$ , $N$ - $W$ ] [ $N$ ] $W$ - $N$ , $N$ , $N$ $W$	Chemical	1
+$W$ ( - * )	Chemical	1
+$W$$N$$W$ ( * + )	Chemical	1
+$N$ , $N$ ' - $W$ ( $N$ - $W$ $W$ )	Chemical	1
+$N$ , $N$ ' - $W$ ( $W$ , $W$ - $W$	Chemical	1
+$W$ ( $W$ ) $N$ ( * )	Chemical	1
+[ $W$ ( $W$ ) ] $N$ ( $W$ - $W$ )	Chemical	1
+$W$ - $W$ ) $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $N$ ( $W$$N$ ) - $W$ $W$	GENE	1
+$N$ - { $N$ - [ $N$ - ( $N$ - $W$ - $N$ - $W$ - $N$ - $W$ ) $W$ ] $W$ - $N$ - $W$ } - $W$ - ( $N$ - $W$ ) $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ $W$ $W$	Chemical	1
+$W$ - $W$ $W$ - $N$ $W$ $W$	Chemical	1
+$W$ - $W$ $W$ - $W$ $W$ $W$	Chemical	1
+$W$ - $W$ $W$ $W$ $W$ - $W$ $W$ $W$	Chemical	1
+$W$ - $W$ ( $N$ ) $W$ - $W$ ( $W$ ) ( $W$ ) [ ( $W$ ( $W$ ( $N$ ) ) ( $W$ ) $W$ ]	Chemical	1
+$W$ = $W$ , $W$ ; $W$ = $W$ , $W$ ; $W$ = $N$ , $N$ ; $W$ = $W$ , $W$	Chemical	1
+$W$ = $W$ , $W$ = $W$ , $W$ = $N$	Chemical	1
+$W$ = $W$ , $W$ , $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+( $W$ ) - $W$ - $W$ $W$	Chemical	1
+$W$ ( $W$ $W$ ) - $W$ $W$ ( $W$ - $W$ )	Chemical	1
+$W$ - $N$ , $N$ , $N$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ - $W$ $W$ - $N$ - $W$	Chemical	1
+$W$ - $N$ $W$ $W$ - $N$ $W$	Chemical	1
+( $N$$W$ / $W$ ) - $N$ - $W$ - $N$ $W$ $N$ $W$ - $W$ - $N$ - $W$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ ( $W$ ) - $N$ $W$	GENE	1
+$W$ $W$$N$$W$ $N$ $W$ $W$ - $W$ $W$ $N$	GENE	1
+$W$ - $W$ - $W$ $W$ - $N$ $W$ - $W$ $W$	GENE	1
+$N$ - $W$ - $W$ - $N$ ' - $W$ $W$	Chemical	1
+- $N$ ( $W$$N$ ) $W$	1
+$W$ $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ $W$ $W$$N$ $W$ $W$	GENE	1
+$W$ ( $W$ - $N$ - $W$ )	Chemical	1
+$W$ ( $W$ - $W$ - $N$ - $W$ )	Chemical	1
+$W$ - $W$ ) - $W$ - $N$	GENE	1
+$W$ $N$ - ( $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) - $N$ - $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $N$ - $W$ - $N$ $W$ - $W$	Chemical	1
+$W$ - $W$ - $W$ - $N$ - $W$ - $N$ $W$ , $N$ $W$ - $W$	Chemical	1
+[ ( $N$ ) $W$$N$$W$$N$ ] - $W$	Chemical	1
+$W$ ( $W$ ) - $N$ - ( $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$$N$ - $W$ - $N$ - ( $W$ - $W$ ) $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$$N$$W$ ( $N$ - $W$$N$$W$ ) $W$ $W$	GENE	1
+$W$ - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $N$ , $N$ - $W$ $W$	Chemical	1
+$W$ , $N$ - $W$ - $W$ - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$$N$$W$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - ( $W$ ) - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ $W$ - $N$ - ( $N$ ' - $W$ - ) $W$	Chemical	1
+$W$ $W$ $W$ - $W$ $W$ $N$ - , $N$	GENE	1
+$W$ - $W$ $N$ - $W$ - $W$	Chemical	1
+$W$ $N$ - $W$ - $W$ - $W$ - ( $N$ ) $W$$N$ - $W$ - ( $N$ ' ' ' --> $N$ ' ' ) - $W$ - $W$ - $W$ - ( $N$ ) $W$$N$ - $W$ ( $N$ ' ' --> $N$ ' ) - $W$ - $W$ - $W$ - ( $N$ ) $W$$N$ - $W$	Chemical	1
+$W$ $N$ $W$ $W$	Chemical	1
+$W$$N$ $W$$N$ $W$ $W$	GENE	1
+$W$ $N$ , $N$ - $W$ $N$ , $N$ - $W$ $W$ $W$ $W$	Chemical	1
+$N$ , $N$ - , $N$ , $N$ - , $N$ , $N$ - , $W$ $N$ , $N$ - $W$	Chemical	1
+$N$ , $N$ - , $N$ , $N$ - , $W$ $N$ , $N$ - $W$ $W$ $W$ $W$	Chemical	1
+[ $W$ ( $W$ ) ( $W$ $N$ - $W$ ) ( $W$$N$$W$ ) ] $W$	Chemical	1
+$N$ - ( $W$ ) - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ - ( $W$ ) - $N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ - ( $W$ - $N$ - $W$ ) $W$ ) - $N$$W$ - $W$ - $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - ( $N$ - ( $W$ ) $W$ - $N$ - $W$ ) - $N$ - $W$ - $N$ - ( $N$ - ( $W$ - $N$ - $W$ ) $W$ ) - $N$$W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+( $W$ ) - ( + ) - $N$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - [ [ [ $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$ - $N$ - $W$ ] $W$ ] $W$ ] $W$ $W$	Chemical	1
+$N$ - [ [ [ $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$ - $N$ - $W$ ] $W$ ] $W$ ] $W$ $W$	Chemical	1
+$W$ $W$ [ $N$ ] $W$ $W$	Chemical	1
+$W$$N$ [ > $W$ ( $W$$N$$W$$N$ ( + ) $W$$N$ ) $N$ ] - ( $W$ ( - ) ) $N$	Chemical	1
+( $N$ ) $W$$N$ * [ > $W$ ( $W$$N$$W$$N$ ( + ) $W$$N$ ) $N$ ]	Chemical	1
+$W$$N$ ( - ) . [ > $W$ ( $W$$N$$W$$N$ ( + ) $W$$N$ ) $N$ ]	Chemical	1
+$W$$N$ [ > $W$ ( $W$ - $W$ ) $N$ ]	Chemical	1
+$W$$N$ [ > $W$ ( $W$$N$$W$$N$ ( + ) $W$$N$ ) $N$ ]	Chemical	1
+[ $N$ , $N$ , $N$ ] $W$	Chemical	1
+$W$ [ $W$ ] [ $N$ , $N$ , $N$ ] $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+$W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ , $N$ ] $W$	Chemical	1
+$W$ ( $W$ ) - $W$ $W$	1
+$W$$N$$W$ + $N$	Chemical	1
+$W$ ' - $W$ $W$	GENE	1
+$N$ - ( $N$ - $W$ ) $W$ $W$ $W$ $W$ $W$$N$$W$ $W$	Chemical	1
+$W$ $W$$N$$W$ , $W$$N$$W$ $W$ $W$$N$$W$	Chemical	1
+[ $W$ ] $W$$N$	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $W$ $W$	Chemical	1
+$W$ $W$ - $N$ - $W$ $W$ $W$	GENE	1
+$W$$N$$W$ - $W$ - $W$	GENE	1
+$W$ - $W$ ( $N$ , $N$ - $W$ ( $W$ ) - $N$ , $N$ ' , $N$ '' - $W$ )	Chemical	1
+$N$ - $W$ $W$$N$ - $W$	Chemical	1
+$W$ ( $W$ ) ( $W$$N$ ) $N$ ( $W$$N$$W$$N$$W$ )	Chemical	1
+$N$ - $W$ $W$ ( $N$ ) - $W$	Chemical	1
+$W$ - ( $N$ --> $N$ ) - $W$ - $W$	Chemical	1
+$N$ , $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$	Chemical	1
+$W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ - $W$ - $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] [ $N$ , $N$ ] $W$ - $N$ - $W$	Chemical	1
+$W$ - $W$ ( $W$ $W$ )	GENE	1
+( $W$ , $W$ ) $N$ - [ $N$ - ( $N$ - $W$ ) - $N$ - ( $N$ - $N$$W$ ) $W$ ] $W$	Chemical	1
+$N$ - $W$ $W$ $W$$N$ $W$	Chemical	1
+$N$ - $W$ - $N$ ( $W$ ) - $W$ $W$$N$ $W$	Chemical	1
+$N$ - $W$ - $W$$N$ $W$ - $W$$N$	Chemical	1
+$W$ $W$ $W$ $W$ $W$ - $W$ $W$ - $N$	GENE	1
+$W$ ( $W$ ) $N$ - $W$ - $W$ ( $W$ - $W$ ) $N$	Chemical	1
+$N$ - $W$ $W$ $W$$N$ $W$ $N$	GENE	1
+$W$ - $W$ - $N$ $W$	Chemical	1
+- $W$	1
+$W$ $W$ - $W$ - $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ ( $W$ ) - $W$ $N$	GENE	1
+$W$ - $W$ $W$ $W$ $W$ $N$$W$	GENE	1
+$W$ - $W$ ( $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+[ $W$ - ( $W$ ) $W$ ]	Chemical	1
+( +/- ) - $W$ - $W$	Chemical	1
+( + ) - $W$ - $W$	Chemical	1
+( - ) - , ( +/- ) - , $W$ ( + ) - $W$ - $W$	Chemical	1
+$W$ ( $N$$W$ ) - $W$ - ( $N$$W$ ) - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ ( $W$ ) - $N$ $W$ - $N$	GENE	1
+$W$$N$ ( $W$$N$$W$ ) $N$	Chemical	1
+$W$ - $N$ $W$ / $W$ - $N$	GENE	1
+( $W$ ) - $N$ - [ ( $N$$W$ , $N$$W$ ) - $N$ - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$ , $N$$W$ - $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ - $W$ ] - $N$ - $W$ - $N$ - $W$ $W$ $W$ $W$	Chemical	1
+[ ( $N$ ) $W$ ] $W$ $N$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ , $N$ - $W$ - $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$ $N$ , $N$ - $W$ - $N$$W$ - $W$	Chemical	1
+$W$ $W$ , $W$ , $W$ $W$	GENE	1
+$W$ - , $W$ - $W$ $W$ - $W$	GENE	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$W$$N$$W$$N$ , $N$$W$$N$ $W$ $N$$W$$N$	GENE	1
+$W$$N$ - $W$$N$ - $W$	Chemical	1
+$W$ - $N$ ( $W$ )	GENE	1
+$W$ - $W$ $W$ - $W$ ( $W$ ) $W$	GENE	1
+$W$ ( $W$ - $W$ ) $N$ : $N$	Chemical	1
+$N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) - $N$ , $N$ - $W$ - $W$	Chemical	1
+$W$ - $W$ - [ $W$ - ( $N$ ) $W$ ] $W$	Chemical	1
+$W$ $W$ $W$$N$ . $N$	GENE	1
+$N$ - $W$ - $N$ - $W$ - $N$ - ( $W$ ) $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$$N$ $N$$W$$N$ - $W$ $W$	GENE	1
+$W$ - $W$ - $W$ $N$ $W$ - $W$ - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$ $W$ )	Chemical	1
+$N$ - ( $W$ - $W$ ) - $W$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $W$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$W$ $W$ $W$ $W$ )	GENE	1
+$W$ - $W$ $W$ - $N$ - $W$	Chemical	1
+$W$ ( $W$ ) $W$ - $W$ $W$	GENE	1
+$W$ $W$ ( $W$ $W$	GENE	1
+$N$ - $W$ - $N$ - $W$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+$W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+$N$ - ( $N$ - $W$ [ $N$ . $N$ . $N$ ] $W$ ) $W$ - $N$ - $W$ - $N$ , $N$ - $W$	Chemical	1
+[ $N$$W$ - $N$$W$ ] ( $N$ + )	Chemical	1
+$W$ $W$ - $W$ - $W$ ( $W$ , $W$ - $W$ )	Chemical	1
+$W$ / $W$ $W$ $W$ - $W$	Chemical	1
+( $W$ / $W$ ) - $W$	Chemical	1
+( $N$ , $N$ - $W$ - $N$$W$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$$N$ . $N$$W$$N$ . $N$$W$$N$	Chemical	1
+$W$ $W$ $W$ $W$$N$ ( + )	GENE	1
+$W$ - $W$ $W$$N$ ( + )	GENE	1
+$W$ ( $W$ $W$ ) $W$ $W$ ( $W$ ) $W$	Chemical	1
+$W$ ( $W$ - $N$ )	Chemical	1
+$N$ $W$ $W$ $W$$N$	GENE	1
+$W$ [ $N$ , $N$ - $W$ ] $W$$N$ $W$	Chemical	1
+$W$$N$ + $W$$N$$W$$N$	Chemical	1
+[ $W$ ( $W$$N$ $W$$N$ ) $N$ ] ( + )	Chemical	1
+$W$ ( $W$$N$ $W$$N$ ) $N$	Chemical	1
+$W$ - ( $N$ - $W$ - $W$ ) $W$	Chemical	1
+$W$ $W$$N$ - $W$ $W$ - $W$	GENE	1
+$W$ , $W$ $W$ $W$ $W$ $W$	Chemical	1
+$N$ ( $N$ ) $W$ $W$ $W$	Chemical	1
+$N$ ( $N$ ) $W$ $W$ $W$ $W$	Chemical	1
+$N$ , $N$ ' , $N$ ' , $N$ , $N$ ' , $N$ - $W$	Chemical	1
+( $W$ ) - $N$ - [ $N$ - ( $N$ - { $N$ , $N$ - $W$ - $N$ - [ $N$ - ( $W$ ) - $N$$W$ - $W$ - $N$ - $W$ ] $W$ } $W$ ) $W$ ] $W$ $W$	Chemical	1
+$W$$N$ / $W$$N$$W$$N$	GENE	1
+$W$ - $W$ - $W$ - - $W$	Chemical	1
+$W$$N$ $W$$N$$W$ $W$ $W$	GENE	1
+$W$$N$ - $W$ '	GENE	1
+$W$$N$ - $W$ ' $W$ $W$	GENE	1
+$W$ - $W$ ( $N$$W$ ) $W$ $W$	GENE	1
+$N$$W$ + $N$$W$	GENE	1
+$N$$W$ + $N$$W$ + $W$ $N$	GENE	1
+$W$ - $W$ ( $N$ ) , - $W$ ( $N$ ) , $W$ - $W$ ( $N$ )	Chemical	1
+$W$ - ( $N$ ' - $W$ - $W$ ) - $W$	Chemical	1
+$W$$N$ $W$$N$ $W$ / $W$ $W$	GENE	1
+$N$ - ( $N$ - $W$ ) - $N$$W$ - $W$	Chemical	1
+$N$ - ( $N$$W$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ ' - [ $N$ , $N$ - $W$ ( $W$ ) ] $W$	Chemical	1
+$W$ / $W$ $W$ $W$ ( $W$ / $W$	GENE	1
+$W$ $W$ $W$ - $W$ $W$ $W$ $W$ $W$	GENE	1
+$W$ ( $N$ ) - $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ $W$ $W$ $W$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ , $N$ - $W$ - $W$	Chemical	1
+$N$ , $N$ ' $W$	Chemical	1
+$W$ - $W$ = $W$ ( + ) = $W$	Chemical	1
+$W$ = $W$ ( + ) - $W$ - $W$	Chemical	1
+$W$$N$ - $W$	1
+$W$ $N$ : $N$ $W$ $N$ : $N$	Chemical	1
+$N$ , $N$ - $W$ - [ $N$ - ( $N$ , $N$ - $W$ ) ] $W$	Chemical	1
+$W$ , $W$ - $W$ , $W$ $W$ $W$	Chemical	1
+( + ) - $W$ $W$ ( $N$ ) $W$ $W$	Chemical	1
+( - ) - $W$ $W$ ( $N$ ) $W$ $W$	Chemical	1
+$N$ - $W$ $W$ $N$ - $W$ - $W$ $W$	Chemical	1
+$W$ $N$ - ( $W$ - $N$ - $W$ ) $W$	Chemical	1
+$W$ $N$ $N$$W$$N$	GENE	1
+$W$ $N$ ( * - )	Chemical	1
+$W$ - $W$ - $N$ $W$ $W$$N$ / $N$ )	GENE	1
+$W$ $W$ $W$ $N$ ( $W$$N$ ) $W$ $W$	GENE	1
+$W$ , $W$ ' - ( $W$ - $N$ , $N$ - $W$ ) - $W$ ( $W$ - ( $N$ - ( $W$ - $W$ ) $W$ ) $W$ - $N$ - $W$ )	Chemical	1
+$W$$N$$W$$N$ ( - / - )	GENE	1
+$N$ ( $W$ ) , $N$ - $W$	Chemical	1
+$W$ ( $N$ - $W$ ) ( $N$$W$ - $N$ , $N$ , $N$ - $W$ - $N$ - $W$ ) $W$	Chemical	1
+[ $W$ ( $W$ ( $W$ ) ( $W$ ) ) ( $W$ ) $N$ ( $W$$N$ $W$ ) ] ( $W$ ( $W$ ) ( $W$ ) / $W$ )	Chemical	1
+[ $W$ ( $W$ ( $W$ ) ( $W$ ) ) $N$ ] $W$$N$ ( $N$ $W$ ( $W$ ) ( $W$ ) / $W$ )	Chemical	1
+$W$$N$ . $N$$W$ $W$	GENE	1
+$W$ $W$ ( $N$ + )	Chemical	1
+$W$ ( $N$ ) $W$ $W$ ( $N$ )	1
+$W$ $W$ , $W$$N$ , $W$ , $W$$N$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) $W$	Chemical	1
+$N$ - ( $N$ ' - $W$ ) - $N$ - $W$	Chemical	1
+$W$ $N$ / $W$ $N$$W$ - $W$ $W$	GENE	1
+$W$ - $W$ ( $W$ ) - $N$	GENE	1
+$N$$W$ - $W$ $W$ $W$	GENE	1
+$N$ - $W$ - ( $N$$W$ ) - $W$ - $N$ - $W$ - $N$ , $N$ , $N$ - $W$	Chemical	1
+( $W$ ) - $W$ - $N$$W$ - $W$ [ $W$ ] $W$	Chemical	1
+[ $W$$N$ ]	Chemical	1
+[ $N$ - $W$ ]	Chemical	1
+[ $N$ - $W$$N$$W$ ]	Chemical	1
+[ $W$$N$ ] [ $N$ - $W$ ]	Chemical	1
+$N$$W$$N$ ' $W$	Chemical	1
+$W$$N$ $W$ $N$$W$$N$	GENE	1
+$W$$N$ - $W$$N$ : $N$	Chemical	1
+$W$ - $N$ . $W$ $W$	GENE	1
+$N$ , $N$ , $N$ , $N$ - $W$ - [ $W$ ] - $W$	Chemical	1
+$N$ , $N$ ' , $N$ , $N$ ' , $N$ , $N$ ' - $W$	Chemical	1
+$N$ , $N$ ' , $N$ , $N$ ' - $W$ $W$ $W$	Chemical	1
+$W$ - $N$ $W$ $N$ ( $W$$N$ ) - $W$ $W$ $W$	GENE	1
+( $W$ ) $W$$N$	Chemical	1
+$N$ , $N$ - $W$ - $W$ - $W$ - $W$	Chemical	1
+$N$ - $W$ - $W$ ( $N$ , $N$ ) - $W$ $W$$N$	Chemical	1
+$N$ - $W$ - $W$$N$ , $N$ - $W$ $W$$N$	Chemical	1
+$W$ - $N$$W$ - $W$$N$	Chemical	1
+$W$ - $W$ - ( $W$ - $W$ - $W$ ) - $W$ - $W$	Chemical	1
+$W$ [ $N$ - ( $W$ ) $W$ $W$ ]	Chemical	1
+$W$ ( * + )	Chemical	1
+$W$ - $N$ - $W$ - $W$ - $W$ - ( $N$ '' - $W$ - $W$ - $W$ ) - $W$ )	Chemical	1
+$W$ $W$ ' $W$ $W$ $W$ $W$	GENE	1
+$W$ ( $W$ $W$ ) $N$ - $W$ - $W$ ( $W$ ) $N$	Chemical	1
+$W$ - / ( $W$ ) - $W$ $W$ $W$	Chemical	1
+[ $W$ ( $W$ ) $W$ ]	Chemical	1
+$W$ $N$ , $N$ $W$ $N$	Chemical	1
+$W$ $W$ ( $W$ ) $W$ $W$ $W$ ( $W$ ) $W$	GENE	1
+$N$ - ( $N$ , $N$ - $W$ ) $W$	Chemical	1
+$N$ , $N$ ' - $W$ - $N$ - $W$ - $N$ - $W$	Chemical	1
+$W$$N$$W$ $W$$N$	GENE	1
+[ $N$ - $N$$W$ ] - , [ $N$ - $N$$W$ ] - , [ $N$ - $N$$W$ ] - $W$ [ $W$ - $N$$W$$N$ ] - $W$	Chemical	1
+[ $W$ ( $N$ ) ] $W$	Chemical	1
+$W$ - $N$ , $N$ , $N$ , $N$ - $W$ ( $W$ ) $W$ $W$ ( $W$ )	Chemical	1
+$W$$N$$W$$N$ / $W$$N$$W$$N$ $W$	GENE	1
+[ $N$ , $N$ - ( $W$$N$$W$$N$ ) $N$$W$$N$$W$$N$ ] $W$ ( $W$$N$$W$$N$$W$$N$$W$ )	Chemical	1
+( $W$$N$$W$$N$$W$$N$ - $N$ , $N$ - $W$ - $N$ ) $N$	Chemical	1
+$W$ ' $W$ ( $W$$N$$W$$N$$W$$N$ - $N$ , $N$ - $W$ - $N$ )	Chemical	1
+$N$ , $N$ - ( $W$$N$$W$$N$ ) $N$$W$$N$$W$$N$	Chemical	1
+$W$ ' $W$ [ $W$$N$$W$ ( $W$$N$$W$$N$$W$$N$ - $N$ - $N$ - $W$ - $N$ ) - $W$ $N$$W$ , $W$ ' ]	Chemical	1
+$W$ ' $W$ [ $W$ ( $W$$N$$W$$N$$W$$N$ - $N$ - $N$ - $W$ - $N$ ) - $W$ $N$$W$ , $W$ ]	Chemical	1
+$W$ ' $W$ ( $W$ ) ( $W$$N$$W$$N$$W$$N$ - $N$ , $N$ - $W$$N$ - $N$ )	Chemical	1
+$W$$N$$W$$N$$W$$N$$W$$N$ - $N$ , $N$	Chemical	1
+$N$ , $N$ ' , $N$ , $N$ ' - $W$ - $W$ - $W$ - $N$ , $N$ ' - $W$	Chemical	1
+$W$$N$$W$ = $W$ :	Chemical	1
+[ $N$ , $N$ ] - $W$ $W$$N$ $W$ $W$ $W$ $W$	Chemical	1
+$N$ , $N$ - $W$ - $W$ $W$ $W$ $W$	Chemical	1
+( ( $N$$W$ , $N$$W$ ) - $N$ - ( $N$ , $N$ - $W$ - $N$ - $W$ ) ) - $W$ , $W$ - $W$ - $N$ , $N$ - $W$ )	Chemical	1
+$W$ - $W$ - $W$ - $W$ - $N$	GENE	1
+$W$$N$ $W$ $W$ - $W$ $W$ $W$	GENE	1
+$N$ , $N$ - $W$ - $N$ - $W$ - $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+[ $N$ , $N$ ] - $W$ - $W$$N$ - $W$ $W$ $W$ $W$	Chemical	1
+$W$ [ $N$ , $N$ - $N$ , $N$ - $W$ ( $N$ - $W$ ) $W$ [ $N$ , $N$ - $W$ ; $N$ , $N$ - $W$ ] $W$ - $W$ - $N$ - $W$ - $N$ , $N$ - $W$ ( $N$ - $W$ - $N$ - $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$ - $N$ , $N$ - $W$ ]	Chemical	1
+$W$$N$ ( $W$$N$$W$$N$ . $N$$W$	GENE	1
+$W$$N$ . $N$$W$	GENE	1
+$W$ - $W$ $W$ $W$ - $N$ $W$ - $W$	GENE	1
+{ $W$ ( $W$$N$$W$$N$ ) ( $W$ ( $W$ ) ) $N$ } $W$ ( $W$$N$ ) $N$	Chemical	1
+$N$$W$ - $W$ - $N$ , $N$ - $W$ - $N$ - $W$	Chemical	1
+$N$$W$ - $W$ - $W$ - $N$ - $W$	Chemical	1
+{ $W$ ( $W$$N$$W$$N$ ) ( $W$ ( $N$$W$ - $W$ , $W$$N$ ) ) $N$ } $W$ ( $W$$N$ ) $W$	Chemical	1
+{ $W$$N$$W$ ( $W$$N$$W$$N$ ) ( $W$ ( $N$$W$ - $W$ , $W$$N$ ) ) } $W$ ( $W$$N$ ) $N$	Chemical	1
+$N$ - $W$$N$ - $W$	Chemical	1
+$N$ ( $W$ ) - $W$ ( $W$ ) - $N$ - $W$$N$ - $W$	Chemical	1
+$N$ , $N$ ' - ( $W$ ) - $W$ - ( $N$$W$ - $W$ - $N$ - $W$ )	Chemical	1
+( [ $W$ ( $W$ ) ( $W$ - $W$ ) ] ( $W$$N$ ) $N$	Chemical	1
+$N$ - [ $N$ - ( $W$ - $N$ - $W$ ) $W$ ] - $N$ , $N$ - $W$	Chemical	1
+$N$ - $W$ - $N$ - ( $N$ - $W$ ) - $N$ - ( $W$ - $W$ ) $W$ [ $N$ , $N$ - $W$ ] $W$	Chemical	1
+( $W$$N$ ) $N$	Chemical	1
+( $N$$W$ ) - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ ' - $W$ ) - $W$ - $N$ - $W$	Chemical	1
+( $N$$W$ ) - $N$ , $N$ - $W$ - $N$ , $N$ - $W$ - $N$ - ( $N$ ' - $W$ ) - $W$ - $N$ - $W$	Chemical	1
+( $N$$W$ ) - $N$ , $N$ - $W$ - $N$ - $W$ - $N$ - ( $N$ ' - $W$ ) - $W$ - $N$ - $W$	Chemical	1
+$W$ [ $N$ . $N$ - $W$ ] $W$	Chemical	1
+$N$ , $N$ ' , $N$ , $N$ ' , $N$ , $N$ ' , $N$ , $N$ ' , $N$ , $N$ ' - $W$ $W$	Chemical	1
+$W$$N$ ( + ) $W$ $W$ $N$ ( + )	GENE	1
+$W$ ( $W$ ( $W$ $W$ ) $W$ $W$ $W$ )	Chemical	1
+$W$ ( $N$ , $N$ , $N$ , $N$ , $N$ - $W$ )	Chemical	1
+$W$ ( $N$ - ( $W$ ) $W$ $W$ $W$ )	Chemical	1
+$W$ $W$ $W$ $N$ . $N$ $W$ $W$	GENE	1
+$W$$N$ $W$ $W$$N$ $W$ $N$	GENE	1
+$W$ - { $N$ - [ $N$ - ( $N$ - $W$ - $W$ - $N$ - $W$ ) - $W$ ] - $W$ } - $W$	Chemical	1
+$W$ - $W$ $W$ $N$ $W$ $W$ $N$ ( $W$$N$ ) - $W$	GENE	1
+$W$ - $W$ $W$$N$ - $W$	GENE	1
+$W$$N$$W$$N$$W$$N$ ( . ) $N$ . $N$$W$$N$$W$	Chemical	1
+$W$ $N$ - ( $W$ ) $W$	Chemical	1
+$W$ ' - ( $W$ - $N$ - $W$ ) $W$ ] $W$	Chemical	1
+$N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ - $W$ - $N$ $W$ - $W$ - $N$ - $W$ - $N$ - $W$ - $N$ - $W$ $W$	Chemical	1
+$N$ , $N$ , $N$ - $W$ - $N$ ( $N$$W$ ) - $W$	Chemical	1
+( $N$$W$ ) - $N$ $W$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ $W$ , $N$ $W$ , $N$ , $N$ $W$ , $N$ $W$ , $N$ - $W$	Chemical	1
+( $N$$W$ ) - $N$ $W$ - $W$ - $N$ $W$ , $N$ $W$ , $N$ $W$ , $N$ , $N$ $W$ , $N$ $W$ , $N$ - $W$	Chemical	1
+$W$ $W$$N$ - $W$$N$	Chemical	1
+$W$ $W$ - $W$ - $W$ / $W$ $W$ $W$	GENE	1
+$W$ $W$ - $W$ - $W$ $W$ $W$ $W$ $W$ $W$ - $W$ $W$$N$	GENE	1
+$W$ - $W$ $W$ $W$ / $W$	GENE	1
+$W$ $W$ , $W$ , $W$ , $W$ $W$	GENE	1
+$W$ $W$ $W$ [ $W$ ] $W$ $W$ $W$	GENE	1
+$W$ $W$ $W$ , $W$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ $W$ $W$ - $W$ $W$ $N$	GENE	1
+$W$ $W$ - $W$ $W$ , $W$ - $N$	GENE	1
+$W$ . $W$ $W$$N$	GENE	1
+$W$ $W$ - $W$ $W$ - $W$ $W$ - $N$ $W$	GENE	1
+$W$ $W$ - $W$ $W$ - $W$ ( $W$ $W$ ) $W$ - $N$ $W$	GENE	1
+$W$ $N$ , $W$ $N$ , $W$ $W$ $N$ - $W$	GENE	1
+$W$ $W$$N$ , $W$$N$ , $W$$N$ , $W$$N$ $W$ $W$$N$	GENE	1
+$W$ $W$$N$ , $W$$N$ $W$ $W$$N$	GENE	1
+$W$$N$$W$ $N$	GENE	1
+$W$ - $N$ $W$ $W$ $W$ - $N$ $W$ $W$	GENE	1
+$W$ - $W$ $W$ $W$ - $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $W$ $N$	GENE	1
+$W$ $W$ - $W$ $W$ $N$ ( $W$$N$	GENE	1
+$W$ $N$ $W$ - $N$	GENE	1
+$W$ ( $N$ $W$ $N$	GENE	1
+$W$ ( $N$ , $N$ $W$ $N$	GENE	1
+$W$ $W$ $W$ $W$ ( $W$ ) $N$ $W$ $N$	GENE	1
+$W$ $N$ , $N$ $N$ $W$ $N$	GENE	1
+$W$ - $W$ / $W$ $W$ $W$ $W$	GENE	1
+$W$ $W$ ( $W$$N$ , $W$$N$ , $W$ $W$$N$ ) $W$ $W$ $W$ $W$	GENE	1
+$W$$N$ $W$ - $W$ $W$ $W$ ( $W$ ) $W$	GENE	1
+$W$ $W$ $W$ $N$ ( $W$$N$	GENE	1
+$W$ $W$$N$ ( $W$$N$	GENE	1
