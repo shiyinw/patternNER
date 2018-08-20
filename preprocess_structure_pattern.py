@@ -21,8 +21,8 @@ patternlist: **patternlist.xlsx**
 REUSE = 1
 
 structpatt = StructPatt()
-words = structpatt.load_words("180815/train_CRAFT.tsv")  # named entities and their types
-patt = structpatt.load_pattern("180815/train_CRAFT_cnt_N_p.tsv") # patterns
+words = structpatt.load_words("data/train_CRAFT.tsv")  # named entities and their types
+patt = structpatt.load_pattern("data/train_CRAFT_cnt_N_p.tsv") # patterns
 
 start = time.time()
 cnt = 0
@@ -31,11 +31,12 @@ word_matches = {}
 for i in patt:
     word_matches[str(i)]={"matches":[], "type":i[1], "cnt":i[2]}
     cnt += 1
-    for w in words:
-        m = structpatt.pmatch(i[0], w)
+    for w in structpatt.words:
+        m, q = structpatt.pmatch(i[0], w)
         word_matches[str(i)]["matches"].extend(m)
     word_matches[str(i)]["matches"] = list(set(word_matches[str(i)]["matches"]))
     print("pattern", i)
+    print("query", q)
     print("match", word_matches[str(i)]["matches"])
     if(cnt%1==0):
         print(cnt, time.time()-start)

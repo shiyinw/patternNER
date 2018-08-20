@@ -21,9 +21,9 @@ REUSE = 1
 
 contextpatt = ContextPatt()
 
-ne = contextpatt.load_ne("180815/train1_all.tsv")  # named entities and their types
-docu = contextpatt.load_text("180815/train1.ner.txt")  # raw text document
-patt = contextpatt.load_pattern("180815/patternlist.xlsx") # patterns
+ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
+docu = contextpatt.load_text("data/train1.ner.txt")  # raw text document
+patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
 if REUSE:
     patt = contextpatt.filter_exist("pairs/") # remains patterns
 matches = []

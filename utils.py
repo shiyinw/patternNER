@@ -195,53 +195,78 @@ class StructPatt:
             tmp = []
             for line in f:
                 segs = line.split("\t")
-                if (len(segs) == 2):
-                    if (segs[1] == "O\n"):
+                if (len(segs) == 2 and segs[0]!=""):
+                    if (segs[1] == "O\n" or type_e !=segs[1][2:-1]):
                         if (len(tmp) > 0):
-                            self.words.append(" ".join(tmp))
+                            w = " ".join(tmp)
+                            w = self.standardize(w)
+                            self.words.append(w)
+                            #print(" ".join(tmp))
                         tmp = []
-                        type_e = ""
+                        type_e = segs[1][2:-1]
                     else:
                         tmp.append(segs[0])
-                        if(type_e!="" and type_e!=segs[1][2:-1]):
-                            print(segs)
-                            print(tmp)
-                            print(type_e)
-                            type_e = segs[1][2:-1]
-                        else:
-                            type_e = segs[1][2:-1]
+                        type_e = segs[1][2:-1]
 
-
+        self.words = set(self.words)
         print("finish loading words: ", len(self.words))
         return self.words
+
+    def type(self, seg):
+        if (seg.isdigit()):
+            return "digit"
+        elif(seg.isnumeric()):
+            return "numeric"
+        else:
+            return "other"
+
+
+    def standardize(self, string):
+        segs = string.split(" ")
+        s = ""
+        cur_type = ""
+        for i in segs:
+            i.replace(" ", "")
+            if(type(i)==cur_type and type(i) != "other"):
+                s = s + " " + i
+            else:
+                s = s + i
+            cur_type = type(i)
+        return s
+
 
     def pmatch(self, pattern, string):
         # check whether a string is a word
         matches = []
-        query = pattern.replace("$W$ $W$", "$W$ $W$")
-        query = query.replace("$W$ $W$", "$W$ $W$")
 
+        query = pattern
         query = query.replace(")", "\)")
         query = query.replace("(", "\(")
         query = query.replace("]", "\]")
         query = query.replace("[", "\[")
+        query = query.replace("+", "\+")
+        query = query.replace(".", "\.")
 
         query = query.replace(" ", "")
+        query = query.replace("$W$$W$", "$W$ $W$")
+        query = query.replace("$N$$N$", "$N$ $N$")
         query = query.replace("$W$$W$", "$W$ $W$")
         query = query.replace("$N$$N$", "$N$ $N$")
 
         query = query.replace("$W$", "([a-z]+)")
         query = query.replace("$N$", "([0-9]+)")
 
+
+        string = self.standardize(string)
         pos = []
         try:
-            pos = list(re.finditer(query, string[0], flags=re.IGNORECASE))
+            pos = list(re.finditer(query, string, flags=re.IGNORECASE))
         except:
             print("pattern", pattern)
             print("string", string)
         for p in pos:
-            matches.append((string[1], p.group(0)))
-        return matches
+            matches.append(p.group(0))
+        return matches, query
 
 
 
@@ -270,5 +295,5 @@ if __name__ == "__main__":
 
     wpatt = structpatt.load_pattern(filename="180815/train_CRAFT_cnt_N_p.tsv")
     wne = structpatt.load_words(filename="180815/train1_all.tsv")  # named entities and their types
-    res = structpatt.pmatch(pattern="( $N$ ) $W$", string=("we-are  have-66 iu(9)uis", 'O'))
+    res = structpatt.pmatch(pattern="$W$$W$$W$-$N$", string="we here have-54  have-66 iu(9)uis")
     print("TEST pmatch   ------  ", res)

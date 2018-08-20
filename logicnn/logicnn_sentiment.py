@@ -1,9 +1,13 @@
-import cPickle
+import pickle
 import numpy as np
 from collections import defaultdict, OrderedDict
 import os
-os.environ["THEANO_FLAGS"] = "mode=FAST_RUN,device=cpu,floatX=float32"
+os.environ["THEANO_FLAGS"] = "mode=FAST_RUN,device=cpu,floatX=float32,exception_verbosity=high,traceback.limit=20"
+os.environ["THEANO_FLAGS_GPU"] = "mode=FAST_RUN,device=cuda,floatX=float32,exception_verbosity=high,traceback.limit=20"
 import theano
+theano.config.gcc.cxxflags = "-Wno-c++11-narrowing"
+from layers import MLPDropout, LogisticRegression, LeNetConvPoolLayer, LogicNN, DropoutHiddenLayer
+from fol import FOL_But
 import theano.tensor as T
 from theano.tensor.shared_randomstreams import RandomStreams
 import re
@@ -62,7 +66,7 @@ def train_conv_net(datasets,
                   ("dropout", dropout_rate), ("batch_size",batch_size),("non_static", non_static),
                     ("learn_decay",lr_decay), ("conv_non_linear", conv_non_linear), ("non_static", non_static),
                     ("sqr_norm_lim",sqr_norm_lim),("shuffle_batch",shuffle_batch),("pi_params",pi_params),("C",C)]
-    print parameters 
+    print (parameters)
     
     #define model architecture
     index = T.lscalar()
@@ -75,7 +79,7 @@ def train_conv_net(datasets,
     layer0_input = Words[T.cast(x.flatten(),dtype="int32")].reshape((x.shape[0],1,x.shape[1],Words.shape[1]))                                  
     conv_layers = []
     layer1_inputs = []
-    for i in xrange(len(filter_hs)):
+    for i in range(len(filter_hs)):
         filter_shape = filter_shapes[i]
         pool_size = pool_sizes[i]
         conv_layer = LeNetConvPoolLayer(rng, input=layer0_input,image_shape=(batch_size, 1, img_h, img_w),
@@ -148,7 +152,7 @@ def train_conv_net(datasets,
     for k in new_fea.keys():
         new_fea[k] = new_fea[k][permutation_order]
     new_text = new_text[permutation_order]
-    n_batches = new_data.shape[0]/batch_size
+    n_batches = int(new_data.shape[0]/batch_size)
     n_train_batches = n_batches
     train_set = new_data
     train_set_x, train_set_y = shared_dataset((train_set[:,:img_h],train_set[:,-1]))
@@ -182,8 +186,8 @@ def train_conv_net(datasets,
         new_val_text = datasets[7]
     val_set = new_val_data
     val_set_x, val_set_y = shared_dataset((val_set[:,:img_h],val_set[:,-1]))
-    n_batches = new_val_data.shape[0] / batch_size
-    n_val_batches = n_batches
+    n_batches = int(new_val_data.shape[0] / batch_size)
+    n_val_batches = int(n_batches)
     val_fea = new_val_fea
     val_fea_but_ind = val_fea['but_ind'].reshape([val_fea['but_ind'].shape[0],1])
     val_fea_but_ind = shared_fea(val_fea_but_ind)
@@ -229,7 +233,7 @@ def train_conv_net(datasets,
 
     ### setup testing
     test_size = test_set_x.shape[0]
-    print 'test size ', test_size 
+    print ('test size ', test_size)
     test_pred_layers = []
     test_layer0_input = Words[T.cast(x.flatten(),dtype="int32")].reshape((test_size,1,img_h,Words.shape[1]))
     f_but_test_pred_layers = []
@@ -257,7 +261,7 @@ def train_conv_net(datasets,
                                      on_unused_input='warn')
    
     ### start training over mini-batches
-    print '... training'
+    print ('... training')
     epoch = 0
     batch = 0
     best_val_q_perf = 0
@@ -277,18 +281,19 @@ def train_conv_net(datasets,
                 cost_epoch = train_model(minibatch_index)
                 set_zero(zero_vec)
         else:
-            for minibatch_index in xrange(n_train_batches):
+            for minibatch_index in range(n_train_batches):
                 batch = batch + 1
                 new_pi = get_pi(cur_iter=batch*1./n_train_batches, params=pi_params)
                 logic_nn.set_pi(new_pi)
                 cost_epoch = train_model(minibatch_index)  
                 set_zero(zero_vec)
         # eval
-        train_losses = [test_model(i) for i in xrange(n_train_batches)]
+        train_losses = [test_model(i) for i in range(n_train_batches)]
         train_losses = np.array(train_losses)
         train_q_perf = 1 - np.mean(train_losses[:,0])
         train_p_perf = 1 - np.mean(train_losses[:,1])
-        val_losses = [val_model(i) for i in xrange(n_val_batches)]
+        print("type",  type(n_val_batches))
+        val_losses = [val_model(i) for i in range(int(n_val_batches))]
         val_losses = np.array(val_losses)
         val_q_perf = 1 - np.mean(val_losses[:,0])
         val_p_perf = 1 - np.mean(val_losses[:,1])
@@ -297,7 +302,7 @@ def train_conv_net(datasets,
         test_loss = test_model_all(test_set_x,test_set_y,test_fea['but'],test_fea_but_ind)
         test_loss = np.array(test_loss)
         test_perf = 1 - test_loss
-        print 'test perf: q %.4f %%, p %.4f %%' % (test_perf[0]*100., test_perf[1]*100.)
+        print ('test perf: q %.4f %%, p %.4f %%' % (test_perf[0]*100., test_perf[1]*100.))
         if val_q_perf > best_val_q_perf:
             best_val_q_perf = val_q_perf
             ret_test_perf = test_perf
@@ -393,7 +398,7 @@ def get_idx_from_sent(sent, word_idx_map, max_l=51, k=300, filter_h=5):
     """
     x = []
     pad = filter_h - 1
-    for i in xrange(pad):
+    for i in range(pad):
         x.append(0)
     words = sent.split()
     for word in words:
@@ -428,17 +433,17 @@ def make_idx_data(revs, fea, word_idx_map, max_l=51, k=300, filter_h=5):
         fea['but'].append(get_idx_from_but_fea(fea['but_text'][i], fea['but_ind'][i], word_idx_map, max_l, k, filter_h))
         if rev["split"]==0:
             train.append(sent)
-            for k,v in fea.iteritems():
+            for k,v in fea.items():
                 train_fea[k].append(v[i])
             train_text.append(rev["text"])
         elif rev["split"]==1:
             dev.append(sent)
-            for k,v in fea.iteritems():
+            for k,v in fea.items():
                 dev_fea[k].append(v[i])
             dev_text.append(rev["text"])
         else:  
             test.append(sent)
-            for k,v in fea.iteritems():
+            for k,v in fea.items():
                 test_fea[k].append(v[i])
             test_text.append(rev["text"])
     train = np.array(train,dtype="int")
@@ -464,33 +469,24 @@ def make_idx_data(revs, fea, word_idx_map, max_l=51, k=300, filter_h=5):
   
    
 if __name__=="__main__":
-    path = 'data/' 
-    print path
-    print "loading data...",
-    x = cPickle.load(open("%s/stsa.binary.p"%path,"rb"))
+
+    print ("loading data...")
+    x = pickle.load(open("data/stsa.binary.p","rb"))
     revs, W, W2, word_idx_map, vocab = x[0], x[1], x[2], x[3], x[4]
 
-    print "data loaded!"
-    print "loading features..."
-    fea = cPickle.load(open("%s/stsa.binary.p.fea.p"%path,"rb"))
-    print "features loaded!"
+    print ("data loaded!")
+    print ("loading features...")
+    fea = pickle.load(open("data/stsa.binary.p.fea.p","rb"))
+    print ("features loaded!")
 
-    mode= "-nonstatic"
-    word_vectors = "-word2vec"
-    if mode=="-nonstatic":
-        print "model architecture: CNN-non-static"
-        non_static=True
-    elif mode=="-static":
-        print "model architecture: CNN-static"
-        non_static=False
-    if word_vectors=="-rand":
-        print "using: random vectors"
-        U = W2
-    elif word_vectors=="-word2vec":
-        print "using: word2vec vectors, dim=%d" % W.shape[1]
-        U = W    
 
-    execfile("logicnn_classes.py") 
+    print ("model architecture: CNN-non-static")
+    non_static = True
+
+
+    print ("using: word2vec vectors, dim=%d" % W.shape[1])
+    U = W
+
 
     # q: teacher network; p: student network
     q_results = []
@@ -515,6 +511,6 @@ if __name__=="__main__":
                           patience=20)
     q_results.append(perf[0])
     p_results.append(perf[1])
-    print 'teacher network q: ',str(np.mean(q_results))
-    print 'studnet network p: ',str(np.mean(p_results))
+    print ('teacher network q: ',str(np.mean(q_results)))
+    print ('studnet network p: ',str(np.mean(p_results)))
 
