@@ -22,27 +22,59 @@ REUSE = 1
 
 structpatt = StructPatt()
 structpatt.load_words("data/train_CRAFT.tsv")  # named entities and their types
-structpatt.load_words("data/train1_all.tsv")
-structpatt.load_words("data/train0_all.tsv")
+# structpatt.load_words("data/train1_all.tsv")
+# structpatt.load_words("data/train0_all.tsv")
+structpatt.load_sentence("data/train_CRAFT.tsv")
 patt = structpatt.load_pattern("data/train_CRAFT_cnt_N_p.tsv") # patterns
 
 start = time.time()
-cnt = 0
+# cnt = 0
+#
+# word_matches = {}
+# for i in patt:
+#     name = str(i[0])
+#     word_matches[name]={"matches":[], "type":i[1], "cnt":i[2]}
+#     cnt += 1
+#     for w in structpatt.words:
+#         m = structpatt.pmatch(i[0], w[0], withtype=0)
+#         if(len(m)>0):
+#             word_matches[name]["matches"].extend(m)
+#     word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
+#     #print("pattern", i)
+#     #print("match", word_matches[name]["matches"])
+#     if(cnt%100==0):
+#         print(cnt, time.time()-start)
+#
+# with open("stru_word_matches.json", "w") as f:
+#     json.dump(word_matches, f)
 
-word_matches = {}
-for i in patt:
+
+
+sent_matches = {}
+
+for cnt in range(len(patt)):
+    i = patt[cnt]
     name = str(i[0])
-    word_matches[name]={"matches":[], "type":i[1], "cnt":i[2]}
-    cnt += 1
-    for w in structpatt.words:
-        m, q = structpatt.pmatch(i[0], w)
-        word_matches[name]["matches"].extend(m)
-    word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
-    print("pattern", i)
-    print("query", q)
-    print("match", word_matches[name]["matches"])
-    if(cnt%1==0):
-        print(cnt, time.time()-start)
+    sent_matches[name]={"matches":{}, "type":i[1], "cnt":i[2]}
 
-with open("stru_matches.json", "w") as f:
-    json.dump(word_matches, f)
+    for w in structpatt.sent:
+        # print(i[0], w)
+        m = structpatt.pmatch(i[0], w, withtype=1)
+        for x in m:
+            if(x[0] not in sent_matches[name]["matches"].keys()):
+                sent_matches[name]["matches"][x[0]] = [0, 0, 0]
+            sent_matches[name]["matches"][x[0]][0] += x[1][0]
+            sent_matches[name]["matches"][x[0]][1] += x[1][1]
+            sent_matches[name]["matches"][x[0]][2] += x[1][2]
+    # print("pattern", i)
+    # print("match", sent_matches[name]["matches"])
+    if((cnt+1)%100==0):
+        with open("sent/stru_sent_matches"+str(cnt) + ".json", "w") as f:
+            json.dump(sent_matches, f)
+        print(cnt, time.time()-start)
+        sent_matches = {}
+
+with open("stru_sent_matches_final.json", "w") as f:
+    json.dump(sent_matches, f)
+
+

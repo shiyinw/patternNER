@@ -181,7 +181,9 @@ class StructPatt:
         self.words = []  # a list of named entities
         self.patt = []
         self.patt_remain = []
-
+        self.sent = []
+        self.nota = {"O":0, "S-GENE":2, "B-GENE":2, "I-GENE":2, "E-GENE":2, "S-Chemical":1, "B-Chemical":1, "I-Chemical":1, "E-Chemical":1, "1":1, "2":2, "0":0}
+        self.sent = []
     def load_pattern(self, filename):
         """
         :param filename:
@@ -196,34 +198,65 @@ class StructPatt:
                     pass
                 else:
                     self.patt.append(segs)
-        # print (pattern)
         print("finish loading structure pattern: ", len(self.patt))
         return self.patt
+
+    def dist(self, type_string):
+        dist = [0, 0, 0]
+        if(type_string[0]!="@"):
+            index = self.nota[type_string[0]]
+            index = int(index)
+            dist[index] += 1
+        for i in range(len(type_string)):
+            if(type_string[i]=="@"):
+                index = self.nota[type_string[i+1]]
+                index = int(index)
+                dist[index] += 1
+        # sum = np.sum(dist)
+        # dist = [float(i) / sum for i in dist]
+        return dist
+
+
+
+    def load_sentence(self, filename):
+        string = ""
+        types = ""
+        with open(filename, "r") as f:
+            for line in f:
+                line = line[:-1]
+                segs = line.split("\t")
+                if (line != "\t\n" and line != "\n" and line!="\t" and len(segs) == 2 and segs[1] in self.nota):
+                    string = string + "@" + segs[0]
+                    types = types + "@" + str(self.nota[segs[1]])*len(segs[0])
+                else:
+                    self.sent.append((string, types))
+                    string = ""
+                    types = ""
+        print("finish loading sentences: ", len(self.sent))
+        return
 
     def load_words(self, filename):
         """
         :param filename:
         :return: entity names and types
-
         each word is a list of tokens
         """
 
         with open(filename, "r") as f:
             type_e = ""
             tmp = []
-            type2 = []
             for line in f:
                 segs = line.split("\t")
                 segs[0].replace(" ", "")
                 if (len(segs) == 2 and segs[0]!=""):
                     if (segs[1] == "O\n" or type_e !=segs[1][2:-1] or segs[1][:2]=="B-" or segs[1][:2]=="S-"):
                         if (len(tmp) > 0):
-                            self.words.append("@".join(tmp))
+                            self.words.append(("@".join(tmp), type_e))
                         tmp = []
                         type_e = segs[1][2:-1]
                     elif (segs[1][:2]=="E-"):
                         tmp.append(segs[0])
-                        self.words.append("@".join(tmp))
+                        self.words.append(("@".join(tmp), type_e))
                         tmp = []
                         type_e = ""
                     else:
@@ -235,6 +268,7 @@ class StructPatt:
         self.words = list(set(self.words))
         print("finish loading words: ", len(self.words))
         return self.words
+
 
     def type(self, seg):
         if (seg.isdigit()):
@@ -258,7 +292,7 @@ class StructPatt:
             cur_type = type(i)
         return s
 
-    def query(self, pattern):
+    def query(self, pattern, strict=0):
         query = pattern
         query = query.replace(r")", "\)")
         query = query.replace(r"(", "\(")
@@ -272,38 +306,71 @@ class StructPatt:
 
         query = query.replace("$W$", "([a-zA-Z_]+)")
         query = query.replace("$N$", "([0-9]+)")
-
+        if(strict):
+            query = "^" + query + "$"
         return query
 
-    def pmatch(self, pattern, string):
+
+    def pmatch(self, pattern, string, withtype=0):
+        if (withtype):
+            types = string[1]
+            string = string[0]
+            assert string.count("@") == types.count("@")
+            types_seg = types.split("@")
+
         # check whether a string is a word
         matches = []
+        type_cnt = []
         query = self.query(pattern)
-        string = self.standardize(string)
+
 
         pos = []
         try:
             pos = list(re.finditer(query, string, flags=re.IGNORECASE))
         except:
-            print("pattern", pattern)
-            print("string", string)
+            pass
         for p in pos:
-            matches.append(p.group(0))
-        return matches, query
-        #return matches
+            # p.span(0) returns the position of the matched index
+            if(withtype):
+                # print(p.group(0), p.span(0), len(p.group(0)), len(p.span(0)))
+                n = p.group(0).count("@")
+                type_match = types[p.span(0)[0]:p.span(0)[1]]
+                #print("type_match", type_match)
+                matches.append((p.group(0), self.dist(type_match)))
+
+                #print("matches       ", matches)
+            else:
+                matches.append(p.group(0))
+        if(withtype):
+            return matches
+        else:
+            return matches
 
 
-    def pattern_match(self, string):
+    def pattern_match(self, string, withtype=0):
         """
-        :param
+        :param: if withtoken=1, string is combined with a list of tokens with its types [Chemical][GENE][O]
         :return:
         string: return the matched pattern for a string
         """
         res = {}
+
         for p in self.patt:
-            match = self.pmatch(p[0], string)
+            match = self.pmatch(p[0], string, withtype=withtype)
             if len(match)>0:
-                res[p[0]] = {"match":match, "type":p[1], "cnt":p[2]}
+                d = {}
+                for m in match:
+                    if (m[0] in d.keys()):
+                        d[m[0]][0] += m[1][0]
+                        d[m[0]][1] += m[1][1]
+                        d[m[0]][2] += m[1][2]
+                    else:
+                        d[m[0]] = m[1]
+
+                for i in d.keys():
+                    sum = np.sum(d[i])
+                    d[i] = [x/sum for x in d[i]]
+                res[p[0]] = {"match": d, "type": p[1], "cnt": p[2]}
         return res
 
 
@@ -313,29 +380,32 @@ class StructPatt:
 
 if __name__ == "__main__":
 
-    contextpatt = ContextPatt()
-    res = contextpatt.pmatch("id00", "DISEASE therapy",
-           "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.")
-    print("TEST pmatch   ------  ", res)
-
-    ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
-    docu = contextpatt.load_text("data/train1.ner.txt")  # raw text document
-    patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
-    pattn = contextpatt.filter_exist("pairs/")
-    res = contextpatt.pattern_match("contraceptive therapy")
-    print ("TEST search  ------  ", res)
-
-
-    print("-"*50)
+    # contextpatt = ContextPatt()
+    # res = contextpatt.pmatch("id00", "DISEASE therapy",
+    #        "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.")
+    # print("TEST pmatch   ------  ", res)
+    #
+    # ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
+    # docu = contextpatt.load_text("data/train1.ner.txt")  # raw text document
+    # patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
+    # pattn = contextpatt.filter_exist("pairs/")
+    # res = contextpatt.pattern_match("contraceptive therapy")
+    # print ("TEST search  ------  ", res)
+    #
+    #
+    # print("-"*50)
 
 
     structpatt = StructPatt()
 
 
-    wpatt = structpatt.load_pattern(filename="data/train_CRAFT_cnt_N_p.tsv")
-    wne = structpatt.load_words(filename="data/train1_all.tsv")  # named entities and their types
-    res = structpatt.pmatch(pattern="$W$ - $W$", string="we here have-54  we-hihave-66 iu(9)uis")
+    structpatt.load_pattern(filename="data/train_CRAFT_cnt_N_p.tsv")
+    structpatt.load_sentence(filename="data/train1_all.tsv")
+    structpatt.load_words(filename="data/train1_all.tsv")  # named entities and their types
+    res = structpatt.pmatch(pattern="$W$ - $W$", string="we@-@here@have@-@54@we@-@hihave", withtype=0)
     print("TEST pmatch   ------  ", res)
 
-    res = structpatt.pattern_match("3-phosphateacyltransferase")
+    res = structpatt.pattern_match(string=["@The@conformation@of@EW29Ch@in@the@sugar@=-@free@state@was@similar@to@that@of@EW29Ch@in@complex@with@lactose@.",
+                                           "@000@000000000000@00@000000@00@000@11111@00@0000@00000@000@0000000@00@0000@00@000000@00@0000000@0000@2222222@0"], withtype=1)
     print("TEST search  ------  ", res)
+
