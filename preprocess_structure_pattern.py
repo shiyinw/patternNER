@@ -28,31 +28,31 @@ structpatt.load_sentence("data/train_CRAFT.tsv")
 patt = structpatt.load_pattern("data/train_CRAFT_cnt_N_p.tsv") # patterns
 
 start = time.time()
-# cnt = 0
-#
-# word_matches = {}
-# for i in patt:
-#     name = str(i[0])
-#     word_matches[name]={"matches":[], "type":i[1], "cnt":i[2]}
-#     cnt += 1
-#     for w in structpatt.words:
-#         m = structpatt.pmatch(i[0], w[0], withtype=0)
-#         if(len(m)>0):
-#             word_matches[name]["matches"].extend(m)
-#     word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
-#     #print("pattern", i)
-#     #print("match", word_matches[name]["matches"])
-#     if(cnt%100==0):
-#         print(cnt, time.time()-start)
-#
-# with open("stru_word_matches.json", "w") as f:
-#     json.dump(word_matches, f)
+cnt = 0
+
+word_matches = {}
+for i in patt:
+    name = str(i[0])
+    word_matches[name]={"matches":[], "type":i[1], "cnt":i[2]}
+    cnt += 1
+    for w in structpatt.words:
+        m = structpatt.pmatch(i[0], w[0], withtype=0)
+        if(len(m)>0):
+            word_matches[name]["matches"].extend(m)
+    word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
+    #print("pattern", i)
+    #print("match", word_matches[name]["matches"])
+    if(cnt%100==0):
+        print(cnt, time.time()-start)
+
+with open("stru_word_matches.json", "w") as f:
+    json.dump(word_matches, f)
 
 
 
 sent_matches = {}
 
-for cnt in range(len(patt)):
+for cnt in range(3700, len(patt)):
     i = patt[cnt]
     name = str(i[0])
     sent_matches[name]={"matches":{}, "type":i[1], "cnt":i[2]}
@@ -74,7 +74,7 @@ for cnt in range(len(patt)):
         print(cnt, time.time()-start)
         sent_matches = {}
 
-with open("stru_sent_matches_final.json", "w") as f:
+with open("sent/stru_sent_matches_final.json", "w") as f:
     json.dump(sent_matches, f)
 
 

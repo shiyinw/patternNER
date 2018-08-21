@@ -207,8 +207,11 @@ class StructPatt:
             index = self.nota[type_string[0]]
             index = int(index)
             dist[index] += 1
+        if(type_string[-1]=="@"):
+            type_string = type_string[:-1]
         for i in range(len(type_string)):
             if(type_string[i]=="@"):
+                # print(type_string)
                 index = self.nota[type_string[i+1]]
                 index = int(index)
                 dist[index] += 1
@@ -335,7 +338,8 @@ class StructPatt:
                 # print(p.group(0), p.span(0), len(p.group(0)), len(p.span(0)))
                 n = p.group(0).count("@")
                 type_match = types[p.span(0)[0]:p.span(0)[1]]
-                #print("type_match", type_match)
+                # print(p.group(0))
+                # print("type_match", type_match)
                 matches.append((p.group(0), self.dist(type_match)))
 
                 #print("matches       ", matches)
