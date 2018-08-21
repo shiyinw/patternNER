@@ -21,7 +21,9 @@ patternlist: **patternlist.xlsx**
 REUSE = 1
 
 structpatt = StructPatt()
-words = structpatt.load_words("data/train_CRAFT.tsv")  # named entities and their types
+structpatt.load_words("data/train_CRAFT.tsv")  # named entities and their types
+structpatt.load_words("data/train1_all.tsv")
+structpatt.load_words("data/train0_all.tsv")
 patt = structpatt.load_pattern("data/train_CRAFT_cnt_N_p.tsv") # patterns
 
 start = time.time()

@@ -187,7 +187,7 @@ class StructPatt:
         :param filename:
         :return: pattern list such as [['$N$ , $N$ - $W$ - $N$ - $W$', 'Chemical', '47'], ['$W$ [ $W$ ] $W$', 'Chemical', '44']]
         """
-        self.patt = []
+
         with open(filename, "r") as f:
             for line in f:
                 segs = line[:-1].split("\t")  # delete the '\n' at the end of each line
@@ -204,30 +204,35 @@ class StructPatt:
         """
         :param filename:
         :return: entity names and types
+
+        each word is a list of tokens
         """
-
-
-
-        self.words = []
 
         with open(filename, "r") as f:
             type_e = ""
             tmp = []
+            type2 = []
             for line in f:
                 segs = line.split("\t")
+                segs[0].replace(" ", "")
                 if (len(segs) == 2 and segs[0]!=""):
-                    if (segs[1] == "O\n" or type_e !=segs[1][2:-1]):
+                    if (segs[1] == "O\n" or type_e !=segs[1][2:-1] or segs[1][:2]=="B-" or segs[1][:2]=="S-"):
                         if (len(tmp) > 0):
-                            w = " ".join(tmp)
-                            w = self.standardize(w)
-                            self.words.append(w)
+                            self.words.append("@".join(tmp))
                         tmp = []
                         type_e = segs[1][2:-1]
+                    elif (segs[1][:2]=="E-"):
+                        tmp.append(segs[0])
+                        self.words.append("@".join(tmp))
+                        tmp = []
+                        type_e = ""
                     else:
+                        if(segs[1][:2]!= "I-"):
+                            print("Unexpected token: ", line)
                         tmp.append(segs[0])
                         type_e = segs[1][2:-1]
 
-        self.words = set(self.words)
+        self.words = list(set(self.words))
         print("finish loading words: ", len(self.words))
         return self.words
 
@@ -263,13 +268,9 @@ class StructPatt:
         query = query.replace(r".", "\.")
         query = query.replace(r"*", "\*")
 
-        query = query.replace(" ", "")
-        query = query.replace("$W$$W$", "$W$ $W$")
-        query = query.replace("$N$$N$", "$N$ $N$")
-        query = query.replace("$W$$W$", "$W$ $W$")
-        query = query.replace("$N$$N$", "$N$ $N$")
+        query = query.replace(" ", "@")
 
-        query = query.replace("$W$", "([a-z]+)")
+        query = query.replace("$W$", "([a-zA-Z_]+)")
         query = query.replace("$N$", "([0-9]+)")
 
         return query
@@ -288,8 +289,8 @@ class StructPatt:
             print("string", string)
         for p in pos:
             matches.append(p.group(0))
-        #return matches, query
-        return matches
+        return matches, query
+        #return matches
 
 
     def pattern_match(self, string):
