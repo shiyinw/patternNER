@@ -232,9 +232,14 @@ class StructPatt:
                     string = string + "@" + segs[0]
                     types = types + "@" + str(self.nota[segs[1]])*len(segs[0])
                 else:
+                    if(string[-1]!="@"):
+                        string = string + "@"
+                    if(types[-1]!="@"):
+                        types = types + "@"
                     self.sent.append((string, types))
                     string = ""
                     types = ""
+
         print("finish loading sentences: ", len(self.sent))
         return
 
@@ -311,6 +316,10 @@ class StructPatt:
         query = query.replace("$N$", "([0-9]+)")
         if(strict):
             query = "^" + query + "$"
+        if(query[0]!="@"):
+            query = "@" + query
+        if(query[-1]!="@"):
+            query = query + "@"
         return query
 
 
@@ -406,7 +415,7 @@ if __name__ == "__main__":
     structpatt.load_pattern(filename="data/train_CRAFT_cnt_N_p.tsv")
     structpatt.load_sentence(filename="data/train1_all.tsv")
     structpatt.load_words(filename="data/train1_all.tsv")  # named entities and their types
-    res = structpatt.pmatch(pattern="$W$ - $W$", string="we@-@here@have@-@54@we@-@hihave", withtype=0)
+    res = structpatt.pmatch(pattern="$W$ - $W$", string="@we@-@here@have@-@54@we@-@hihave@", withtype=0)
     print("TEST pmatch   ------  ", res)
 
     res = structpatt.pattern_match(string=["@The@conformation@of@EW29Ch@in@the@sugar@=-@free@state@was@similar@to@that@of@EW29Ch@in@complex@with@lactose@.",

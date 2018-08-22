@@ -39,7 +39,11 @@ for i in patt:
         m = structpatt.pmatch(i[0], w[0], withtype=0)
         if(len(m)>0):
             word_matches[name]["matches"].extend(m)
+
+
     word_matches[name]["matches"] = list(set(word_matches[name]["matches"]))
+    if (len(word_matches[name]["matches"]) == 0):
+        del word_matches[name]["matches"]
     #print("pattern", i)
     #print("match", word_matches[name]["matches"])
     if(cnt%100==0):
@@ -52,7 +56,7 @@ with open("stru_word_matches.json", "w") as f:
 
 sent_matches = {}
 
-for cnt in range(3700, len(patt)):
+for cnt in range(0, len(patt)):
     i = patt[cnt]
     name = str(i[0])
     sent_matches[name]={"matches":{}, "type":i[1], "cnt":i[2]}
@@ -68,6 +72,8 @@ for cnt in range(3700, len(patt)):
             sent_matches[name]["matches"][x[0]][2] += x[1][2]
     # print("pattern", i)
     # print("match", sent_matches[name]["matches"])
+    if(len(sent_matches[name]["matches"])==0):
+        del sent_matches[name]["matches"]
     if((cnt+1)%100==0):
         with open("sent/stru_sent_matches"+str(cnt) + ".json", "w") as f:
             json.dump(sent_matches, f)
