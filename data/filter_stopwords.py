@@ -30,5 +30,5 @@ with open("stru_sent_all.json", "r") as f:
         except:
             print(match)
 
-with open("filterd_stru.json", "w") as f:
+with open("structural_match.json", "w") as f:
     json.dump(filtered_data, f)
