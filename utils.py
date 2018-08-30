@@ -10,7 +10,7 @@ from multiprocessing import Pool
 import os
 
 
-dirty = ["the", "other", "a", "an", "is", "are"]
+stopwords = ["the", "other", "a", "an", "is", "are", "this", "that", "these", "those", 'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"]
 
 
 
@@ -36,8 +36,7 @@ class ContextPatt:
         :return: the content of the document, divided into sentences
         """
         with open(filename) as f:
-            whole_context = f.read()
-            self.context_segs = whole_context.split("\n")
+            self.context_segs = json.load(f)
         print("finish loading sentences from document: ", len(self.context_segs))
 
 
@@ -109,7 +108,7 @@ class ContextPatt:
         return pattern
 
 
-    def pmatch(self, id, pattern, document):
+    def pmatch(self, id, pattern, document, nouns=[]):
         """
         This function matchs a pattern containing "CHEMICAL", "GENE", "DISEASE" to a given document
         """
@@ -133,31 +132,44 @@ class ContextPatt:
 
         index = 1
         for p in pos_pattern[1:-1]:
-            res["matches"].append((p.group(0), matches.group(index)))
+            entity = matches.group(index)
+            while (entity[-1] in [",", "."]):
+                entity = entity[:-1]
+            if (entity != ""):
+                if(entity in nouns):
+                    res["matches"].append((p.group(0), entity))
             index += 1
         try:
             tail = matches.group(index).split(" ")
             index = 0
-            while (tail[index] in dirty and index < len(tail)):
+            while (tail[index] in stopwords and index < len(tail) and tail[index] not in nouns):
                 index += 1
-            if (tail[index] not in dirty):
-                res["matches"].append((pos_pattern[-1].group(0), tail[index]))
+            if (tail[index] not in stopwords):
+                entity = tail[index]
+                while (entity[-1] in [",", "."]):
+                    entity = entity[:-1]
+                if(entity !="" and entity in nouns):
+                    res["matches"].append((pos_pattern[-1].group(0), entity))
         except:
             pass
 
         try:
             head = matches.group(index).split(" ")
             index = -1
-            while (tail[index] in dirty and index + len(tail) >= 0):
+            while (tail[index] in stopwords and index + len(tail) >= 0 and tail[index] not in nouns):
                 index -= 1
-            if (tail[index] not in dirty):
-                res["matches"].append((pos_pattern[-1].group(0), tail[index]))
+            if (tail[index] not in stopwords):
+                entity = tail[index]
+                while(entity[-1] in [",", "."]):
+                    entity = entity[:-1]
+                if(entity!="" and entity in nouns):
+                    res["matches"].append((pos_pattern[-1].group(0), entity))
         except:
             pass
 
         return res
 
-    def pattern_match(self, string):
+    def pattern_match(self, string, nouns=[]):
         """
         :param
         :return:
@@ -165,7 +177,7 @@ class ContextPatt:
         """
         res = {}
         for p in self.patt:
-            match = self.pmatch(p[0], p[1], string)
+            match = self.pmatch(p[0], p[1], string, nouns)
             if match != None:
                 res[match["content"]] = {"match":match["matches"], "id":match["id"]}
         return res
@@ -393,20 +405,21 @@ class StructPatt:
 
 if __name__ == "__main__":
 
-    # contextpatt = ContextPatt()
-    # res = contextpatt.pmatch("id00", "DISEASE therapy",
-    #        "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.")
-    # print("TEST pmatch   ------  ", res)
-    #
-    # ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
-    # docu = contextpatt.load_text("data/train1.ner.txt")  # raw text document
-    # patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
-    # pattn = contextpatt.filter_exist("pairs/")
-    # res = contextpatt.pattern_match("contraceptive therapy")
-    # print ("TEST search  ------  ", res)
-    #
-    #
-    # print("-"*50)
+    contextpatt = ContextPatt()
+    res = contextpatt.pmatch("id00", "DISEASE therapy",
+           "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.",
+                             ["contraceptive"])
+    print("TEST pmatch   ------  ", res)
+
+    ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
+    docu = contextpatt.load_text("data/sents.json")  # raw text document
+    patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
+    pattn = contextpatt.filter_exist("pairs/")
+    res = contextpatt.pattern_match("contraceptive therapy")
+    print ("TEST search  ------  ", res)
+
+
+    print("-"*50)
 
 
     structpatt = StructPatt()

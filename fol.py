@@ -5,7 +5,7 @@ First Order Logic (FOL) rules
 """
 
 import warnings
-import numpy
+import numpy as np
 import theano.tensor.shared_randomstreams
 import theano
 import theano.tensor as T
@@ -29,6 +29,8 @@ class FOL(object):
         # Record the data relevance (binary)
         self.conds = self.conditions(self.input, self.fea)
         self.K = K
+        print("FOL self.input", self.input)
+        print("FOL self.fea", self.fea)
 
     def conditions(self, X, F):
         results,_ = theano.scan(lambda x,f: self.condition_single(x,f), sequences=[X,F])
@@ -81,12 +83,12 @@ class FOL(object):
     """
     def condition_single(self, x, f):
         """ True if x satisfies the condition """
-        return T.cast(0, dtype=theano.config.floatX)
+        return np.asarry(0, dtype="float32")
 
 
     def value_single(self, x, y, f):
         """ value = r(x,y) """
-        return T.cast(1, dtype=theano.config.floatX)
+        return np.asarray(1, dtype="float32")
 
 
 #----------------------------------------------------

@@ -32,7 +32,7 @@ def Tanh(x):
     y = T.tanh(x)
     return(y)
 
-        
+
 class HiddenLayer(object):
     """
     Class for HiddenLayer
@@ -44,13 +44,13 @@ class HiddenLayer(object):
 
         if W is None:            
             if activation.func_name == "ReLU":
-                W_values = np.asarray(0.01 * rng.standard_normal(size=(n_in, n_out)), dtype=theano.config.floatX)
+                W_values = np.asarray(0.01 * rng.standard_normal(size=(n_in, n_out)), dtype="float32")
             else:                
                 W_values = np.asarray(rng.uniform(low=-np.sqrt(6. / (n_in + n_out)), high=np.sqrt(6. / (n_in + n_out)),
-                                                     size=(n_in, n_out)), dtype=theano.config.floatX)
+                                                     size=(n_in, n_out)), dtype="float32")
             W = theano.shared(value=W_values, name='W')
         if b is None:
-            b_values = np.zeros((n_out,), dtype=theano.config.floatX)
+            b_values = np.zeros((n_out,), dtype="float32")
             b = theano.shared(value=b_values, name='b')
 
         self.W = W
@@ -65,7 +65,7 @@ class HiddenLayer(object):
 
 def _dropout_from_layer(rng, layer, p):
     """p is the probablity of dropping a unit
-"""
+    """
     srng = theano.tensor.shared_randomstreams.RandomStreams(rng.randint(999999))
     # p=1-p because 1's indicate keep and p is prob of dropping
     mask = srng.binomial(n=1, p=1-p, size=layer.shape)
@@ -446,7 +446,7 @@ class LogicNN(object):
         self.network = network
         self.rules = rules
         self.rule_lambda = theano.shared(
-                          np.asarray(rule_lambda, dtype=theano.config.floatX),
+                          np.asarray(rule_lambda, dtype="float32"),
                           name='rule_lambda')
         self.ones = theano.shared(value=np.ones(len(rules))*1., name='ones')
         self.pi = theano.shared(value=pi, name='pi')
@@ -478,7 +478,7 @@ class LogicNN(object):
     def calc_rule_constraints(self, new_data=None, new_rule_fea=None):
         if new_rule_fea==None:
             new_rule_fea = [None]*len(self.rules)
-        distr_all = T.cast(0, dtype=theano.config.floatX)
+        distr_all = np.asarray(0, dtype="float32")
         for i,rule in enumerate(self.rules):
             distr = rule.log_distribution(self.C*self.rule_lambda[i],new_data,new_rule_fea[i])
             distr_all += distr

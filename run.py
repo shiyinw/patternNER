@@ -94,8 +94,11 @@ def train_conv_net(datasets,
   
     #build the feature of BUT-rule
     f_but = T.fmatrix('f_but')
+    print("f_but", f_but)
     f_but_ind = T.fmatrix('f_ind') # indicators
+    print("f_ind", f_but_ind)
     f_but_layer0_input = Words[T.cast(f_but.flatten(),dtype="int32")].reshape((f_but.shape[0],1,f_but.shape[1],Words.shape[1]))
+    print("f_but_layer0_input", f_but_layer0_input)
     f_but_pred_layers = []
     for conv_layer in conv_layers:
         f_but_layer0_output = conv_layer.predict(f_but_layer0_input, batch_size)
@@ -108,6 +111,7 @@ def train_conv_net(datasets,
     #add logic layer
     nclasses = 2
     rules = [FOL_But(nclasses, x, f_but_full)]
+    print("rules", rules)
     rule_lambda = [1]
     new_pi = get_pi(cur_iter=0, params=pi_params)
     logic_nn = LogicNN(rng, input=x, network=classifier, rules=rules, rule_lambda=rule_lambda, pi=new_pi, C=C)
@@ -396,7 +400,9 @@ def as_floatX(variable):
 def get_idx_from_sent(sent, word_idx_map, max_l=51, k=300, filter_h=5):
     """
     Transforms sentence into a list of indices. Pad with zeroes.
+    output: [0, 0, 0, 0, 2068, 8040, 4476, 0, 0, 0, 0, 0...]
     """
+    # print("get_idx_from_sent input:", sent, word_idx_map)
     x = []
     pad = filter_h - 1
     for i in range(pad):
@@ -407,6 +413,7 @@ def get_idx_from_sent(sent, word_idx_map, max_l=51, k=300, filter_h=5):
             x.append(word_idx_map[word])
     while len(x) < max_l+2*pad:
         x.append(0)
+    # print("get_idx_from_sent output:", x)
     return x
 
 # 'but'-rule feature
@@ -422,15 +429,17 @@ def make_idx_data(revs, fea, word_idx_map, max_l=51, k=300, filter_h=5):
     """
     Transforms sentences into a 2-d matrix.
     """
+    # print("make_idx_data input: ", revs, fea, word_idx_map)
     train, dev, test = [], [], []
     train_text, dev_text, test_text = [], [], []
     train_fea, dev_fea, test_fea = {}, {}, {}
     fea['but'] = []
+    print("fea", fea)
     for k in fea.keys():
         train_fea[k], dev_fea[k], test_fea[k] = [],[],[]
     for i,rev in enumerate(revs):
         sent = get_idx_from_sent(rev["text"], word_idx_map, max_l, k, filter_h)
-        sent.append(rev["y"])
+        sent.append(rev["y"])  # add the true label behind of the data
         fea['but'].append(get_idx_from_but_fea(fea['but_text'][i], fea['but_ind'][i], word_idx_map, max_l, k, filter_h))
         if rev["split"]==0:
             train.append(sent)
@@ -494,8 +503,8 @@ if __name__=="__main__":
     p_results = []
     datasets = make_idx_data(revs, fea, word_idx_map, max_l=53, k=300, filter_h=5)
     perf = train_conv_net(datasets,
-                          U,
-                          word_idx_map,
+                          U,  # word2vec embedding
+                          word_idx_map, # map word to integers
                           img_w=W.shape[1],
                           lr_decay=0.95,
                           filter_hs=[3,4,5],
