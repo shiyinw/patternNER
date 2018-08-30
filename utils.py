@@ -8,9 +8,10 @@ import json
 import sys
 from multiprocessing import Pool
 import os
+from pycorenlp import StanfordCoreNLP
 
 
-stopwords = ["the", "other", "a", "an", "is", "are", "this", "that", "these", "those", 'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"]
+stopwords = ["level", "levels", "the", "other", "a", "an", "is", "are", "this", "that", "these", "those", 'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"]
 
 
 
@@ -144,7 +145,7 @@ class ContextPatt:
             index = 0
             while (tail[index] in stopwords and index < len(tail) and tail[index] not in nouns):
                 index += 1
-            if (tail[index] not in stopwords):
+            if (tail[index].lower() not in stopwords):
                 entity = tail[index]
                 while (entity[-1] in [",", "."]):
                     entity = entity[:-1]
@@ -158,7 +159,7 @@ class ContextPatt:
             index = -1
             while (tail[index] in stopwords and index + len(tail) >= 0 and tail[index] not in nouns):
                 index -= 1
-            if (tail[index] not in stopwords):
+            if (tail[index].lower() not in stopwords):
                 entity = tail[index]
                 while(entity[-1] in [",", "."]):
                     entity = entity[:-1]
@@ -196,6 +197,7 @@ class StructPatt:
         self.sent = []
         self.nota = {"O":0, "S-GENE":2, "B-GENE":2, "I-GENE":2, "E-GENE":2, "S-Chemical":1, "B-Chemical":1, "I-Chemical":1, "E-Chemical":1, "1":1, "2":2, "0":0}
         self.sent = []
+        self.nlp = StanfordCoreNLP('http://localhost:9000')
     def load_pattern(self, filename):
         """
         :param filename:
@@ -248,12 +250,24 @@ class StructPatt:
                         string = string + "@"
                     if(types[-1]!="@"):
                         types = types + "@"
-                    self.sent.append((string, types))
+                    nouns = self.pos_noun(string)
+                    self.sent.append((string, types, nouns))
                     string = ""
                     types = ""
 
         print("finish loading sentences: ", len(self.sent))
         return
+
+    def pos_noun(self, sentence):
+        sent = sentence.replace("@", " ")
+        res = self.nlp.annotate(sent, properties={'annotators': "pos", 'outputFormat': 'json'})
+        res = res["sentences"]
+        # print(sent)
+        noun_list = []
+        for word in res[0]['tokens']:
+            if (word['pos'][0] == 'N'):
+                noun_list.append(word['word'])
+        return noun_list
 
     def load_words(self, filename):
         """
@@ -339,6 +353,7 @@ class StructPatt:
         if (withtype):
             types = string[1]
             string = string[0]
+            nouns = string[2]
             assert string.count("@") == types.count("@")
             types_seg = types.split("@")
 
@@ -361,9 +376,15 @@ class StructPatt:
                 type_match = types[p.span(0)[0]:p.span(0)[1]]
                 # print(p.group(0))
                 # print("type_match", type_match)
-                matches.append((p.group(0), self.dist(type_match)))
 
-                #print("matches       ", matches)
+                all_noun = 1
+                for i in p.group(0).split("@"):
+                    if(i !="" and i not in nouns):
+                        all_noun = 0
+                if(all_noun==1):
+                    matches.append((p.group(0), self.dist(type_match)))
+
+                print("matches       ", matches)
             else:
                 matches.append(p.group(0))
         if(withtype):
@@ -405,33 +426,36 @@ class StructPatt:
 
 if __name__ == "__main__":
 
-    contextpatt = ContextPatt()
-    res = contextpatt.pmatch("id00", "DISEASE therapy",
-           "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.",
-                             ["contraceptive"])
-    print("TEST pmatch   ------  ", res)
-
-    ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
-    docu = contextpatt.load_text("data/sents.json")  # raw text document
-    patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
-    pattn = contextpatt.filter_exist("pairs/")
-    res = contextpatt.pattern_match("contraceptive therapy")
-    print ("TEST search  ------  ", res)
-
-
-    print("-"*50)
+    # contextpatt = ContextPatt()
+    # res = contextpatt.pmatch("id00", "DISEASE therapy",
+    #        "the DISEASE_D013923_Thromboembolic and other complications of oral contraceptive therapy in relationship to pretreatment levels of DISEASE_D001778_blood_coagulation factors: summary report of a ten-year study.During a ten-year period, 348 SPECIES_9606_women were studied for a total of 5,877 SPECIES_9606_patient months in four separate studies relating oral contraceptives to changes in hematologic parameters.Significant increases in certain factors of the DISEASE_D001778_blood_coagulation and fibrinolysin systems (factors I,II,VII,GENE_1351_VIII,IX, and X and plasminogen) were observed in the treated groups.Severe complications developed in four SPECIES_9606_patients.",
+    #                          ["contraceptive"])
+    # print("TEST pmatch   ------  ", res)
+    #
+    # ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their types
+    # docu = contextpatt.load_text("data/sents.json")  # raw text document
+    # patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
+    # pattn = contextpatt.filter_exist("pairs/")
+    # res = contextpatt.pattern_match("contraceptive therapy")
+    # print ("TEST search  ------  ", res)
+    #
+    #
+    # print("-"*50)
 
 
     structpatt = StructPatt()
 
 
     structpatt.load_pattern(filename="data/train_CRAFT_cnt_N_p.tsv")
-    structpatt.load_sentence(filename="data/train1_all.tsv")
-    structpatt.load_words(filename="data/train1_all.tsv")  # named entities and their types
+    # structpatt.load_sentence(filename="data/train1_all.tsv")
+    # structpatt.load_words(filename="data/train1_all.tsv")  # named entities and their types
     res = structpatt.pmatch(pattern="$W$ - $W$", string="@we@-@here@have@-@54@we@-@hihave@", withtype=0)
-    print("TEST pmatch   ------  ", res)
+    # print("TEST pmatch   ------  ", res)
 
     res = structpatt.pattern_match(string=["@The@conformation@of@EW29Ch@in@the@sugar@=-@free@state@was@similar@to@that@of@EW29Ch@in@complex@with@lactose@.",
                                            "@000@000000000000@00@000000@00@000@11111@00@0000@00000@000@0000000@00@0000@00@000000@00@0000000@0000@2222222@0"], withtype=1)
     print("TEST search  ------  ", res)
+
+    nouns = structpatt.pos_noun("@The@conformation@of@EW29Ch@in@the@sugar@=-@free@state@was@similar@to@that@of@EW29Ch@in@complex@with@lactose@.",)
+    print("POS Nouns  ------  ", nouns)
 

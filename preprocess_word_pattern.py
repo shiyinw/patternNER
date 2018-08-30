@@ -25,7 +25,7 @@ ne = contextpatt.load_ne("data/train1_all.tsv")  # named entities and their type
 docu = contextpatt.load_text("data/sents.json")  # raw text document
 patt = contextpatt.load_pattern("data/patternlist.xlsx") # patterns
 if REUSE:
-    patt = contextpatt.filter_exist("pairs/") # remains patterns
+    patt = contextpatt.filter_exist("data/pairs/") # remains patterns
 matches = []
 
 
@@ -42,7 +42,7 @@ def run (pattern):
         if (match != None):
             matches = matches + match["matches"]
     dict = {"id":id, "pattern":p, "matches":matches}
-    with open("pairs/" + str(id) + ":" + "_".join(p.split(" ")) + ".json", "w") as f:
+    with open("data/pairs/" + str(id) + ":" + "_".join(p.split(" ")) + ".json", "w") as f:
         json.dump(dict, f)
     return
 
