@@ -1,0 +1,69 @@
+# $ cd stanford-corenlp-full-2015-12-09/
+# $ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+
+
+
+
+# StructPatt
+
+
+import time
+start = time.time()
+from pycorenlp import StanfordCoreNLP
+import json
+nlp = StanfordCoreNLP('http://localhost:9000')
+
+
+nota = {"O":0, "S-GENE":2, "B-GENE":2, "I-GENE":2, "E-GENE":2, "S-Chemical":1, "B-Chemical":1, "I-Chemical":1, "E-Chemical":1, "1":1, "2":2, "0":0}
+
+def pos_noun(sentence):
+    sent = sentence.replace("@", " ")
+    res = nlp.annotate(sent, properties={'annotators': "pos", 'outputFormat': 'json'})
+    res = res["sentences"]
+    # print(sent)
+    noun_list = []
+    for word in res[0]['tokens']:
+        if (word['pos'][0] == 'N'):
+            noun_list.append(word['word'])
+    return noun_list
+
+
+
+
+
+# total 61300 sentences
+
+def load_sentence(filename):
+    string = ""
+    sent = []
+    start_time = time.time()
+    with open(filename, "r") as f:
+        cnt = 0
+        for line in f:
+            line = line[:-1]
+            segs = line.split("\t")
+            if (line != "\t\n" and line != "\n" and line != "\t" and len(segs) == 2 and segs[1] in nota):
+                string = string + " " + segs[0]
+            else:
+                nouns = pos_noun(string)
+                sent.append((string, nouns))
+                string = ""
+                cnt += 1
+                if(cnt %5e2==0):
+                    print(cnt, time.time()-start_time)
+                if(cnt %1e3==0):
+                    with open(str(cnt)+".json", "w") as f:
+                        json.dump(sent, f)
+                    sent = []
+
+    print("finish loading sentences: ", len(sent))
+    return sent
+
+
+
+sents = load_sentence("../train1.tsv")
+
+
+with open("final.json", "w") as f:
+    json.dump(sents, f)
+
