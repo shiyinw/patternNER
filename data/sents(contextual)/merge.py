@@ -1,9 +1,5 @@
-import time
 import json
 import os
-
-
-
 
 a = []
 if __name__ == "__main__":
@@ -12,8 +8,7 @@ if __name__ == "__main__":
             print(file)
             with open(file, "r") as f:
                 read = json.load(f)
-                #print(read)
-            a.extend(read)
+                a.extend(read)
 
 
 with open("../sents.json", "w") as f:
